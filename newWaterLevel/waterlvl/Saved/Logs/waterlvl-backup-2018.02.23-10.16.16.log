@@ -1,0 +1,1029 @@
+﻿Log file open, 02/23/18 10:06:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: waterlvl
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1186802645) SRandInit(1186802645).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.155784
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/UnrealEngineVersions/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.23-09.06.41:700][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.23-09.06.41:700][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.23-09.06.41:706][  0]LogInit: Computer: DESKTOP-CCJBLI0
+[2018.02.23-09.06.41:706][  0]LogInit: User: KnowledgeLab
+[2018.02.23-09.06.41:706][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.23-09.06.41:706][  0]LogInit: High frequency timer resolution =3.914066 MHz
+[2018.02.23-09.06.41:707][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.02.23-09.06.41:707][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.23-09.06.41:707][  0]LogMemory: Process Physical Memory: 278.61 MB used, 278.61 MB peak
+[2018.02.23-09.06.41:707][  0]LogMemory: Process Virtual Memory: 274.49 MB used, 274.49 MB peak
+[2018.02.23-09.06.41:707][  0]LogMemory: Physical Memory: 7018.81 MB used,  9300.73 MB free, 16319.54 MB total
+[2018.02.23-09.06.41:707][  0]LogMemory: Virtual Memory: 688.21 MB used,  9300.73 MB free, 134217728.00 MB total
+[2018.02.23-09.06.41:803][  0]LogInit: Using OS detected language (en-GB).
+[2018.02.23-09.06.41:803][  0]LogInit: Using OS detected locale (en-GB).
+[2018.02.23-09.06.41:806][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.02.23-09.06.42:412][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.23-09.06.42:456][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2018.02.23-09.06.42:456][  0]LogD3D11RHI:       6103/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.23-09.06.42:459][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.23-09.06.42:459][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.23-09.06.42:459][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.23-09.06.42:465][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.23-09.06.42:465][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.23-09.06.42:465][  0]LogWindows: EnumDisplayDevices:
+[2018.02.23-09.06.42:465][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2018.02.23-09.06.42:465][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.02.23-09.06.42:466][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.02.23-09.06.42:466][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.02.23-09.06.42:466][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.23-09.06.42:466][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2018.02.23-09.06.42:466][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.23-09.06.42:466][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.23-09.06.42:466][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.02.23-09.06.42:490][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.23-09.06.42:505][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.02.23-09.06.42:548][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Intermediate/Shaders/WorkingDirectory/9124/).
+[2018.02.23-09.06.42:548][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Knowledge Lab/AppData/Local/Temp/UnrealShaderWorkingDir/333FEBEF42D20112682453B6A1096922/'.
+[2018.02.23-09.06.42:548][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.23-09.06.43:300][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.23-09.06.43:342][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.23-09.06.43:392][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.23-09.06.43:429][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.23-09.06.43:465][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.23-09.06.43:502][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.23-09.06.43:539][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.23-09.06.43:577][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.23-09.06.43:608][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.23-09.06.43:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.23-09.06.43:680][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.23-09.06.43:717][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.23-09.06.43:753][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.23-09.06.43:790][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.23-09.06.43:825][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.23-09.06.43:897][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.23-09.06.43:898][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.23-09.06.43:924][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.23-09.06.43:996][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.23-09.06.44:015][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.23-09.06.44:051][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.23-09.06.44:087][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.23-09.06.44:123][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.23-09.06.44:160][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.23-09.06.44:160][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.23-09.06.44:586][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.23-09.06.44:664][  0]LogDerivedDataCache: Loaded boot cache 0.08s 106MB C:/Users/Knowledge Lab/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.23-09.06.44:664][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Knowledge Lab/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.02.23-09.06.44:664][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.23-09.06.44:664][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.23-09.06.44:664][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.23-09.06.44:664][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.23-09.06.44:678][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.23-09.06.44:691][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Knowledge Lab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.23-09.06.44:701][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.23-09.06.44:701][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.23-09.06.44:701][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.23-09.06.44:702][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.23-09.06.44:994][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.02.23-09.06.45:166][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.23-09.06.45:323][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.02.23-09.06.45:606][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.23-09.06.45:644][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.23-09.06.45:644][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.23-09.06.45:644][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.23-09.06.45:644][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.23-09.06.45:644][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.23-09.06.45:976][  0]LogNetVersion: waterlvl , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2354190466)
+[2018.02.23-09.06.46:182][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.052758 seconds
+[2018.02.23-09.06.46:189][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.02.23-09.06.46:189][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2018.02.23-09.06.46:189][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.23-09.06.46:254][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.23-09.06.48:764][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.23-09.06.48:802][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.23-09.06.49:333][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.23-09.06.49:664][  0]SourceControl: Source control is disabled
+[2018.02.23-09.06.49:664][  0]SourceControl: Source control is disabled
+[2018.02.23-09.06.49:703][  0]SourceControl: Source control is disabled
+[2018.02.23-09.06.49:743][  0]SourceControl: Source control is disabled
+[2018.02.23-09.06.50:205][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.23-09.06.50:404][  0]LogOcInput: OculusInput pre-init called
+[2018.02.23-09.06.50:608][  0]LogEngine: Initializing Engine...
+[2018.02.23-09.06.51:170][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-2F886810
+[2018.02.23-09.06.51:336][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.23-09.06.51:336][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.23-09.06.51:422][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.23-09.06.51:434][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.23-09.06.51:452][  0]LogInit: FAudioDevice initialized.
+[2018.02.23-09.06.51:580][  0]LogDerivedDataCache: Saved boot cache 0.13s 106MB C:/Users/Knowledge Lab/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.23-09.06.51:591][  0]LogInit: Texture streaming: Enabled
+[2018.02.23-09.06.51:658][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.23-09.06.51:809][  0]LogInit: Transaction tracking system initialized
+[2018.02.23-09.06.52:017][  0]BlueprintLog: New page: Editor Load
+[2018.02.23-09.06.52:607][  0]LocalizationService: Localization service is disabled
+[2018.02.23-09.06.53:092][  0]LogConsoleResponse: Display: 
+[2018.02.23-09.06.53:242][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.23-09.06.53:242][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.23-09.06.53:242][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.23-09.06.54:031][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/' took 0.01s
+[2018.02.23-09.06.54:069][  0]SourceControl: Source control is disabled
+[2018.02.23-09.06.54:090][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/UnrealEngineVersions/UE_4.17/FeaturePacks/StarterContent.upack)
+[2018.02.23-09.06.54:135][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.02.23-09.06.54:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.02.23-09.06.54:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.02.23-09.06.54:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.02.23-09.06.54:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.02.23-09.06.54:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.02.23-09.06.54:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.02.23-09.06.54:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.02.23-09.06.54:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.02.23-09.06.54:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.02.23-09.06.54:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.02.23-09.06.54:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.02.23-09.06.54:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.02.23-09.06.54:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.02.23-09.06.54:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.02.23-09.06.54:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.02.23-09.06.54:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.02.23-09.06.54:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.02.23-09.06.54:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Fire01.uasset"
+[2018.02.23-09.06.54:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.02.23-09.06.54:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.02.23-09.06.54:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.02.23-09.06.54:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Light01.uasset"
+[2018.02.23-09.06.54:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.02.23-09.06.54:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Light02.uasset"
+[2018.02.23-09.06.54:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.02.23-09.06.54:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.02.23-09.06.54:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.02.23-09.06.54:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.02.23-09.06.54:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.02.23-09.06.54:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.02.23-09.06.54:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.02.23-09.06.54:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.02.23-09.06.54:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.02.23-09.06.54:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Steam01.uasset"
+[2018.02.23-09.06.54:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.02.23-09.06.54:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.02.23-09.06.54:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.02.23-09.06.54:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.02.23-09.06.54:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.02.23-09.06.54:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.02.23-09.06.54:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.02.23-09.06.54:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.02.23-09.06.54:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.02.23-09.06.54:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.02.23-09.06.54:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.02.23-09.06.54:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.02.23-09.06.54:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.02.23-09.06.54:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.02.23-09.06.54:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.02.23-09.06.54:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.02.23-09.06.54:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.02.23-09.06.55:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.02.23-09.06.55:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.02.23-09.06.55:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.02.23-09.06.55:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.02.23-09.06.55:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.02.23-09.06.55:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Maps/StarterMap.umap"
+[2018.02.23-09.06.55:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.02.23-09.06.55:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.02.23-09.06.55:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.02.23-09.06.55:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.02.23-09.06.55:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.02.23-09.06.55:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.02.23-09.06.55:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.02.23-09.06.55:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.02.23-09.06.55:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.02.23-09.06.55:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.02.23-09.06.55:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.02.23-09.06.55:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.02.23-09.06.55:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.02.23-09.06.55:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.02.23-09.06.55:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.02.23-09.06.55:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.02.23-09.06.55:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.02.23-09.06.55:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.02.23-09.06.55:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.02.23-09.06.55:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.02.23-09.06.55:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.02.23-09.06.55:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.02.23-09.06.55:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.02.23-09.06.55:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.02.23-09.06.55:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.02.23-09.06.55:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.02.23-09.06.55:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.02.23-09.06.55:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.02.23-09.06.55:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.02.23-09.06.55:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.02.23-09.06.55:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.02.23-09.06.55:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.02.23-09.06.55:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.02.23-09.06.55:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.02.23-09.06.55:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.02.23-09.06.55:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.02.23-09.06.55:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.02.23-09.06.55:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.02.23-09.06.55:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.02.23-09.06.55:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.02.23-09.06.55:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.02.23-09.06.55:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.02.23-09.06.55:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.02.23-09.06.55:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.02.23-09.06.55:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.02.23-09.06.55:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.02.23-09.06.55:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.02.23-09.06.55:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.02.23-09.06.56:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.02.23-09.06.56:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.02.23-09.06.56:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.02.23-09.06.56:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.02.23-09.06.56:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.02.23-09.06.56:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.02.23-09.06.56:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.02.23-09.06.56:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.02.23-09.06.56:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.02.23-09.06.56:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.02.23-09.06.56:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.02.23-09.06.56:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.02.23-09.06.56:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.02.23-09.06.56:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.02.23-09.06.56:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.02.23-09.06.56:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.02.23-09.06.56:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.02.23-09.06.56:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/SM_Door.uasset"
+[2018.02.23-09.06.56:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.02.23-09.06.56:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.02.23-09.06.56:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.02.23-09.06.56:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.02.23-09.06.56:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.02.23-09.06.56:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.02.23-09.06.56:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.02.23-09.06.56:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.02.23-09.06.56:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.02.23-09.06.56:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.02.23-09.06.56:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.02.23-09.06.56:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.02.23-09.06.56:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.02.23-09.06.56:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.02.23-09.06.56:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.02.23-09.06.56:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.02.23-09.06.56:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.02.23-09.06.56:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.02.23-09.06.56:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.02.23-09.06.56:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.02.23-09.06.56:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.02.23-09.06.56:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.02.23-09.06.56:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.02.23-09.06.56:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.02.23-09.06.56:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.02.23-09.06.56:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.02.23-09.06.56:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.02.23-09.06.56:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.02.23-09.06.56:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.02.23-09.06.56:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.02.23-09.06.56:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.02.23-09.06.56:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.02.23-09.06.56:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.02.23-09.06.56:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.02.23-09.06.56:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.02.23-09.06.56:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.02.23-09.06.56:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.02.23-09.06.56:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.02.23-09.06.56:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.02.23-09.06.56:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.02.23-09.06.56:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.02.23-09.06.56:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.02.23-09.06.56:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.02.23-09.06.56:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.02.23-09.06.56:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.02.23-09.06.56:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.02.23-09.06.56:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.02.23-09.06.56:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.02.23-09.06.57:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.02.23-09.06.57:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.02.23-09.06.57:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.02.23-09.06.57:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.02.23-09.06.57:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.02.23-09.06.57:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.02.23-09.06.57:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.02.23-09.06.57:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.02.23-09.06.57:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.02.23-09.06.57:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.02.23-09.06.57:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.02.23-09.06.57:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.02.23-09.06.57:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.02.23-09.06.57:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.02.23-09.06.57:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.02.23-09.06.57:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.02.23-09.06.57:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.02.23-09.06.57:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.02.23-09.06.57:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.02.23-09.06.57:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.02.23-09.06.57:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.02.23-09.06.57:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.02.23-09.06.57:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.02.23-09.06.57:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.02.23-09.06.57:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.02.23-09.06.57:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.02.23-09.06.58:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.02.23-09.06.58:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.02.23-09.06.58:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.02.23-09.06.58:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.02.23-09.06.58:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.02.23-09.06.58:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.02.23-09.06.58:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.02.23-09.06.58:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.02.23-09.06.58:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.02.23-09.06.58:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.02.23-09.06.58:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.02.23-09.06.58:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.02.23-09.06.58:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.02.23-09.06.58:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.02.23-09.06.58:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.02.23-09.06.58:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.02.23-09.06.58:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.02.23-09.06.58:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.02.23-09.06.58:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.02.23-09.06.58:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.02.23-09.06.58:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.02.23-09.06.58:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.02.23-09.06.58:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.02.23-09.06.58:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.02.23-09.06.58:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.02.23-09.06.58:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.02.23-09.06.59:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.02.23-09.06.59:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.02.23-09.06.59:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.02.23-09.06.59:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.02.23-09.06.59:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.02.23-09.06.59:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.02.23-09.06.59:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.02.23-09.06.59:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.02.23-09.06.59:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.02.23-09.06.59:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.02.23-09.06.59:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.02.23-09.06.59:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.02.23-09.06.59:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.02.23-09.06.59:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.02.23-09.06.59:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.02.23-09.06.59:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.02.23-09.06.59:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.02.23-09.06.59:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.02.23-09.06.59:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.02.23-09.06.59:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.02.23-09.06.59:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.02.23-09.07.00:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.02.23-09.07.00:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.02.23-09.07.00:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.02.23-09.07.00:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.02.23-09.07.00:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.02.23-09.07.00:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.02.23-09.07.00:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.02.23-09.07.00:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.02.23-09.07.00:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.02.23-09.07.00:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.02.23-09.07.00:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.02.23-09.07.00:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.02.23-09.07.00:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.02.23-09.07.00:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.02.23-09.07.00:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.02.23-09.07.00:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.02.23-09.07.00:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.02.23-09.07.00:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.02.23-09.07.00:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.02.23-09.07.00:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.02.23-09.07.00:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.02.23-09.07.00:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.02.23-09.07.00:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.02.23-09.07.00:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.02.23-09.07.00:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.02.23-09.07.00:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.02.23-09.07.00:642][  0]LogMaterial: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2018.02.23-09.07.00:739][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2018.02.23-09.07.00:787][  0]LogStaticMesh: Built static mesh [0.05s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2018.02.23-09.07.00:890][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 26 NumSamples 1 (Frame:1).
+[2018.02.23-09.07.01:020][  0]LogSavePackage: Save=81.16ms
+[2018.02.23-09.07.01:020][  0]LogSavePackage: Moving 'C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Saved/Floor_400x4001FE60A204ABBA202E445BB9B522F7A09.tmp' to 'C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.02.23-09.07.01:024][  0]LogSavePackage: Display: Finished SavePackage C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.02.23-09.07.01:025][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.02.23-09.07.01:026][  0]Cmd: MAP LOAD FILE="C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.23-09.07.01:027][  0]LightingResults: New page: Lighting Build
+[2018.02.23-09.07.01:060][  0]MapCheck: New page: Map Check
+[2018.02.23-09.07.01:060][  0]LightingResults: New page: Lighting Build
+[2018.02.23-09.07.01:289][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.02.23-09.07.01:296][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.23-09.07.01:305][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.23-09.07.01:374][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.261ms to complete.
+[2018.02.23-09.07.01:374][  0]LogFileHelpers: Loading map 'StartupMap' took 0.348
+[2018.02.23-09.07.01:420][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.23-09.07.01:487][  0]LogCollectionManager: Loaded 0 collections in 0.001238 seconds
+[2018.02.23-09.07.01:569][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Saved/Collections/' took 0.01s
+[2018.02.23-09.07.01:569][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/Developers/KnowledgeLab/Collections/' took 0.01s
+[2018.02.23-09.07.01:569][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/Collections/' took 0.01s
+[2018.02.23-09.07.01:569][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.23-09.07.01:576][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 2386 classes and 500 folders.
+[2018.02.23-09.07.01:630][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.02.23-09.07.01:688][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.02.23-09.07.01:731][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.02.23-09.07.01:802][  0]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.23-09.07.01:803][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.23-09.07.01:808][  0]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.23-09.07.01:850][  0]LogRenderer: Reallocating scene render targets to support 1048x652 Format 26 NumSamples 1 (Frame:1).
+[2018.02.23-09.07.01:889][  0]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.23-09.07.02:013][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.02.23-09.07.02:013][  0]LogLoad: (Engine Initialization) Total time: 21.80 seconds
+[2018.02.23-09.07.02:013][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.23-09.07.02:013][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.23-09.07.02:013][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.23-09.07.02:706][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.23-09.07.02:761][  1]LogAssetRegistry: Asset discovery search completed in 17.7887 seconds
+[2018.02.23-09.07.02:763][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.23-09.07.02:763][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2018.02.23-09.07.54:497][558]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.23-09.07.54:575][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.23-09.07.54:575][558]PIE: New page: PIE session: StartupMap (23 Feb 2018 11:07:54)
+[2018.02.23-09.07.54:575][558]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.02.23-09.07.54:621][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045455s)
+[2018.02.23-09.07.54:621][558]LogAIModule: Creating AISystem for world StartupMap
+[2018.02.23-09.07.54:621][558]LogPlayLevel: PIE: World Init took: (0.000520s)
+[2018.02.23-09.07.54:621][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.046156s)
+[2018.02.23-09.07.54:635][558]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.23-09.07.54:647][558]LogInit: FAudioDevice initialized.
+[2018.02.23-09.07.54:687][558]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.23-09.07.54:687][558]LogLoad: Game class is 'GameModeBase'
+[2018.02.23-09.07.54:690][558]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.02.23-10.07.54
+[2018.02.23-09.07.54:690][558]LogWorld: Bringing up level for play took: 0.001228
+[2018.02.23-09.07.54:718][558]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.02.23-09.07.54:732][558]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.147
+[2018.02.23-09.07.54:754][559]LogRenderer: Reallocating scene render targets to support 1468x916 Format 26 NumSamples 1 (Frame:1).
+[2018.02.23-09.08.00:787][274]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.23-09.08.00:787][274]PIE: New page: PIE session: StartupMap (23 Feb 2018 11:08:00)
+[2018.02.23-09.08.00:787][274]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.02.23-09.08.00:790][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003218s)
+[2018.02.23-09.08.00:790][274]LogAIModule: Creating AISystem for world StartupMap
+[2018.02.23-09.08.00:790][274]LogPlayLevel: PIE: World Init took: (0.000470s)
+[2018.02.23-09.08.00:791][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.003881s)
+[2018.02.23-09.08.00:804][274]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.23-09.08.00:815][274]LogInit: FAudioDevice initialized.
+[2018.02.23-09.08.00:896][274]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.23-09.08.00:896][274]LogLoad: Game class is 'GameModeBase'
+[2018.02.23-09.08.00:898][274]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.02.23-10.08.00
+[2018.02.23-09.08.00:898][274]LogWorld: Bringing up level for play took: 0.001488
+[2018.02.23-09.08.00:902][274]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 0.023
+[2018.02.23-09.08.00:944][275]LogRenderer: Reallocating scene render targets to support 3024x1680 Format 26 NumSamples 1 (Frame:1).
+[2018.02.23-09.08.37:670][982]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.23-09.08.38:401][982]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.23-09.08.38:419][982]Cmd: MAP LOAD FILE="C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.23-09.08.38:420][982]LightingResults: New page: Lighting Build
+[2018.02.23-09.08.38:420][982]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2018.02.23-09.08.38:421][982]MapCheck: New page: Map Check
+[2018.02.23-09.08.38:421][982]LightingResults: New page: Lighting Build
+[2018.02.23-09.08.38:479][982]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.23-09.08.38:500][982]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.23-09.08.38:559][982]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.731ms to complete.
+[2018.02.23-09.08.38:559][982]LogFileHelpers: Loading map 'MotionControllerMap' took 0.140
+[2018.02.23-09.08.40:654][230]LogTemp: Repeating last play command: VR Preview
+[2018.02.23-09.08.40:660][230]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.23-09.08.40:660][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.23-09.08.40:660][230]PIE: New page: PIE session: MotionControllerMap (23 Feb 2018 11:08:40)
+[2018.02.23-09.08.40:660][230]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.02.23-09.08.40:666][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006466s)
+[2018.02.23-09.08.40:667][230]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.23-09.08.40:667][230]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2018.02.23-09.08.40:667][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.007252s)
+[2018.02.23-09.08.40:681][230]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.23-09.08.40:693][230]LogInit: FAudioDevice initialized.
+[2018.02.23-09.08.40:767][230]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.23-09.08.40:767][230]LogLoad: Game class is 'GameModeBase'
+[2018.02.23-09.08.40:769][230]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.02.23-10.08.40
+[2018.02.23-09.08.40:769][230]LogWorld: Bringing up level for play took: 0.001522
+[2018.02.23-09.08.40:828][230]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.051
+[2018.02.23-09.08.40:828][230]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.23-09.09.00:718][430]LogSteamVRController: Controller role for device 3 is 0 (invalid=0, left=1, right=2).
+[2018.02.23-09.09.00:718][430]LogSteamVRController: Warning: Controller device 3 has no role set.  There is no 'right' controller according to steamvr, so we are pickign that.
+[2018.02.23-09.09.00:718][430]LogSteamVRController: Controller role for device 4 is 0 (invalid=0, left=1, right=2).
+[2018.02.23-09.09.00:718][430]LogSteamVRController: Putting controller 4 on the left hand because there is already a controller for the right.
+[2018.02.23-09.09.52:645][489]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.23-09.09.52:801][489]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.23-09.10.13:961][990]LogEditorActor: Deleted Actor: Brush
+[2018.02.23-09.10.13:991][990]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.02.23-09.10.17:724][270]Cmd: TRANSACTION UNDO
+[2018.02.23-09.10.17:724][270]LogEditorTransaction: Undo Select Brush Surface
+[2018.02.23-09.10.17:735][270]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.23-09.10.18:299][337]Cmd: TRANSACTION UNDO
+[2018.02.23-09.10.18:299][337]LogEditorTransaction: Undo Delete selection
+[2018.02.23-09.10.18:302][337]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2018.02.23-09.10.18:302][337]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.02.23-09.10.23:068][885]Cmd: DELETE
+[2018.02.23-09.10.23:068][885]Cmd: ACTOR DELETE
+[2018.02.23-09.10.23:104][885]LogEditorActor: Deleted Actor: Brush
+[2018.02.23-09.10.23:129][885]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.02.23-09.10.25:006][105]Cmd: DELETE
+[2018.02.23-09.10.25:006][105]Cmd: ACTOR DELETE
+[2018.02.23-09.10.25:007][105]LogEditorActor: Deleted Actor: Brush
+[2018.02.23-09.10.25:027][105]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.02.23-09.10.35:112][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.23-09.10.35:112][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.23-09.10.35:112][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.23-09.10.35:112][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.23-09.10.35:112][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.23-09.10.35:112][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.23-09.10.35:112][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.23-09.10.35:112][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.23-09.10.35:112][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.23-09.10.35:112][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.23-09.10.35:112][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.23-09.10.35:112][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.23-09.10.35:112][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.23-09.10.35:113][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.23-09.10.35:113][291]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2018.02.23-09.10.35:113][291]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2018.02.23-09.10.35:113][291]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2018.02.23-09.10.35:113][291]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2018.02.23-09.10.35:113][291]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2018.02.23-09.10.35:113][291]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2018.02.23-09.10.35:113][291]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2018.02.23-09.10.35:113][291]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2018.02.23-09.10.35:113][291]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2018.02.23-09.10.35:113][291]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2018.02.23-09.10.35:114][291]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2018.02.23-09.10.35:114][291]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2018.02.23-09.10.35:114][291]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2018.02.23-09.10.35:114][291]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2018.02.23-09.10.35:114][291]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2018.02.23-09.10.35:114][291]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2018.02.23-09.10.35:114][291]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2018.02.23-09.10.35:121][291]LogEditorActor: Deleted 31 Actors (0.010 secs)
+[2018.02.23-09.10.38:616][705]LogEditorActor: Deleted Actor: NavModifierVolume
+[2018.02.23-09.10.38:616][705]LogEditorActor: Deleted Actor: NavModifierVolume
+[2018.02.23-09.10.38:616][705]LogEditorActor: Deleted Actor: NavModifierVolume
+[2018.02.23-09.10.38:616][705]LogEditorActor: Deleted Actor: NavModifierVolume
+[2018.02.23-09.10.38:616][705]LogEditorActor: Deleted Actor: NavModifierVolume
+[2018.02.23-09.10.38:617][705]LogEditorActor: Deleted Actor: NavModifierVolume
+[2018.02.23-09.10.38:617][705]LogEditorActor: Deleted Actor: NavModifierVolume
+[2018.02.23-09.10.38:617][705]LogEditorActor: Deleted Actor: NavModifierVolume
+[2018.02.23-09.10.38:617][705]LogEditorActor: Deleted Actor: NavModifierVolume
+[2018.02.23-09.10.38:617][705]LogEditorActor: Deleted Actor: NavModifierVolume
+[2018.02.23-09.10.38:617][705]LogEditorActor: Deleted Actor: NavModifierVolume
+[2018.02.23-09.10.38:617][705]LogEditorActor: Deleted Actor: NavModifierVolume
+[2018.02.23-09.10.38:617][705]LogEditorActor: Deleted Actor: NavModifierVolume
+[2018.02.23-09.10.38:624][705]LogEditorActor: Deleted 13 Actors (0.008 secs)
+[2018.02.23-09.10.44:144][360]Cmd: DELETE
+[2018.02.23-09.10.44:144][360]Cmd: ACTOR DELETE
+[2018.02.23-09.10.44:144][360]LogEditorActor: Deleted Actor: Brush
+[2018.02.23-09.10.44:157][360]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.02.23-09.10.48:516][880]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor3)
+[2018.02.23-09.10.49:416][982]Cmd: DELETE
+[2018.02.23-09.10.49:416][982]Cmd: ACTOR DELETE
+[2018.02.23-09.10.49:417][982]LogEditorActor: Deleted Actor: TextRenderActor
+[2018.02.23-09.10.49:424][982]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2018.02.23-09.10.50:185][ 73]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2018.02.23-09.10.50:378][ 91]Cmd: DELETE
+[2018.02.23-09.10.50:378][ 91]Cmd: ACTOR DELETE
+[2018.02.23-09.10.50:378][ 91]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2018.02.23-09.10.50:386][ 91]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2018.02.23-09.10.57:877][859]LogEditorActor: Deleted Actor: TextRenderActor
+[2018.02.23-09.10.57:884][859]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2018.02.23-09.10.58:624][946]LogEditorActor: Deleted Actor: TextRenderActor
+[2018.02.23-09.10.58:631][946]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2018.02.23-09.11.18:862][317]Cmd: TRANSACTION UNDO
+[2018.02.23-09.11.18:862][317]LogEditorTransaction: Undo Move Actors
+[2018.02.23-09.11.18:864][317]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.02.23-09.11.19:144][345]Cmd: TRANSACTION UNDO
+[2018.02.23-09.11.19:144][345]LogEditorTransaction: Undo Select Brush Surface
+[2018.02.23-09.11.19:742][413]Cmd: TRANSACTION UNDO
+[2018.02.23-09.11.19:742][413]LogEditorTransaction: Undo Move Actors
+[2018.02.23-09.11.19:744][413]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.02.23-09.11.23:644][846]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.02.23-09.11.36:158][296]Cmd: TRANSACTION UNDO
+[2018.02.23-09.11.36:158][296]LogEditorTransaction: Undo Move Actors
+[2018.02.23-09.11.36:160][296]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.02.23-09.11.38:035][513]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.02.23-09.12.11:583][501]Cmd: EDIT COPY
+[2018.02.23-09.12.11:885][537]Cmd: EDIT PASTE
+[2018.02.23-09.12.55:107][688]LogStaticMesh: Building static mesh waterMesh...
+[2018.02.23-09.12.55:108][688]LogStaticMesh: Built static mesh [0.00s] /Game/waterMesh.waterMesh
+[2018.02.23-09.12.55:111][688]LogActorFactory: Actor Factory created waterMesh
+[2018.02.23-09.12.55:138][688]LogEditor: Error: Actor 'Brush /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BoxBrush3_1' is marked pending kill and cannot be converted
+[2018.02.23-09.12.55:138][688]EditorErrors: New page: Actor Reattachment
+[2018.02.23-09.13.04:441][789]LogMaterial: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2018.02.23-09.13.26:335][367]LogSlate: Took 0.034951 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.23-09.13.32:045][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (waterMesh)
+[2018.02.23-09.13.40:625][  9]LogMaterial: Missing cached shader map for material M_Water_Lake, compiling. 
+[2018.02.23-09.14.03:305][661]Cmd: DELETE
+[2018.02.23-09.14.03:305][661]Cmd: ACTOR DELETE
+[2018.02.23-09.14.03:305][661]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.23-09.14.03:312][661]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2018.02.23-09.14.13:977][792]Cmd: EDIT COPY
+[2018.02.23-09.14.14:203][819]Cmd: EDIT PASTE
+[2018.02.23-09.14.19:168][403]LogStaticMesh: Building static mesh water...
+[2018.02.23-09.14.19:169][403]LogStaticMesh: Built static mesh [0.00s] /Game/water.water
+[2018.02.23-09.14.19:174][403]LogActorFactory: Actor Factory created water
+[2018.02.23-09.14.19:196][403]LogEditor: Error: Actor 'Brush /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.BoxBrush3' is marked pending kill and cannot be converted
+[2018.02.23-09.14.19:196][403]EditorErrors: New page: Actor Reattachment
+[2018.02.23-09.15.11:772][387]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 113 classes and 0 folders.
+[2018.02.23-09.15.12:385][387]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.23-09.15.57:718][767]LogSavePackage: Save=51.54ms
+[2018.02.23-09.15.57:719][767]LogSavePackage: Moving 'C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Saved/MotionControllerMap621F58E64E3D34BE441D8BB9FA7A88BC.tmp' to 'C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.02.23-09.15.57:723][767]LogSavePackage: Display: Finished SavePackage C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.02.23-09.15.57:731][767]LogFileHelpers: Saving map 'MotionControllerMap' took 0.149
+[2018.02.23-09.15.57:747][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/water" FILE="C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/water.uasset" SILENT=true
+[2018.02.23-09.15.57:759][767]LogSavePackage: Save=9.44ms
+[2018.02.23-09.15.57:759][767]LogSavePackage: Moving 'C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Saved/water2D4C4A5646394CCC6F3B27B988B3BFE8.tmp' to 'C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/water.uasset'
+[2018.02.23-09.15.57:763][767]LogSavePackage: Display: Finished SavePackage C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/water.uasset
+[2018.02.23-09.15.57:774][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/waterLevel" FILE="C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/waterLevel.uasset" SILENT=true
+[2018.02.23-09.15.57:791][767]LogSavePackage: Save=15.22ms
+[2018.02.23-09.15.57:791][767]LogSavePackage: Moving 'C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Saved/waterLevelE312A0F747D12E277B42748EEF7463EC.tmp' to 'C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/waterLevel.uasset'
+[2018.02.23-09.15.57:795][767]LogSavePackage: Display: Finished SavePackage C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/waterLevel.uasset
+[2018.02.23-09.15.58:023][768]Cmd: QUIT_EDITOR
+[2018.02.23-09.15.58:876][768]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.23-09.15.58:885][768]LogExit: Preparing to exit.
+[2018.02.23-09.16.00:123][768]LogExit: Editor shut down
+[2018.02.23-09.16.00:126][768]LogExit: Transaction tracking system shut down
+[2018.02.23-09.16.00:270][768]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.23-09.16.00:270][768]LogDirectoryWatcher: A directory notification for 'C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/' was aborted.
+[2018.02.23-09.16.00:270][768]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.23-09.16.00:270][768]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.23-09.16.00:270][768]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.23-09.16.00:329][768]LogExit: Object subsystem successfully closed.
+[2018.02.23-09.16.00:351][768]LogD3D11RHI: Shutdown
+[2018.02.23-09.16.00:351][768]LogD3D11RHI: CleanupD3DDevice
+[2018.02.23-09.16.00:353][768]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.23-09.16.00:361][768]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (538)
+[2018.02.23-09.16.00:361][768]LogModuleManager: Shutting down and abandoning module BlueprintGraph (536)
+[2018.02.23-09.16.00:361][768]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (534)
+[2018.02.23-09.16.00:361][768]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2018.02.23-09.16.00:361][768]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2018.02.23-09.16.00:361][768]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2018.02.23-09.16.00:361][768]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2018.02.23-09.16.00:361][768]LogDirectoryWatcher: A directory notification for 'D:/UnrealEngineVersions/UE_4.17/FeaturePacks/' was aborted.
+[2018.02.23-09.16.00:362][768]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2018.02.23-09.16.00:362][768]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2018.02.23-09.16.00:362][768]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2018.02.23-09.16.00:362][768]LogDirectoryWatcher: A directory notification for 'C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/Collections/' was aborted.
+[2018.02.23-09.16.00:362][768]LogDirectoryWatcher: A directory notification for 'C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Content/Developers/KnowledgeLab/Collections/' was aborted.
+[2018.02.23-09.16.00:362][768]LogDirectoryWatcher: A directory notification for 'C:/Users/Knowledge Lab/Desktop/newWaterLevel/waterlvl/Saved/Collections/' was aborted.
+[2018.02.23-09.16.00:362][768]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2018.02.23-09.16.00:362][768]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.02.23-09.16.00:362][768]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.02.23-09.16.00:362][768]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.02.23-09.16.00:362][768]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.02.23-09.16.00:362][768]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module Media (477)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2018.02.23-09.16.00:363][768]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2018.02.23-09.16.01:037][768]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2018.02.23-09.16.01:038][768]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2018.02.23-09.16.01:103][768]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2018.02.23-09.16.01:103][768]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2018.02.23-09.16.01:103][768]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2018.02.23-09.16.01:103][768]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2018.02.23-09.16.01:103][768]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2018.02.23-09.16.01:103][768]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2018.02.23-09.16.01:103][768]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2018.02.23-09.16.01:104][768]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2018.02.23-09.16.01:104][768]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2018.02.23-09.16.01:104][768]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2018.02.23-09.16.01:108][768]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2018.02.23-09.16.01:109][768]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2018.02.23-09.16.01:109][768]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2018.02.23-09.16.01:109][768]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2018.02.23-09.16.01:109][768]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2018.02.23-09.16.01:109][768]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2018.02.23-09.16.01:109][768]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2018.02.23-09.16.01:110][768]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2018.02.23-09.16.01:110][768]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2018.02.23-09.16.01:110][768]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2018.02.23-09.16.01:110][768]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2018.02.23-09.16.01:110][768]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2018.02.23-09.16.01:110][768]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2018.02.23-09.16.01:110][768]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2018.02.23-09.16.01:110][768]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2018.02.23-09.16.01:110][768]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2018.02.23-09.16.01:110][768]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2018.02.23-09.16.01:110][768]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2018.02.23-09.16.01:110][768]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2018.02.23-09.16.01:110][768]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2018.02.23-09.16.01:110][768]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2018.02.23-09.16.01:155][768]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2018.02.23-09.16.01:156][768]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2018.02.23-09.16.01:156][768]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2018.02.23-09.16.01:156][768]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2018.02.23-09.16.01:156][768]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2018.02.23-09.16.01:156][768]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2018.02.23-09.16.01:156][768]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.02.23-09.16.01:156][768]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.02.23-09.16.01:156][768]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2018.02.23-09.16.01:156][768]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2018.02.23-09.16.01:157][768]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2018.02.23-09.16.01:157][768]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2018.02.23-09.16.01:157][768]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2018.02.23-09.16.01:157][768]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2018.02.23-09.16.01:157][768]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2018.02.23-09.16.01:157][768]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2018.02.23-09.16.01:157][768]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2018.02.23-09.16.01:157][768]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2018.02.23-09.16.01:258][768]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2018.02.23-09.16.01:358][768]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2018.02.23-09.16.01:358][768]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2018.02.23-09.16.01:358][768]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2018.02.23-09.16.01:358][768]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2018.02.23-09.16.01:358][768]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2018.02.23-09.16.01:358][768]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2018.02.23-09.16.01:358][768]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2018.02.23-09.16.01:358][768]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2018.02.23-09.16.01:358][768]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2018.02.23-09.16.01:358][768]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2018.02.23-09.16.01:360][768]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2018.02.23-09.16.01:360][768]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2018.02.23-09.16.01:360][768]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2018.02.23-09.16.01:360][768]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2018.02.23-09.16.01:360][768]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2018.02.23-09.16.01:360][768]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2018.02.23-09.16.01:360][768]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2018.02.23-09.16.01:360][768]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2018.02.23-09.16.01:360][768]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2018.02.23-09.16.01:360][768]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2018.02.23-09.16.01:360][768]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2018.02.23-09.16.01:360][768]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2018.02.23-09.16.01:360][768]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2018.02.23-09.16.01:360][768]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2018.02.23-09.16.01:360][768]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2018.02.23-09.16.01:360][768]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2018.02.23-09.16.01:360][768]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2018.02.23-09.16.01:360][768]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2018.02.23-09.16.01:360][768]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2018.02.23-09.16.01:360][768]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2018.02.23-09.16.01:362][768]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2018.02.23-09.16.01:362][768]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2018.02.23-09.16.01:362][768]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2018.02.23-09.16.01:362][768]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2018.02.23-09.16.01:362][768]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2018.02.23-09.16.01:362][768]LogModuleManager: Shutting down and abandoning module Core (168)
+[2018.02.23-09.16.01:362][768]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.23-09.16.01:362][768]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2018.02.23-09.16.01:362][768]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2018.02.23-09.16.01:362][768]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2018.02.23-09.16.01:362][768]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2018.02.23-09.16.01:362][768]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2018.02.23-09.16.01:362][768]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2018.02.23-09.16.01:362][768]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2018.02.23-09.16.01:362][768]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2018.02.23-09.16.01:362][768]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2018.02.23-09.16.01:363][768]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.02.23-09.16.01:384][768]LogDerivedDataCache: Shutdown
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.23-09.16.01:384][768]LogOnline: Display: Unloading online subsystem: NULL
+[2018.02.23-09.16.01:384][768]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.23-09.16.01:385][768]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.23-09.16.01:385][768]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.23-09.16.01:385][768]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2C499715-4D27-A175-727D-E2AA51A48582%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=453e572b4740206f2545d8b84d8c7e30%7Cd234867c527243e68ee516c010a02b3d%7C7a831eb8-f404-4670-82b6-35feb95aab68&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.23-09.16.01:397][768]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.23-09.16.01:398][768]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.23-09.16.01:398][768]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.23-09.16.01:398][768]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.23-09.16.01:398][768]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.23-09.16.01:398][768]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.23-09.16.01:398][768]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.23-09.16.01:398][768]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.23-09.16.01:399][768]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.23-09.16.01:399][768]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.23-09.16.01:399][768]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.23-09.16.01:399][768]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.23-09.16.01:399][768]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.23-09.16.01:399][768]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.23-09.16.01:399][768]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.23-09.16.01:399][768]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.23-09.16.01:399][768]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.23-09.16.01:399][768]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.23-09.16.01:399][768]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.23-09.16.01:401][768]LogExit: Exiting.
+[2018.02.23-09.16.01:407][768]Log file closed, 02/23/18 10:16:01

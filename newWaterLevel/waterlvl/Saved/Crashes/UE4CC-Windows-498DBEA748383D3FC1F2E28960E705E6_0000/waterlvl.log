@@ -1,0 +1,1899 @@
+﻿Log file open, 02/23/18 13:07:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: waterlvl
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1177035628) SRandInit(-1177035628).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.163344
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.23-12.07.48:157][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.23-12.07.48:157][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.23-12.07.48:169][  0]LogInit: Computer: DESKTOP-KEL6A7A
+[2018.02.23-12.07.48:169][  0]LogInit: User: Johan
+[2018.02.23-12.07.48:169][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.23-12.07.48:170][  0]LogInit: High frequency timer resolution =3.515621 MHz
+[2018.02.23-12.07.48:170][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.02.23-12.07.48:170][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.23-12.07.48:170][  0]LogMemory: Process Physical Memory: 280.28 MB used, 280.28 MB peak
+[2018.02.23-12.07.48:170][  0]LogMemory: Process Virtual Memory: 274.21 MB used, 274.21 MB peak
+[2018.02.23-12.07.48:170][  0]LogMemory: Physical Memory: 7117.35 MB used,  9234.63 MB free, 16351.97 MB total
+[2018.02.23-12.07.48:170][  0]LogMemory: Virtual Memory: 702.65 MB used,  9234.63 MB free, 134217728.00 MB total
+[2018.02.23-12.07.48:291][  0]LogInit: Using OS detected language (en-US).
+[2018.02.23-12.07.48:291][  0]LogInit: Using OS detected locale (sv-SE).
+[2018.02.23-12.07.48:294][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.23-12.07.48:294][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en-US' will be used for the locale.
+[2018.02.23-12.07.48:850][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.23-12.07.48:898][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.02.23-12.07.48:898][  0]LogD3D11RHI:       6061/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.02.23-12.07.48:899][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.23-12.07.48:899][  0]LogD3D11RHI:       0/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.23-12.07.48:899][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.23-12.07.48:905][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.23-12.07.48:905][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.23-12.07.48:905][  0]LogWindows: EnumDisplayDevices:
+[2018.02.23-12.07.48:905][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.02.23-12.07.48:905][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.02.23-12.07.48:905][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.02.23-12.07.48:905][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.02.23-12.07.48:905][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.23-12.07.48:905][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.02.23-12.07.48:905][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.23-12.07.48:905][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.23-12.07.48:905][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.02.23-12.07.48:929][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.23-12.07.48:981][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.23-12.07.49:071][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Intermediate/Shaders/WorkingDirectory/6428/).
+[2018.02.23-12.07.49:071][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Johan/AppData/Local/Temp/UnrealShaderWorkingDir/E2166E2C4104B53B470124A34D890786/'.
+[2018.02.23-12.07.49:071][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.23-12.07.49:851][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.23-12.07.49:891][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.23-12.07.49:929][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.23-12.07.49:970][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.23-12.07.50:013][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.23-12.07.50:055][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.23-12.07.50:095][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.23-12.07.50:136][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.23-12.07.50:171][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.23-12.07.50:210][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.23-12.07.50:248][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.23-12.07.50:286][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.23-12.07.50:325][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.23-12.07.50:364][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.23-12.07.50:401][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.23-12.07.50:479][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.23-12.07.50:479][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.23-12.07.50:510][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.23-12.07.50:587][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.23-12.07.50:609][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.23-12.07.50:656][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.23-12.07.50:697][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.23-12.07.50:737][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.23-12.07.50:775][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.23-12.07.50:776][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.23-12.07.51:142][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.23-12.07.51:209][  0]LogDerivedDataCache: Loaded boot cache 0.07s 93MB C:/Users/Johan/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.23-12.07.51:209][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Johan/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.02.23-12.07.51:209][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.23-12.07.51:209][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.23-12.07.51:209][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.23-12.07.51:209][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.23-12.07.51:222][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.23-12.07.51:234][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Johan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.23-12.07.51:254][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.23-12.07.51:254][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.23-12.07.51:255][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.23-12.07.51:255][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.23-12.07.51:466][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
+[2018.02.23-12.07.51:556][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.23-12.07.51:708][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.02.23-12.07.51:726][  0]LogMaterial: Missing cached shader map for material DefaultDeferredDecalMaterial, compiling. 
+[2018.02.23-12.07.59:230][  0]LogMaterial: Missing cached shader map for material DefaultLightFunctionMaterial, compiling. 
+[2018.02.23-12.08.00:127][  0]LogMaterial: Missing cached shader map for material DefaultPostProcessMaterial, compiling. 
+[2018.02.23-12.08.00:932][  0]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.02.23-12.08.40:736][  0]LogMaterial: Missing cached shader map for material SnapGridMaterial, compiling. 
+[2018.02.23-12.08.41:000][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.23-12.08.41:051][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.23-12.08.41:051][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.23-12.08.41:051][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.23-12.08.41:051][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.23-12.08.41:051][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.23-12.08.41:073][  0]LogMaterial: Missing cached shader map for material TranslucentTransformGizmoMaterial, compiling. 
+[2018.02.23-12.08.41:086][  0]LogMaterial: Missing cached shader map for material TransformGizmoMaterial, compiling. 
+[2018.02.23-12.08.41:110][  0]LogMaterial: Missing cached shader map for material Xray, compiling. 
+[2018.02.23-12.08.41:130][  0]LogMaterial: Missing cached shader map for material Main, compiling. 
+[2018.02.23-12.08.41:155][  0]LogMaterial: Missing cached shader map for material CineMat, compiling. 
+[2018.02.23-12.08.41:219][  0]LogMaterial: Missing cached shader map for material MatineeCam_mat, compiling. 
+[2018.02.23-12.08.41:252][  0]LogMaterial: Missing cached shader map for material M_SimpleOpaque, compiling. 
+[2018.02.23-12.08.41:280][  0]LogMaterial: Missing cached shader map for material M_SimpleTranslucent, compiling. 
+[2018.02.23-12.08.41:522][  0]LogMaterial: Missing cached shader map for material SkySphereMaterial, compiling. 
+[2018.02.23-12.08.41:540][  0]LogMaterial: Missing cached shader map for material FloorPlaneMaterial, compiling. 
+[2018.02.23-12.08.41:664][  0]LogMaterial: Missing cached shader map for material LandscapeGizmo_Mat, compiling. 
+[2018.02.23-12.08.41:698][  0]LogMaterial: Missing cached shader map for material LandscapeGizmoHeight_Mat, compiling. 
+[2018.02.23-12.08.41:769][  0]LogMaterial: Missing cached shader map for material SplineEditorMeshMat, compiling. 
+[2018.02.23-12.08.41:815][  0]LogNetVersion: waterlvl , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2354190466)
+[2018.02.23-12.08.41:863][  0]LogMaterial: Missing cached shader map for material HelpActorMaterial, compiling. 
+[2018.02.23-12.08.42:016][  0]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2018.02.23-12.08.42:248][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.061999 seconds
+[2018.02.23-12.08.42:256][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.02.23-12.08.42:256][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2018.02.23-12.08.42:256][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.23-12.08.42:337][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.23-12.08.44:081][  0]LogMaterial: Missing cached shader map for material TeleportDirectionMaterial, compiling. 
+[2018.02.23-12.08.44:109][  0]LogMaterial: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2018.02.23-12.08.44:137][  0]LogMaterial: Missing cached shader map for material OculusControllerMaterial, compiling. 
+[2018.02.23-12.08.44:163][  0]LogMaterial: Missing cached shader map for material VivePreControllerMaterial, compiling. 
+[2018.02.23-12.08.44:189][  0]LogMaterial: Missing cached shader map for material GridPostProcess, compiling. 
+[2018.02.23-12.08.44:200][  0]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.02.23-12.08.44:214][  0]LogMaterial: Missing cached shader map for material VRTextMaterial, compiling. 
+[2018.02.23-12.08.44:240][  0]LogMaterial: Missing cached shader map for material GenericHMDMaterial, compiling. 
+[2018.02.23-12.08.44:260][  0]LogMaterial: Missing cached shader map for material FlattenHeightMat, compiling. 
+[2018.02.23-12.08.44:276][  0]LogMaterial: Missing cached shader map for material ArrowMaterial, compiling. 
+[2018.02.23-12.08.44:302][  0]LogMaterial: Missing cached shader map for material KeyDiskMaterial, compiling. 
+[2018.02.23-12.08.44:318][  0]LogMaterial: Missing cached shader map for material M_ContentWindow, compiling. 
+[2018.02.23-12.08.44:362][  0]LogMaterial: Missing cached shader map for material LineMaterial, compiling. 
+[2018.02.23-12.08.45:882][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.23-12.08.45:930][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.23-12.08.46:299][  0]LogMaterial: Missing cached shader map for material DefaultMaterial, compiling. 
+[2018.02.23-12.08.46:771][  0]LogMaterial: Missing cached shader map for material BaseColor, compiling. 
+[2018.02.23-12.08.46:782][  0]LogMaterial: Missing cached shader map for material CustomDepth, compiling. 
+[2018.02.23-12.08.46:810][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.23-12.08.46:815][  0]LogMaterial: Missing cached shader map for material CustomStencil, compiling. 
+[2018.02.23-12.08.46:826][  0]LogMaterial: Missing cached shader map for material FinalImage, compiling. 
+[2018.02.23-12.08.46:835][  0]LogMaterial: Missing cached shader map for material LightingModel, compiling. 
+[2018.02.23-12.08.46:846][  0]LogMaterial: Missing cached shader map for material MaterialAO, compiling. 
+[2018.02.23-12.08.46:856][  0]LogMaterial: Missing cached shader map for material Metallic, compiling. 
+[2018.02.23-12.08.46:868][  0]LogMaterial: Missing cached shader map for material Opacity, compiling. 
+[2018.02.23-12.08.46:879][  0]LogMaterial: Missing cached shader map for material Roughness, compiling. 
+[2018.02.23-12.08.46:889][  0]LogMaterial: Missing cached shader map for material SceneColor, compiling. 
+[2018.02.23-12.08.46:902][  0]LogMaterial: Missing cached shader map for material SceneDepth, compiling. 
+[2018.02.23-12.08.46:914][  0]LogMaterial: Missing cached shader map for material SeparateTranslucencyRGB, compiling. 
+[2018.02.23-12.08.46:927][  0]LogMaterial: Missing cached shader map for material SeparateTranslucencyA, compiling. 
+[2018.02.23-12.08.46:939][  0]LogMaterial: Missing cached shader map for material Specular, compiling. 
+[2018.02.23-12.08.46:950][  0]LogMaterial: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2018.02.23-12.08.46:960][  0]LogMaterial: Missing cached shader map for material WorldNormal, compiling. 
+[2018.02.23-12.08.46:975][  0]LogMaterial: Missing cached shader map for material AmbientOcclusion, compiling. 
+[2018.02.23-12.08.46:992][  0]LogMaterial: Missing cached shader map for material CustomDepthWorldUnits, compiling. 
+[2018.02.23-12.08.47:003][  0]LogMaterial: Missing cached shader map for material SceneDepthWorldUnits, compiling. 
+[2018.02.23-12.08.47:014][  0]LogMaterial: Missing cached shader map for material PreTonemapHDRColor, compiling. 
+[2018.02.23-12.08.47:025][  0]LogMaterial: Missing cached shader map for material PostTonemapHDRColor, compiling. 
+[2018.02.23-12.08.47:471][  0]SourceControl: Source control is disabled
+[2018.02.23-12.08.47:471][  0]SourceControl: Source control is disabled
+[2018.02.23-12.08.47:533][  0]SourceControl: Source control is disabled
+[2018.02.23-12.08.47:593][  0]SourceControl: Source control is disabled
+[2018.02.23-12.08.48:333][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.23-12.08.48:645][  0]LogOcInput: OculusInput pre-init called
+[2018.02.23-12.08.48:928][  0]LogMaterial: Missing cached shader map for material HighResScreenshot, compiling. 
+[2018.02.23-12.08.48:945][  0]LogMaterial: Missing cached shader map for material HighResScreenshotMask, compiling. 
+[2018.02.23-12.08.48:967][  0]LogMaterial: Missing cached shader map for material HighResScreenshotCaptureRegion, compiling. 
+[2018.02.23-12.08.48:993][  0]LogEngine: Initializing Engine...
+[2018.02.23-12.08.48:995][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.23-12.08.49:000][  0]LogMaterial: Missing cached shader map for material WireframeMaterial, compiling. Is special engine material.
+[2018.02.23-12.08.49:258][  0]LogMaterial: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2018.02.23-12.08.49:907][  0]LogMaterial: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2018.02.23-12.08.50:118][  0]LogMaterial: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2018.02.23-12.08.50:771][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2018.02.23-12.08.51:420][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2018.02.23-12.08.51:632][  0]LogMaterial: Missing cached shader map for material VertexColorMaterial, compiling. 
+[2018.02.23-12.08.51:713][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling. 
+[2018.02.23-12.08.51:736][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling. 
+[2018.02.23-12.08.51:756][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling. 
+[2018.02.23-12.08.51:776][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling. 
+[2018.02.23-12.08.51:798][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling. 
+[2018.02.23-12.08.51:817][  0]LogMaterial: Missing cached shader map for material RemoveSurfaceMaterial, compiling. 
+[2018.02.23-12.08.51:827][  0]LogMaterial: Missing cached shader map for material DebugMeshMaterial, compiling. 
+[2018.02.23-12.08.51:849][  0]LogMaterial: Missing cached shader map for material M_InvalidLightmapSettings, compiling. 
+[2018.02.23-12.08.51:888][  0]LogMaterial: Missing cached shader map for material GizmoMaterial, compiling. 
+[2018.02.23-12.08.51:901][  0]LogMaterial: Missing cached shader map for material PhAT_JointLimitMaterial, compiling. 
+[2018.02.23-12.08.51:918][  0]LogMaterial: Missing cached shader map for material GeomMaterial, compiling. 
+[2018.02.23-12.08.51:933][  0]LogMaterial: Missing cached shader map for material EditorBrushMaterial, compiling. 
+[2018.02.23-12.08.51:952][  0]LogMaterial: Missing cached shader map for material BoneWeightMaterial, compiling. 
+[2018.02.23-12.08.52:037][  0]LogMaterial: Missing cached shader map for material ClothMaterial, compiling. 
+[2018.02.23-12.08.52:056][  0]LogMaterial: Missing cached shader map for material ClothMaterial_WF, compiling. 
+[2018.02.23-12.08.52:080][  0]LogMaterial: Missing cached shader map for material DebugEditorMaterial, compiling. 
+[2018.02.23-12.08.52:096][  0]LogMaterial: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2018.02.23-12.08.52:202][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.23-12.08.52:202][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.23-12.08.52:375][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.23-12.08.52:384][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.23-12.08.52:424][  0]LogInit: FAudioDevice initialized.
+[2018.02.23-12.08.52:500][  0]LogDerivedDataCache: Saved boot cache 0.08s 97MB C:/Users/Johan/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.23-12.08.52:518][  0]LogInit: Texture streaming: Enabled
+[2018.02.23-12.08.52:671][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.23-12.08.52:962][  0]LogInit: Transaction tracking system initialized
+[2018.02.23-12.08.53:365][  0]BlueprintLog: New page: Editor Load
+[2018.02.23-12.08.54:518][  0]LocalizationService: Localization service is disabled
+[2018.02.23-12.08.55:401][  0]LogConsoleResponse: Display: 
+[2018.02.23-12.08.55:440][  0]LogMaterial: Missing cached shader map for material Cross_Mat, compiling. 
+[2018.02.23-12.08.55:462][  0]LogMaterial: Missing cached shader map for material PhAT_BoneSelectedMaterial, compiling. 
+[2018.02.23-12.08.55:481][  0]LogMaterial: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2018.02.23-12.08.55:506][  0]LogMaterial: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2018.02.23-12.08.55:523][  0]LogMaterial: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
+[2018.02.23-12.08.55:543][  0]LogMaterial: Missing cached shader map for material Tick_Mat, compiling. 
+[2018.02.23-12.08.55:567][  0]LogMaterial: Missing cached shader map for material WidgetGridVertexColorMaterial_Ma, compiling. 
+[2018.02.23-12.08.55:583][  0]LogMaterial: Missing cached shader map for material WidgetMaterial, compiling. 
+[2018.02.23-12.08.55:600][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Current, compiling. 
+[2018.02.23-12.08.55:614][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_X, compiling. 
+[2018.02.23-12.08.55:628][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Y, compiling. 
+[2018.02.23-12.08.55:643][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Z, compiling. 
+[2018.02.23-12.08.55:657][  0]LogMaterial: Missing cached shader map for material WidgetVertexColorMaterial, compiling. 
+[2018.02.23-12.08.55:705][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial, compiling. 
+[2018.02.23-12.08.55:750][  0]LogMaterial: Missing cached shader map for material BlinkingCaret, compiling. 
+[2018.02.23-12.08.55:787][  0]LogMaterial: Missing cached shader map for material M_StreamingPause, compiling. 
+[2018.02.23-12.08.55:825][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.23-12.08.55:826][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.23-12.08.55:826][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.23-12.08.56:326][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Johan/Desktop/newWaterLevel/waterlvl/Content/' took 0.02s
+[2018.02.23-12.08.57:175][  0]SourceControl: Source control is disabled
+[2018.02.23-12.08.57:175][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.23-12.08.57:176][  0]LightingResults: New page: Lighting Build
+[2018.02.23-12.08.57:230][  0]MapCheck: New page: Map Check
+[2018.02.23-12.08.57:230][  0]LightingResults: New page: Lighting Build
+[2018.02.23-12.08.57:369][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.02.23-12.08.57:490][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.23-12.08.57:501][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.23-12.08.57:559][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.086ms to complete.
+[2018.02.23-12.08.57:559][  0]LogFileHelpers: Loading map 'StartupMap' took 0.384
+[2018.02.23-12.08.57:628][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.23-12.08.57:628][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.23-12.08.57:799][  0]LogCollectionManager: Loaded 0 collections in 0.002171 seconds
+[2018.02.23-12.08.57:911][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Johan/Desktop/newWaterLevel/waterlvl/Saved/Collections/' took 0.01s
+[2018.02.23-12.08.57:911][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Johan/Desktop/newWaterLevel/waterlvl/Content/Developers/Johan/Collections/' took 0.01s
+[2018.02.23-12.08.57:911][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Johan/Desktop/newWaterLevel/waterlvl/Content/Collections/' took 0.01s
+[2018.02.23-12.08.57:911][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.23-12.08.57:925][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2386 classes and 500 folders.
+[2018.02.23-12.08.58:015][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.02.23-12.08.58:082][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.02.23-12.08.58:144][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.02.23-12.08.58:349][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.02.23-12.08.58:349][  0]LogLoad: (Engine Initialization) Total time: 71.57 seconds
+[2018.02.23-12.08.58:349][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.23-12.08.58:349][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.23-12.08.58:383][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.23-12.08.58:397][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.23-12.08.58:399][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.23-12.08.58:413][  0]LogSlate: Took 0.007298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.23-12.08.58:546][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2018.02.23-12.08.58:640][  1]LogRenderer: Reallocating scene render targets to support 804x360 Format 26 NumSamples 1 (Frame:1).
+[2018.02.23-12.08.58:640][  1]LogAssetRegistry: Asset discovery search completed in 67.1960 seconds
+[2018.02.23-12.08.58:644][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.23-12.08.58:644][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000090 seconds (updated 0 objects)
+[2018.02.23-12.08.59:401][ 53]LogSlate: Took 0.005820 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.23-12.09.08:435][ 62]LogRenderer: Reallocating scene render targets to support 1576x836 Format 26 NumSamples 1 (Frame:1064).
+[2018.02.23-12.09.18:055][ 35]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.23-12.09.18:536][ 35]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.02.23-12.09.18:536][ 35]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.02.23-12.09.18:536][ 35]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2018.02.23-12.09.18:536][ 35]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2018.02.23-12.09.18:536][ 35]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 512X512)
+[2018.02.23-12.09.18:536][ 35]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.02.23-12.09.18:707][ 35]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 64X64)
+[2018.02.23-12.09.18:707][ 35]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 32X32)
+[2018.02.23-12.09.18:707][ 35]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.02.23-12.09.18:707][ 35]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.02.23-12.09.18:723][ 35]LogMaterial: Missing cached shader map for material ourtemp, compiling. 
+[2018.02.23-12.09.18:763][ 35]LogStaticMesh: Building static mesh water...
+[2018.02.23-12.09.18:769][ 35]LogStaticMesh: Built static mesh [0.01s] /Game/water.water
+[2018.02.23-12.09.18:815][ 35]LogMaterial: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2018.02.23-12.09.18:923][ 35]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.23-12.09.18:951][ 35]Cmd: MAP LOAD FILE="../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.23-12.09.18:951][ 35]LightingResults: New page: Lighting Build
+[2018.02.23-12.09.18:952][ 35]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2018.02.23-12.09.18:954][ 35]MapCheck: New page: Map Check
+[2018.02.23-12.09.18:954][ 35]LightingResults: New page: Lighting Build
+[2018.02.23-12.09.18:974][ 35]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.23-12.09.19:014][ 35]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.23-12.09.19:074][ 35]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.587ms to complete.
+[2018.02.23-12.09.19:074][ 35]LogFileHelpers: Loading map 'MotionControllerMap' took 0.124
+[2018.02.23-12.16.05:327][709]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.23-12.16.05:328][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.23-12.16.05:330][709]PIE: New page: PIE session: MotionControllerMap (Feb 23, 2018, 2:16:05 PM)
+[2018.02.23-12.16.05:331][709]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.02.23-12.16.05:360][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029730s)
+[2018.02.23-12.16.05:361][709]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.23-12.16.05:361][709]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2018.02.23-12.16.05:362][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.031549s)
+[2018.02.23-12.16.05:373][709]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.23-12.16.05:397][709]LogInit: FAudioDevice initialized.
+[2018.02.23-12.16.05:441][709]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.23-12.16.05:441][709]LogLoad: Game class is 'GameModeBase'
+[2018.02.23-12.16.05:450][709]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.02.23-13.16.05
+[2018.02.23-12.16.05:453][709]LogWorld: Bringing up level for play took: 0.004392
+[2018.02.23-12.16.05:492][709]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2018.02.23-12.16.05:509][709]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.591
+[2018.02.23-12.16.05:509][709]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.23-12.16.05:515][709]LogBlueprintUserMessages: [underWAter_158] 1.0
+[2018.02.23-12.16.05:544][710]LogBlueprintUserMessages: [underWAter_158] 1.016434
+[2018.02.23-12.16.05:557][711]LogBlueprintUserMessages: [underWAter_158] 1.18779
+[2018.02.23-12.16.05:565][712]LogBlueprintUserMessages: [underWAter_158] 1.448883
+[2018.02.23-12.16.05:574][713]LogBlueprintUserMessages: [underWAter_158] 1.793961
+[2018.02.23-12.16.05:582][714]LogBlueprintUserMessages: [underWAter_158] 2.21524
+[2018.02.23-12.16.05:590][715]LogBlueprintUserMessages: [underWAter_158] 2.703201
+[2018.02.23-12.16.05:598][716]LogBlueprintUserMessages: [underWAter_158] 3.246979
+[2018.02.23-12.16.05:607][717]LogBlueprintUserMessages: [underWAter_158] 3.834702
+[2018.02.23-12.16.05:616][718]LogBlueprintUserMessages: [underWAter_158] 4.45401
+[2018.02.23-12.16.05:624][719]LogBlueprintUserMessages: [underWAter_158] 5.092438
+[2018.02.23-12.16.05:632][720]LogBlueprintUserMessages: [underWAter_158] 5.737854
+[2018.02.23-12.16.05:641][721]LogBlueprintUserMessages: [underWAter_158] 6.378876
+[2018.02.23-12.16.05:649][722]LogBlueprintUserMessages: [underWAter_158] 7.005127
+[2018.02.23-12.16.05:657][723]LogBlueprintUserMessages: [underWAter_158] 7.607635
+[2018.02.23-12.16.05:665][724]LogBlueprintUserMessages: [underWAter_158] 8.178787
+[2018.02.23-12.16.05:674][725]LogBlueprintUserMessages: [underWAter_158] 8.712646
+[2018.02.23-12.16.05:682][726]LogBlueprintUserMessages: [underWAter_158] 9.20488
+[2018.02.23-12.16.05:690][727]LogBlueprintUserMessages: [underWAter_158] 9.652786
+[2018.02.23-12.16.05:699][728]LogBlueprintUserMessages: [underWAter_158] 10.055069
+[2018.02.23-12.16.05:707][729]LogBlueprintUserMessages: [underWAter_158] 10.411819
+[2018.02.23-12.16.05:715][730]LogBlueprintUserMessages: [underWAter_158] 10.724228
+[2018.02.23-12.16.05:724][731]LogBlueprintUserMessages: [underWAter_158] 10.994431
+[2018.02.23-12.16.05:732][732]LogBlueprintUserMessages: [underWAter_158] 11.225281
+[2018.02.23-12.16.05:740][733]LogBlueprintUserMessages: [underWAter_158] 11.420105
+[2018.02.23-12.16.05:749][734]LogBlueprintUserMessages: [underWAter_158] 11.528748
+[2018.02.23-12.16.05:757][735]LogBlueprintUserMessages: [underWAter_158] 11.251099
+[2018.02.23-12.16.05:765][736]LogBlueprintUserMessages: [underWAter_158] 10.70192
+[2018.02.23-12.16.05:774][737]LogBlueprintUserMessages: [underWAter_158] 9.892715
+[2018.02.23-12.16.05:782][738]LogBlueprintUserMessages: [underWAter_158] 8.841446
+[2018.02.23-12.16.05:790][739]LogBlueprintUserMessages: [underWAter_158] 7.571503
+[2018.02.23-12.16.05:799][740]LogBlueprintUserMessages: [underWAter_158] 6.111893
+[2018.02.23-12.16.05:807][741]LogBlueprintUserMessages: [underWAter_158] 4.495071
+[2018.02.23-12.16.05:815][742]LogBlueprintUserMessages: [underWAter_158] 2.756073
+[2018.02.23-12.16.05:824][743]LogBlueprintUserMessages: [underWAter_158] 0.931244
+[2018.02.23-12.16.06:224][791]LogBlueprintUserMessages: [underWAter_158] 2.311096
+[2018.02.23-12.16.06:232][792]LogBlueprintUserMessages: [underWAter_158] 4.718338
+[2018.02.23-12.16.06:240][793]LogBlueprintUserMessages: [underWAter_158] 7.144028
+[2018.02.23-12.16.06:249][794]LogBlueprintUserMessages: [underWAter_158] 9.545929
+[2018.02.23-12.16.06:257][795]LogBlueprintUserMessages: [underWAter_158] 11.885941
+[2018.02.23-12.16.06:266][796]LogBlueprintUserMessages: [underWAter_158] 14.131042
+[2018.02.23-12.16.06:274][797]LogBlueprintUserMessages: [underWAter_158] 16.254135
+[2018.02.23-12.16.06:283][798]LogBlueprintUserMessages: [underWAter_158] 18.233704
+[2018.02.23-12.16.06:291][799]LogBlueprintUserMessages: [underWAter_158] 20.054733
+[2018.02.23-12.16.06:300][800]LogBlueprintUserMessages: [underWAter_158] 21.707855
+[2018.02.23-12.16.06:308][801]LogBlueprintUserMessages: [underWAter_158] 23.197205
+[2018.02.23-12.16.06:316][802]LogBlueprintUserMessages: [underWAter_158] 24.515274
+[2018.02.23-12.16.06:327][803]LogBlueprintUserMessages: [underWAter_158] 25.675079
+[2018.02.23-12.16.06:336][804]LogBlueprintUserMessages: [underWAter_158] 26.677979
+[2018.02.23-12.16.06:344][805]LogBlueprintUserMessages: [underWAter_158] 27.528244
+[2018.02.23-12.16.06:352][806]LogBlueprintUserMessages: [underWAter_158] 28.226868
+[2018.02.23-12.16.06:361][807]LogBlueprintUserMessages: [underWAter_158] 28.22496
+[2018.02.23-12.16.06:369][808]LogBlueprintUserMessages: [underWAter_158] 28.221176
+[2018.02.23-12.16.06:377][809]LogBlueprintUserMessages: [underWAter_158] 28.215607
+[2018.02.23-12.16.06:386][810]LogBlueprintUserMessages: [underWAter_158] 28.208359
+[2018.02.23-12.16.06:394][811]LogBlueprintUserMessages: [underWAter_158] 28.199615
+[2018.02.23-12.16.06:402][812]LogBlueprintUserMessages: [underWAter_158] 28.18956
+[2018.02.23-12.16.06:410][813]LogBlueprintUserMessages: [underWAter_158] 28.178421
+[2018.02.23-12.16.06:419][814]LogBlueprintUserMessages: [underWAter_158] 28.166443
+[2018.02.23-12.16.06:427][815]LogBlueprintUserMessages: [underWAter_158] 28.15387
+[2018.02.23-12.16.06:435][816]LogBlueprintUserMessages: [underWAter_158] 28.140961
+[2018.02.23-12.16.06:444][817]LogBlueprintUserMessages: [underWAter_158] 28.127945
+[2018.02.23-12.16.06:453][818]LogBlueprintUserMessages: [underWAter_158] 28.115067
+[2018.02.23-12.16.06:461][819]LogBlueprintUserMessages: [underWAter_158] 28.102509
+[2018.02.23-12.16.06:469][820]LogBlueprintUserMessages: [underWAter_158] 28.090469
+[2018.02.23-12.16.06:477][821]LogBlueprintUserMessages: [underWAter_158] 28.079086
+[2018.02.23-12.16.06:486][822]LogBlueprintUserMessages: [underWAter_158] 28.068466
+[2018.02.23-12.16.06:494][823]LogBlueprintUserMessages: [underWAter_158] 28.058701
+[2018.02.23-12.16.06:502][824]LogBlueprintUserMessages: [underWAter_158] 28.049835
+[2018.02.23-12.16.06:511][825]LogBlueprintUserMessages: [underWAter_158] 28.041885
+[2018.02.23-12.16.06:519][826]LogBlueprintUserMessages: [underWAter_158] 28.034851
+[2018.02.23-12.16.06:528][827]LogBlueprintUserMessages: [underWAter_158] 28.028717
+[2018.02.23-12.16.06:536][828]LogBlueprintUserMessages: [underWAter_158] 28.023422
+[2018.02.23-12.16.06:544][829]LogBlueprintUserMessages: [underWAter_158] 28.018906
+[2018.02.23-12.16.06:552][830]LogBlueprintUserMessages: [underWAter_158] 28.008041
+[2018.02.23-12.16.06:561][831]LogBlueprintUserMessages: [underWAter_158] 27.967545
+[2018.02.23-12.16.06:569][832]LogBlueprintUserMessages: [underWAter_158] 27.887405
+[2018.02.23-12.16.06:577][833]LogBlueprintUserMessages: [underWAter_158] 27.769302
+[2018.02.23-12.16.06:586][834]LogBlueprintUserMessages: [underWAter_158] 27.615845
+[2018.02.23-12.16.06:594][835]LogBlueprintUserMessages: [underWAter_158] 27.430511
+[2018.02.23-12.16.06:602][836]LogBlueprintUserMessages: [underWAter_158] 27.217468
+[2018.02.23-12.16.06:611][837]LogBlueprintUserMessages: [underWAter_158] 26.981461
+[2018.02.23-12.16.06:619][838]LogBlueprintUserMessages: [underWAter_158] 26.7276
+[2018.02.23-12.16.06:628][839]LogBlueprintUserMessages: [underWAter_158] 26.461197
+[2018.02.23-12.16.06:636][840]LogBlueprintUserMessages: [underWAter_158] 26.187561
+[2018.02.23-12.16.06:644][841]LogBlueprintUserMessages: [underWAter_158] 25.911819
+[2018.02.23-12.16.06:652][842]LogBlueprintUserMessages: [underWAter_158] 25.638779
+[2018.02.23-12.16.06:661][843]LogBlueprintUserMessages: [underWAter_158] 25.372772
+[2018.02.23-12.16.06:669][844]LogBlueprintUserMessages: [underWAter_158] 25.117569
+[2018.02.23-12.16.06:677][845]LogBlueprintUserMessages: [underWAter_158] 24.876251
+[2018.02.23-12.16.06:686][846]LogBlueprintUserMessages: [underWAter_158] 24.651245
+[2018.02.23-12.16.06:694][847]LogBlueprintUserMessages: [underWAter_158] 24.444275
+[2018.02.23-12.16.06:702][848]LogBlueprintUserMessages: [underWAter_158] 24.256363
+[2018.02.23-12.16.06:711][849]LogBlueprintUserMessages: [underWAter_158] 24.087967
+[2018.02.23-12.16.06:719][850]LogBlueprintUserMessages: [underWAter_158] 23.938965
+[2018.02.23-12.16.06:727][851]LogBlueprintUserMessages: [underWAter_158] 23.808777
+[2018.02.23-12.16.06:736][852]LogBlueprintUserMessages: [underWAter_158] 23.696411
+[2018.02.23-12.16.06:744][853]LogBlueprintUserMessages: [underWAter_158] 23.600632
+[2018.02.23-12.16.06:752][854]LogBlueprintUserMessages: [underWAter_158] 23.503082
+[2018.02.23-12.16.06:760][855]LogBlueprintUserMessages: [underWAter_158] 23.406204
+[2018.02.23-12.16.06:769][856]LogBlueprintUserMessages: [underWAter_158] 23.214478
+[2018.02.23-12.16.06:778][857]LogBlueprintUserMessages: [underWAter_158] 22.931915
+[2018.02.23-12.16.06:785][858]LogBlueprintUserMessages: [underWAter_158] 22.564774
+[2018.02.23-12.16.06:794][859]LogBlueprintUserMessages: [underWAter_158] 22.121353
+[2018.02.23-12.16.06:803][860]LogBlueprintUserMessages: [underWAter_158] 21.611664
+[2018.02.23-12.16.06:811][861]LogBlueprintUserMessages: [underWAter_158] 21.047012
+[2018.02.23-12.16.06:819][862]LogBlueprintUserMessages: [underWAter_158] 20.439651
+[2018.02.23-12.16.06:828][863]LogBlueprintUserMessages: [underWAter_158] 19.802292
+[2018.02.23-12.16.06:836][864]LogBlueprintUserMessages: [underWAter_158] 19.147614
+[2018.02.23-12.16.06:844][865]LogBlueprintUserMessages: [underWAter_158] 18.48793
+[2018.02.23-12.16.06:852][866]LogBlueprintUserMessages: [underWAter_158] 17.834702
+[2018.02.23-12.16.06:861][867]LogBlueprintUserMessages: [underWAter_158] 17.198303
+[2018.02.23-12.16.06:869][868]LogBlueprintUserMessages: [underWAter_158] 16.587662
+[2018.02.23-12.16.06:877][869]LogBlueprintUserMessages: [underWAter_158] 16.010269
+[2018.02.23-12.16.06:886][870]LogBlueprintUserMessages: [underWAter_158] 15.471909
+[2018.02.23-12.16.06:894][871]LogBlueprintUserMessages: [underWAter_158] 14.9767
+[2018.02.23-12.16.06:903][872]LogBlueprintUserMessages: [underWAter_158] 14.527145
+[2018.02.23-12.16.06:911][873]LogBlueprintUserMessages: [underWAter_158] 14.124283
+[2018.02.23-12.16.06:919][874]LogBlueprintUserMessages: [underWAter_158] 13.767822
+[2018.02.23-12.16.06:927][875]LogBlueprintUserMessages: [underWAter_158] 13.456345
+[2018.02.23-12.16.06:935][876]LogBlueprintUserMessages: [underWAter_158] 13.187531
+[2018.02.23-12.16.06:944][877]LogBlueprintUserMessages: [underWAter_158] 12.958374
+[2018.02.23-12.16.06:953][878]LogBlueprintUserMessages: [underWAter_158] 12.770462
+[2018.02.23-12.16.06:961][879]LogBlueprintUserMessages: [underWAter_158] 12.799347
+[2018.02.23-12.16.06:969][880]LogBlueprintUserMessages: [underWAter_158] 12.856506
+[2018.02.23-12.16.06:978][881]LogBlueprintUserMessages: [underWAter_158] 12.94075
+[2018.02.23-12.16.06:986][882]LogBlueprintUserMessages: [underWAter_158] 13.050201
+[2018.02.23-12.16.06:994][883]LogBlueprintUserMessages: [underWAter_158] 13.182404
+[2018.02.23-12.16.07:002][884]LogBlueprintUserMessages: [underWAter_158] 13.334366
+[2018.02.23-12.16.07:011][885]LogBlueprintUserMessages: [underWAter_158] 13.502716
+[2018.02.23-12.16.07:019][886]LogBlueprintUserMessages: [underWAter_158] 13.683792
+[2018.02.23-12.16.07:027][887]LogBlueprintUserMessages: [underWAter_158] 13.873825
+[2018.02.23-12.16.07:036][888]LogBlueprintUserMessages: [underWAter_158] 14.069016
+[2018.02.23-12.16.07:044][889]LogBlueprintUserMessages: [underWAter_158] 14.265701
+[2018.02.23-12.16.07:052][890]LogBlueprintUserMessages: [underWAter_158] 14.460449
+[2018.02.23-12.16.07:061][891]LogBlueprintUserMessages: [underWAter_158] 14.650192
+[2018.02.23-12.16.07:069][892]LogBlueprintUserMessages: [underWAter_158] 14.83223
+[2018.02.23-12.16.07:077][893]LogBlueprintUserMessages: [underWAter_158] 15.004364
+[2018.02.23-12.16.07:086][894]LogBlueprintUserMessages: [underWAter_158] 15.164856
+[2018.02.23-12.16.07:094][895]LogBlueprintUserMessages: [underWAter_158] 15.312485
+[2018.02.23-12.16.07:102][896]LogBlueprintUserMessages: [underWAter_158] 15.446503
+[2018.02.23-12.16.07:111][897]LogBlueprintUserMessages: [underWAter_158] 15.566605
+[2018.02.23-12.16.07:119][898]LogBlueprintUserMessages: [underWAter_158] 15.672882
+[2018.02.23-12.16.07:127][899]LogBlueprintUserMessages: [underWAter_158] 15.765747
+[2018.02.23-12.16.07:136][900]LogBlueprintUserMessages: [underWAter_158] 15.845886
+[2018.02.23-12.16.07:144][901]LogBlueprintUserMessages: [underWAter_158] 15.914215
+[2018.02.23-12.16.07:153][902]LogBlueprintUserMessages: [underWAter_158] 15.976791
+[2018.02.23-12.16.07:161][903]LogBlueprintUserMessages: [underWAter_158] 16.005615
+[2018.02.23-12.16.07:169][904]LogBlueprintUserMessages: [underWAter_158] 16.062668
+[2018.02.23-12.16.07:178][905]LogBlueprintUserMessages: [underWAter_158] 16.146759
+[2018.02.23-12.16.07:186][906]LogBlueprintUserMessages: [underWAter_158] 16.256012
+[2018.02.23-12.16.07:194][907]LogBlueprintUserMessages: [underWAter_158] 16.38797
+[2018.02.23-12.16.07:203][908]LogBlueprintUserMessages: [underWAter_158] 16.539658
+[2018.02.23-12.16.07:211][909]LogBlueprintUserMessages: [underWAter_158] 16.707687
+[2018.02.23-12.16.07:219][910]LogBlueprintUserMessages: [underWAter_158] 16.888428
+[2018.02.23-12.16.07:227][911]LogBlueprintUserMessages: [underWAter_158] 17.07811
+[2018.02.23-12.16.07:236][912]LogBlueprintUserMessages: [underWAter_158] 17.272934
+[2018.02.23-12.16.07:244][913]LogBlueprintUserMessages: [underWAter_158] 17.469284
+[2018.02.23-12.16.07:252][914]LogBlueprintUserMessages: [underWAter_158] 17.663696
+[2018.02.23-12.16.07:261][915]LogBlueprintUserMessages: [underWAter_158] 17.853088
+[2018.02.23-12.16.07:269][916]LogBlueprintUserMessages: [underWAter_158] 18.034805
+[2018.02.23-12.16.07:277][917]LogBlueprintUserMessages: [underWAter_158] 18.206619
+[2018.02.23-12.16.07:286][918]LogBlueprintUserMessages: [underWAter_158] 18.366821
+[2018.02.23-12.16.07:294][919]LogBlueprintUserMessages: [underWAter_158] 18.514191
+[2018.02.23-12.16.07:302][920]LogBlueprintUserMessages: [underWAter_158] 18.647964
+[2018.02.23-12.16.07:311][921]LogBlueprintUserMessages: [underWAter_158] 18.767853
+[2018.02.23-12.16.07:319][922]LogBlueprintUserMessages: [underWAter_158] 18.873932
+[2018.02.23-12.16.07:328][923]LogBlueprintUserMessages: [underWAter_158] 18.966614
+[2018.02.23-12.16.07:336][924]LogBlueprintUserMessages: [underWAter_158] 19.0466
+[2018.02.23-12.16.07:344][925]LogBlueprintUserMessages: [underWAter_158] 19.114792
+[2018.02.23-12.16.07:353][926]LogBlueprintUserMessages: [underWAter_158] 19.178406
+[2018.02.23-12.16.07:361][927]LogBlueprintUserMessages: [underWAter_158] 19.213959
+[2018.02.23-12.16.07:369][928]LogBlueprintUserMessages: [underWAter_158] 19.284317
+[2018.02.23-12.16.07:377][929]LogBlueprintUserMessages: [underWAter_158] 19.388016
+[2018.02.23-12.16.07:386][930]LogBlueprintUserMessages: [underWAter_158] 19.522751
+[2018.02.23-12.16.07:394][931]LogBlueprintUserMessages: [underWAter_158] 19.685486
+[2018.02.23-12.16.07:402][932]LogBlueprintUserMessages: [underWAter_158] 19.872543
+[2018.02.23-12.16.07:411][933]LogBlueprintUserMessages: [underWAter_158] 20.079773
+[2018.02.23-12.16.07:419][934]LogBlueprintUserMessages: [underWAter_158] 20.302673
+[2018.02.23-12.16.07:427][935]LogBlueprintUserMessages: [underWAter_158] 20.536591
+[2018.02.23-12.16.07:436][936]LogBlueprintUserMessages: [underWAter_158] 20.776855
+[2018.02.23-12.16.07:444][937]LogBlueprintUserMessages: [underWAter_158] 21.018967
+[2018.02.23-12.16.07:452][938]LogBlueprintUserMessages: [underWAter_158] 21.258698
+[2018.02.23-12.16.07:461][939]LogBlueprintUserMessages: [underWAter_158] 21.492249
+[2018.02.23-12.16.07:469][940]LogBlueprintUserMessages: [underWAter_158] 21.716324
+[2018.02.23-12.16.07:477][941]LogBlueprintUserMessages: [underWAter_158] 21.928207
+[2018.02.23-12.16.07:486][942]LogBlueprintUserMessages: [underWAter_158] 22.125763
+[2018.02.23-12.16.07:494][943]LogBlueprintUserMessages: [underWAter_158] 22.307495
+[2018.02.23-12.16.07:502][944]LogBlueprintUserMessages: [underWAter_158] 22.472473
+[2018.02.23-12.16.07:511][945]LogBlueprintUserMessages: [underWAter_158] 22.620331
+[2018.02.23-12.16.07:519][946]LogBlueprintUserMessages: [underWAter_158] 22.75116
+[2018.02.23-12.16.07:528][947]LogBlueprintUserMessages: [underWAter_158] 22.865479
+[2018.02.23-12.16.07:536][948]LogBlueprintUserMessages: [underWAter_158] 22.964127
+[2018.02.23-12.16.07:544][949]LogBlueprintUserMessages: [underWAter_158] 23.048233
+[2018.02.23-12.16.07:553][950]LogBlueprintUserMessages: [underWAter_158] 23.114471
+[2018.02.23-12.16.07:561][951]LogBlueprintUserMessages: [underWAter_158] 23.088242
+[2018.02.23-12.16.07:569][952]LogBlueprintUserMessages: [underWAter_158] 23.036331
+[2018.02.23-12.16.07:577][953]LogBlueprintUserMessages: [underWAter_158] 22.959824
+[2018.02.23-12.16.07:586][954]LogBlueprintUserMessages: [underWAter_158] 22.860428
+[2018.02.23-12.16.07:594][955]LogBlueprintUserMessages: [underWAter_158] 22.740372
+[2018.02.23-12.16.07:602][956]LogBlueprintUserMessages: [underWAter_158] 22.602371
+[2018.02.23-12.16.07:611][957]LogBlueprintUserMessages: [underWAter_158] 22.449493
+[2018.02.23-12.16.07:619][958]LogBlueprintUserMessages: [underWAter_158] 22.285049
+[2018.02.23-12.16.07:627][959]LogBlueprintUserMessages: [underWAter_158] 22.112488
+[2018.02.23-12.16.07:636][960]LogBlueprintUserMessages: [underWAter_158] 21.935226
+[2018.02.23-12.16.07:644][961]LogBlueprintUserMessages: [underWAter_158] 21.756607
+[2018.02.23-12.16.07:653][962]LogBlueprintUserMessages: [underWAter_158] 21.579742
+[2018.02.23-12.16.07:661][963]LogBlueprintUserMessages: [underWAter_158] 21.40744
+[2018.02.23-12.16.07:669][964]LogBlueprintUserMessages: [underWAter_158] 21.242111
+[2018.02.23-12.16.07:678][965]LogBlueprintUserMessages: [underWAter_158] 21.085785
+[2018.02.23-12.16.07:686][966]LogBlueprintUserMessages: [underWAter_158] 20.940018
+[2018.02.23-12.16.07:694][967]LogBlueprintUserMessages: [underWAter_158] 20.805939
+[2018.02.23-12.16.07:702][968]LogBlueprintUserMessages: [underWAter_158] 20.684219
+[2018.02.23-12.16.07:711][969]LogBlueprintUserMessages: [underWAter_158] 20.575134
+[2018.02.23-12.16.07:719][970]LogBlueprintUserMessages: [underWAter_158] 20.478622
+[2018.02.23-12.16.07:728][971]LogBlueprintUserMessages: [underWAter_158] 20.394287
+[2018.02.23-12.16.07:736][972]LogBlueprintUserMessages: [underWAter_158] 20.321503
+[2018.02.23-12.16.07:744][973]LogBlueprintUserMessages: [underWAter_158] 20.25946
+[2018.02.23-12.16.07:752][974]LogBlueprintUserMessages: [underWAter_158] 20.216309
+[2018.02.23-12.16.07:761][975]LogBlueprintUserMessages: [underWAter_158] 20.268387
+[2018.02.23-12.16.07:769][976]LogBlueprintUserMessages: [underWAter_158] 20.371521
+[2018.02.23-12.16.07:778][977]LogBlueprintUserMessages: [underWAter_158] 20.523483
+[2018.02.23-12.16.07:786][978]LogBlueprintUserMessages: [underWAter_158] 20.720901
+[2018.02.23-12.16.07:794][979]LogBlueprintUserMessages: [underWAter_158] 20.95932
+[2018.02.23-12.16.07:802][980]LogBlueprintUserMessages: [underWAter_158] 21.233368
+[2018.02.23-12.16.07:811][981]LogBlueprintUserMessages: [underWAter_158] 21.536942
+[2018.02.23-12.16.07:819][982]LogBlueprintUserMessages: [underWAter_158] 21.863464
+[2018.02.23-12.16.07:828][983]LogBlueprintUserMessages: [underWAter_158] 22.206116
+[2018.02.23-12.16.07:836][984]LogBlueprintUserMessages: [underWAter_158] 22.558075
+[2018.02.23-12.16.07:844][985]LogBlueprintUserMessages: [underWAter_158] 22.91272
+[2018.02.23-12.16.07:853][986]LogBlueprintUserMessages: [underWAter_158] 23.263885
+[2018.02.23-12.16.07:861][987]LogBlueprintUserMessages: [underWAter_158] 23.605988
+[2018.02.23-12.16.07:869][988]LogBlueprintUserMessages: [underWAter_158] 23.934204
+[2018.02.23-12.16.07:878][989]LogBlueprintUserMessages: [underWAter_158] 24.244553
+[2018.02.23-12.16.07:886][990]LogBlueprintUserMessages: [underWAter_158] 24.53392
+[2018.02.23-12.16.07:894][991]LogBlueprintUserMessages: [underWAter_158] 24.800095
+[2018.02.23-12.16.07:903][992]LogBlueprintUserMessages: [underWAter_158] 25.041733
+[2018.02.23-12.16.07:911][993]LogBlueprintUserMessages: [underWAter_158] 25.25827
+[2018.02.23-12.16.07:919][994]LogBlueprintUserMessages: [underWAter_158] 25.44986
+[2018.02.23-12.16.07:927][995]LogBlueprintUserMessages: [underWAter_158] 25.617264
+[2018.02.23-12.16.07:936][996]LogBlueprintUserMessages: [underWAter_158] 25.761749
+[2018.02.23-12.16.07:944][997]LogBlueprintUserMessages: [underWAter_158] 25.884918
+[2018.02.23-12.16.07:952][998]LogBlueprintUserMessages: [underWAter_158] 26.003006
+[2018.02.23-12.16.07:961][999]LogBlueprintUserMessages: [underWAter_158] 26.08551
+[2018.02.23-12.16.07:969][  0]LogBlueprintUserMessages: [underWAter_158] 26.248795
+[2018.02.23-12.16.07:977][  1]LogBlueprintUserMessages: [underWAter_158] 26.489456
+[2018.02.23-12.16.07:986][  2]LogBlueprintUserMessages: [underWAter_158] 26.802139
+[2018.02.23-12.16.07:994][  3]LogBlueprintUserMessages: [underWAter_158] 27.179794
+[2018.02.23-12.16.08:002][  4]LogBlueprintUserMessages: [underWAter_158] 27.613892
+[2018.02.23-12.16.08:011][  5]LogBlueprintUserMessages: [underWAter_158] 28.094788
+[2018.02.23-12.16.08:019][  6]LogBlueprintUserMessages: [underWAter_158] 28.612061
+[2018.02.23-12.16.08:028][  7]LogBlueprintUserMessages: [underWAter_158] 29.154907
+[2018.02.23-12.16.08:036][  8]LogBlueprintUserMessages: [underWAter_158] 29.712479
+[2018.02.23-12.16.08:044][  9]LogBlueprintUserMessages: [underWAter_158] 30.274323
+[2018.02.23-12.16.08:053][ 10]LogBlueprintUserMessages: [underWAter_158] 30.830658
+[2018.02.23-12.16.08:061][ 11]LogBlueprintUserMessages: [underWAter_158] 31.372665
+[2018.02.23-12.16.08:069][ 12]LogBlueprintUserMessages: [underWAter_158] 31.892685
+[2018.02.23-12.16.08:077][ 13]LogBlueprintUserMessages: [underWAter_158] 32.384399
+[2018.02.23-12.16.08:086][ 14]LogBlueprintUserMessages: [underWAter_158] 32.84288
+[2018.02.23-12.16.08:094][ 15]LogBlueprintUserMessages: [underWAter_158] 33.264618
+[2018.02.23-12.16.08:103][ 16]LogBlueprintUserMessages: [underWAter_158] 33.647476
+[2018.02.23-12.16.08:111][ 17]LogBlueprintUserMessages: [underWAter_158] 33.990601
+[2018.02.23-12.16.08:119][ 18]LogBlueprintUserMessages: [underWAter_158] 34.294205
+[2018.02.23-12.16.08:127][ 19]LogBlueprintUserMessages: [underWAter_158] 34.559494
+[2018.02.23-12.16.08:136][ 20]LogBlueprintUserMessages: [underWAter_158] 34.788452
+[2018.02.23-12.16.08:144][ 21]LogBlueprintUserMessages: [underWAter_158] 34.983643
+[2018.02.23-12.16.08:152][ 22]LogBlueprintUserMessages: [underWAter_158] 35.120499
+[2018.02.23-12.16.08:161][ 23]LogBlueprintUserMessages: [underWAter_158] 34.96283
+[2018.02.23-12.16.08:169][ 24]LogBlueprintUserMessages: [underWAter_158] 34.65065
+[2018.02.23-12.16.08:177][ 25]LogBlueprintUserMessages: [underWAter_158] 34.190643
+[2018.02.23-12.16.08:186][ 26]LogBlueprintUserMessages: [underWAter_158] 33.593018
+[2018.02.23-12.16.08:194][ 27]LogBlueprintUserMessages: [underWAter_158] 32.871246
+[2018.02.23-12.16.08:203][ 28]LogBlueprintUserMessages: [underWAter_158] 32.041626
+[2018.02.23-12.16.08:211][ 29]LogBlueprintUserMessages: [underWAter_158] 31.122589
+[2018.02.23-12.16.08:219][ 30]LogBlueprintUserMessages: [underWAter_158] 30.134064
+[2018.02.23-12.16.08:228][ 31]LogBlueprintUserMessages: [underWAter_158] 29.096725
+[2018.02.23-12.16.08:236][ 32]LogBlueprintUserMessages: [underWAter_158] 28.03125
+[2018.02.23-12.16.08:244][ 33]LogBlueprintUserMessages: [underWAter_158] 26.957626
+[2018.02.23-12.16.08:253][ 34]LogBlueprintUserMessages: [underWAter_158] 25.894547
+[2018.02.23-12.16.08:261][ 35]LogBlueprintUserMessages: [underWAter_158] 24.858887
+[2018.02.23-12.16.08:269][ 36]LogBlueprintUserMessages: [underWAter_158] 23.865234
+[2018.02.23-12.16.08:277][ 37]LogBlueprintUserMessages: [underWAter_158] 22.92569
+[2018.02.23-12.16.08:286][ 38]LogBlueprintUserMessages: [underWAter_158] 22.049667
+[2018.02.23-12.16.08:294][ 39]LogBlueprintUserMessages: [underWAter_158] 21.243851
+[2018.02.23-12.16.08:302][ 40]LogBlueprintUserMessages: [underWAter_158] 20.512344
+[2018.02.23-12.16.08:311][ 41]LogBlueprintUserMessages: [underWAter_158] 19.856812
+[2018.02.23-12.16.08:319][ 42]LogBlueprintUserMessages: [underWAter_158] 19.276764
+[2018.02.23-12.16.08:327][ 43]LogBlueprintUserMessages: [underWAter_158] 18.769913
+[2018.02.23-12.16.08:336][ 44]LogBlueprintUserMessages: [underWAter_158] 18.332489
+[2018.02.23-12.16.08:344][ 45]LogBlueprintUserMessages: [underWAter_158] 17.959595
+[2018.02.23-12.16.08:352][ 46]LogBlueprintUserMessages: [underWAter_158] 17.678391
+[2018.02.23-12.16.08:361][ 47]LogBlueprintUserMessages: [underWAter_158] 17.866379
+[2018.02.23-12.16.08:369][ 48]LogBlueprintUserMessages: [underWAter_158] 18.238434
+[2018.02.23-12.16.08:378][ 49]LogBlueprintUserMessages: [underWAter_158] 18.786743
+[2018.02.23-12.16.08:386][ 50]LogBlueprintUserMessages: [underWAter_158] 19.499161
+[2018.02.23-12.16.08:394][ 51]LogBlueprintUserMessages: [underWAter_158] 20.359604
+[2018.02.23-12.16.08:403][ 52]LogBlueprintUserMessages: [underWAter_158] 21.348663
+[2018.02.23-12.16.08:411][ 53]LogBlueprintUserMessages: [underWAter_158] 22.444763
+[2018.02.23-12.16.08:419][ 54]LogBlueprintUserMessages: [underWAter_158] 23.623688
+[2018.02.23-12.16.08:428][ 55]LogBlueprintUserMessages: [underWAter_158] 24.860794
+[2018.02.23-12.16.08:436][ 56]LogBlueprintUserMessages: [underWAter_158] 26.131424
+[2018.02.23-12.16.08:444][ 57]LogBlueprintUserMessages: [underWAter_158] 27.411728
+[2018.02.23-12.16.08:453][ 58]LogBlueprintUserMessages: [underWAter_158] 28.679428
+[2018.02.23-12.16.08:461][ 59]LogBlueprintUserMessages: [underWAter_158] 29.914413
+[2018.02.23-12.16.08:469][ 60]LogBlueprintUserMessages: [underWAter_158] 31.099258
+[2018.02.23-12.16.08:478][ 61]LogBlueprintUserMessages: [underWAter_158] 32.219574
+[2018.02.23-12.16.08:486][ 62]LogBlueprintUserMessages: [underWAter_158] 33.26413
+[2018.02.23-12.16.08:494][ 63]LogBlueprintUserMessages: [underWAter_158] 34.224945
+[2018.02.23-12.16.08:503][ 64]LogBlueprintUserMessages: [underWAter_158] 35.097153
+[2018.02.23-12.16.08:511][ 65]LogBlueprintUserMessages: [underWAter_158] 35.878754
+[2018.02.23-12.16.08:519][ 66]LogBlueprintUserMessages: [underWAter_158] 36.570313
+[2018.02.23-12.16.08:528][ 67]LogBlueprintUserMessages: [underWAter_158] 37.174591
+[2018.02.23-12.16.08:536][ 68]LogBlueprintUserMessages: [underWAter_158] 37.696106
+[2018.02.23-12.16.08:544][ 69]LogBlueprintUserMessages: [underWAter_158] 38.140686
+[2018.02.23-12.16.08:552][ 70]LogBlueprintUserMessages: [underWAter_158] 38.494904
+[2018.02.23-12.16.08:561][ 71]LogBlueprintUserMessages: [underWAter_158] 38.379517
+[2018.02.23-12.16.08:569][ 72]LogBlueprintUserMessages: [underWAter_158] 38.151199
+[2018.02.23-12.16.08:577][ 73]LogBlueprintUserMessages: [underWAter_158] 37.814743
+[2018.02.23-12.16.08:586][ 74]LogBlueprintUserMessages: [underWAter_158] 37.377594
+[2018.02.23-12.16.08:595][ 75]LogBlueprintUserMessages: [underWAter_158] 36.84964
+[2018.02.23-12.16.08:603][ 76]LogBlueprintUserMessages: [underWAter_158] 36.242783
+[2018.02.23-12.16.08:611][ 77]LogBlueprintUserMessages: [underWAter_158] 35.570511
+[2018.02.23-12.16.08:619][ 78]LogBlueprintUserMessages: [underWAter_158] 34.847397
+[2018.02.23-12.16.08:628][ 79]LogBlueprintUserMessages: [underWAter_158] 34.088562
+[2018.02.23-12.16.08:636][ 80]LogBlueprintUserMessages: [underWAter_158] 33.309143
+[2018.02.23-12.16.08:644][ 81]LogBlueprintUserMessages: [underWAter_158] 32.523743
+[2018.02.23-12.16.08:653][ 82]LogBlueprintUserMessages: [underWAter_158] 31.746063
+[2018.02.23-12.16.08:661][ 83]LogBlueprintUserMessages: [underWAter_158] 30.988419
+[2018.02.23-12.16.08:669][ 84]LogBlueprintUserMessages: [underWAter_158] 30.261505
+[2018.02.23-12.16.08:678][ 85]LogBlueprintUserMessages: [underWAter_158] 29.574173
+[2018.02.23-12.16.08:686][ 86]LogBlueprintUserMessages: [underWAter_158] 28.933304
+[2018.02.23-12.16.08:694][ 87]LogBlueprintUserMessages: [underWAter_158] 28.343796
+[2018.02.23-12.16.08:703][ 88]LogBlueprintUserMessages: [underWAter_158] 27.80864
+[2018.02.23-12.16.08:711][ 89]LogBlueprintUserMessages: [underWAter_158] 27.329071
+[2018.02.23-12.16.08:719][ 90]LogBlueprintUserMessages: [underWAter_158] 26.904724
+[2018.02.23-12.16.08:727][ 91]LogBlueprintUserMessages: [underWAter_158] 26.53392
+[2018.02.23-12.16.08:736][ 92]LogBlueprintUserMessages: [underWAter_158] 26.213898
+[2018.02.23-12.16.08:744][ 93]LogBlueprintUserMessages: [underWAter_158] 25.941086
+[2018.02.23-12.16.08:752][ 94]LogBlueprintUserMessages: [underWAter_158] 25.725266
+[2018.02.23-12.16.08:761][ 95]LogBlueprintUserMessages: [underWAter_158] 25.805252
+[2018.02.23-12.16.08:769][ 96]LogBlueprintUserMessages: [underWAter_158] 25.963364
+[2018.02.23-12.16.08:777][ 97]LogBlueprintUserMessages: [underWAter_158] 26.196289
+[2018.02.23-12.16.08:786][ 98]LogBlueprintUserMessages: [underWAter_158] 26.498856
+[2018.02.23-12.16.08:794][ 99]LogBlueprintUserMessages: [underWAter_158] 26.864243
+[2018.02.23-12.16.08:803][100]LogBlueprintUserMessages: [underWAter_158] 27.284195
+[2018.02.23-12.16.08:811][101]LogBlueprintUserMessages: [underWAter_158] 27.74939
+[2018.02.23-12.16.08:819][102]LogBlueprintUserMessages: [underWAter_158] 28.249725
+[2018.02.23-12.16.08:828][103]LogBlueprintUserMessages: [underWAter_158] 28.774765
+[2018.02.23-12.16.08:836][104]LogBlueprintUserMessages: [underWAter_158] 29.314026
+[2018.02.23-12.16.08:844][105]LogBlueprintUserMessages: [underWAter_158] 29.857407
+[2018.02.23-12.16.08:853][106]LogBlueprintUserMessages: [underWAter_158] 30.395432
+[2018.02.23-12.16.08:861][107]LogBlueprintUserMessages: [underWAter_158] 30.919632
+[2018.02.23-12.16.08:869][108]LogBlueprintUserMessages: [underWAter_158] 31.422546
+[2018.02.23-12.16.08:878][109]LogBlueprintUserMessages: [underWAter_158] 31.898056
+[2018.02.23-12.16.08:886][110]LogBlueprintUserMessages: [underWAter_158] 32.3414
+[2018.02.23-12.16.08:894][111]LogBlueprintUserMessages: [underWAter_158] 32.749207
+[2018.02.23-12.16.08:903][112]LogBlueprintUserMessages: [underWAter_158] 33.119415
+[2018.02.23-12.16.08:911][113]LogBlueprintUserMessages: [underWAter_158] 33.451157
+[2018.02.23-12.16.08:919][114]LogBlueprintUserMessages: [underWAter_158] 33.744659
+[2018.02.23-12.16.08:928][115]LogBlueprintUserMessages: [underWAter_158] 34.001114
+[2018.02.23-12.16.08:936][116]LogBlueprintUserMessages: [underWAter_158] 34.222427
+[2018.02.23-12.16.08:944][117]LogBlueprintUserMessages: [underWAter_158] 34.411087
+[2018.02.23-12.16.08:952][118]LogBlueprintUserMessages: [underWAter_158] 34.598419
+[2018.02.23-12.16.08:961][119]LogBlueprintUserMessages: [underWAter_158] 34.76181
+[2018.02.23-12.16.08:969][120]LogBlueprintUserMessages: [underWAter_158] 35.08519
+[2018.02.23-12.16.08:978][121]LogBlueprintUserMessages: [underWAter_158] 35.561768
+[2018.02.23-12.16.08:986][122]LogBlueprintUserMessages: [underWAter_158] 36.180984
+[2018.02.23-12.16.08:995][123]LogBlueprintUserMessages: [underWAter_158] 36.928864
+[2018.02.23-12.16.09:003][124]LogBlueprintUserMessages: [underWAter_158] 37.788544
+[2018.02.23-12.16.09:011][125]LogBlueprintUserMessages: [underWAter_158] 38.740891
+[2018.02.23-12.16.09:019][126]LogBlueprintUserMessages: [underWAter_158] 39.765289
+[2018.02.23-12.16.09:028][127]LogBlueprintUserMessages: [underWAter_158] 40.840302
+[2018.02.23-12.16.09:036][128]LogBlueprintUserMessages: [underWAter_158] 41.944504
+[2018.02.23-12.16.09:044][129]LogBlueprintUserMessages: [underWAter_158] 43.057175
+[2018.02.23-12.16.09:053][130]LogBlueprintUserMessages: [underWAter_158] 44.158936
+[2018.02.23-12.16.09:061][131]LogBlueprintUserMessages: [underWAter_158] 45.2323
+[2018.02.23-12.16.09:069][132]LogBlueprintUserMessages: [underWAter_158] 46.262131
+[2018.02.23-12.16.09:078][133]LogBlueprintUserMessages: [underWAter_158] 47.235901
+[2018.02.23-12.16.09:086][134]LogBlueprintUserMessages: [underWAter_158] 48.14386
+[2018.02.23-12.16.09:094][135]LogBlueprintUserMessages: [underWAter_158] 48.979065
+[2018.02.23-12.16.09:103][136]LogBlueprintUserMessages: [underWAter_158] 49.737305
+[2018.02.23-12.16.09:111][137]LogBlueprintUserMessages: [underWAter_158] 50.416794
+[2018.02.23-12.16.09:119][138]LogBlueprintUserMessages: [underWAter_158] 51.018021
+[2018.02.23-12.16.09:128][139]LogBlueprintUserMessages: [underWAter_158] 51.543381
+[2018.02.23-12.16.09:136][140]LogBlueprintUserMessages: [underWAter_158] 51.99678
+[2018.02.23-12.16.09:144][141]LogBlueprintUserMessages: [underWAter_158] 52.383301
+[2018.02.23-12.16.09:152][142]LogBlueprintUserMessages: [underWAter_158] 52.732681
+[2018.02.23-12.16.09:161][143]LogBlueprintUserMessages: [underWAter_158] 52.869675
+[2018.02.23-12.16.09:169][144]LogBlueprintUserMessages: [underWAter_158] 53.140808
+[2018.02.23-12.16.09:178][145]LogBlueprintUserMessages: [underWAter_158] 53.540405
+[2018.02.23-12.16.09:186][146]LogBlueprintUserMessages: [underWAter_158] 54.059601
+[2018.02.23-12.16.09:194][147]LogBlueprintUserMessages: [underWAter_158] 54.686661
+[2018.02.23-12.16.09:203][148]LogBlueprintUserMessages: [underWAter_158] 55.407455
+[2018.02.23-12.16.09:211][149]LogBlueprintUserMessages: [underWAter_158] 56.205963
+[2018.02.23-12.16.09:219][150]LogBlueprintUserMessages: [underWAter_158] 57.06488
+[2018.02.23-12.16.09:228][151]LogBlueprintUserMessages: [underWAter_158] 57.966248
+[2018.02.23-12.16.09:236][152]LogBlueprintUserMessages: [underWAter_158] 58.89209
+[2018.02.23-12.16.09:244][153]LogBlueprintUserMessages: [underWAter_158] 59.825012
+[2018.02.23-12.16.09:253][154]LogBlueprintUserMessages: [underWAter_158] 60.748779
+[2018.02.23-12.16.09:261][155]LogBlueprintUserMessages: [underWAter_158] 61.648743
+[2018.02.23-12.16.09:269][156]LogBlueprintUserMessages: [underWAter_158] 62.512207
+[2018.02.23-12.16.09:278][157]LogBlueprintUserMessages: [underWAter_158] 63.328674
+[2018.02.23-12.16.09:286][158]LogBlueprintUserMessages: [underWAter_158] 64.089966
+[2018.02.23-12.16.09:294][159]LogBlueprintUserMessages: [underWAter_158] 64.790253
+[2018.02.23-12.16.09:303][160]LogBlueprintUserMessages: [underWAter_158] 65.425964
+[2018.02.23-12.16.09:311][161]LogBlueprintUserMessages: [underWAter_158] 65.995667
+[2018.02.23-12.16.09:319][162]LogBlueprintUserMessages: [underWAter_158] 66.499756
+[2018.02.23-12.16.09:328][163]LogBlueprintUserMessages: [underWAter_158] 66.940216
+[2018.02.23-12.16.09:336][164]LogBlueprintUserMessages: [underWAter_158] 67.320374
+[2018.02.23-12.16.09:344][165]LogBlueprintUserMessages: [underWAter_158] 67.64444
+[2018.02.23-12.16.09:353][166]LogBlueprintUserMessages: [underWAter_158] 67.903107
+[2018.02.23-12.16.09:361][167]LogBlueprintUserMessages: [underWAter_158] 67.821289
+[2018.02.23-12.16.09:369][168]LogBlueprintUserMessages: [underWAter_158] 67.659454
+[2018.02.23-12.16.09:378][169]LogBlueprintUserMessages: [underWAter_158] 67.421021
+[2018.02.23-12.16.09:386][170]LogBlueprintUserMessages: [underWAter_158] 67.111267
+[2018.02.23-12.16.09:395][171]LogBlueprintUserMessages: [underWAter_158] 66.737152
+[2018.02.23-12.16.09:403][172]LogBlueprintUserMessages: [underWAter_158] 66.307159
+[2018.02.23-12.16.09:411][173]LogBlueprintUserMessages: [underWAter_158] 65.830811
+[2018.02.23-12.16.09:419][174]LogBlueprintUserMessages: [underWAter_158] 65.318451
+[2018.02.23-12.16.09:428][175]LogBlueprintUserMessages: [underWAter_158] 64.780792
+[2018.02.23-12.16.09:436][176]LogBlueprintUserMessages: [underWAter_158] 64.228546
+[2018.02.23-12.16.09:444][177]LogBlueprintUserMessages: [underWAter_158] 63.672089
+[2018.02.23-12.16.09:453][178]LogBlueprintUserMessages: [underWAter_158] 63.121094
+[2018.02.23-12.16.09:461][179]LogBlueprintUserMessages: [underWAter_158] 62.58429
+[2018.02.23-12.16.09:469][180]LogBlueprintUserMessages: [underWAter_158] 62.069275
+[2018.02.23-12.16.09:478][181]LogBlueprintUserMessages: [underWAter_158] 61.582306
+[2018.02.23-12.16.09:486][182]LogBlueprintUserMessages: [underWAter_158] 61.128235
+[2018.02.23-12.16.09:494][183]LogBlueprintUserMessages: [underWAter_158] 60.710571
+[2018.02.23-12.16.09:503][184]LogBlueprintUserMessages: [underWAter_158] 60.331421
+[2018.02.23-12.16.09:511][185]LogBlueprintUserMessages: [underWAter_158] 59.991638
+[2018.02.23-12.16.09:519][186]LogBlueprintUserMessages: [underWAter_158] 59.69101
+[2018.02.23-12.16.09:527][187]LogBlueprintUserMessages: [underWAter_158] 59.428314
+[2018.02.23-12.16.09:536][188]LogBlueprintUserMessages: [underWAter_158] 59.201599
+[2018.02.23-12.16.09:544][189]LogBlueprintUserMessages: [underWAter_158] 59.008331
+[2018.02.23-12.16.09:553][190]LogBlueprintUserMessages: [underWAter_158] 58.843475
+[2018.02.23-12.16.09:561][191]LogBlueprintUserMessages: [underWAter_158] 58.831329
+[2018.02.23-12.16.09:569][192]LogBlueprintUserMessages: [underWAter_158] 58.807281
+[2018.02.23-12.16.09:578][193]LogBlueprintUserMessages: [underWAter_158] 58.77182
+[2018.02.23-12.16.09:586][194]LogBlueprintUserMessages: [underWAter_158] 58.725739
+[2018.02.23-12.16.09:594][195]LogBlueprintUserMessages: [underWAter_158] 58.670074
+[2018.02.23-12.16.09:603][196]LogBlueprintUserMessages: [underWAter_158] 58.60611
+[2018.02.23-12.16.09:611][197]LogBlueprintUserMessages: [underWAter_158] 58.535248
+[2018.02.23-12.16.09:619][198]LogBlueprintUserMessages: [underWAter_158] 58.459015
+[2018.02.23-12.16.09:628][199]LogBlueprintUserMessages: [underWAter_158] 58.379028
+[2018.02.23-12.16.09:636][200]LogBlueprintUserMessages: [underWAter_158] 58.296875
+[2018.02.23-12.16.09:644][201]LogBlueprintUserMessages: [underWAter_158] 58.214081
+[2018.02.23-12.16.09:653][202]LogBlueprintUserMessages: [underWAter_158] 58.132111
+[2018.02.23-12.16.09:661][203]LogBlueprintUserMessages: [underWAter_158] 58.052246
+[2018.02.23-12.16.09:669][204]LogBlueprintUserMessages: [underWAter_158] 57.975616
+[2018.02.23-12.16.09:678][205]LogBlueprintUserMessages: [underWAter_158] 57.903168
+[2018.02.23-12.16.09:686][206]LogBlueprintUserMessages: [underWAter_158] 57.835632
+[2018.02.23-12.16.09:694][207]LogBlueprintUserMessages: [underWAter_158] 57.773499
+[2018.02.23-12.16.09:702][208]LogBlueprintUserMessages: [underWAter_158] 57.717102
+[2018.02.23-12.16.09:711][209]LogBlueprintUserMessages: [underWAter_158] 57.666565
+[2018.02.23-12.16.09:719][210]LogBlueprintUserMessages: [underWAter_158] 57.621826
+[2018.02.23-12.16.09:728][211]LogBlueprintUserMessages: [underWAter_158] 57.582733
+[2018.02.23-12.16.09:736][212]LogBlueprintUserMessages: [underWAter_158] 57.549011
+[2018.02.23-12.16.09:745][213]LogBlueprintUserMessages: [underWAter_158] 57.520264
+[2018.02.23-12.16.09:753][214]LogBlueprintUserMessages: [underWAter_158] 57.50943
+[2018.02.23-12.16.09:761][215]LogBlueprintUserMessages: [underWAter_158] 57.585999
+[2018.02.23-12.16.09:769][216]LogBlueprintUserMessages: [underWAter_158] 57.737518
+[2018.02.23-12.16.09:778][217]LogBlueprintUserMessages: [underWAter_158] 57.960815
+[2018.02.23-12.16.09:786][218]LogBlueprintUserMessages: [underWAter_158] 58.250946
+[2018.02.23-12.16.09:794][219]LogBlueprintUserMessages: [underWAter_158] 58.601379
+[2018.02.23-12.16.09:803][220]LogBlueprintUserMessages: [underWAter_158] 59.004181
+[2018.02.23-12.16.09:811][221]LogBlueprintUserMessages: [underWAter_158] 59.450409
+[2018.02.23-12.16.09:819][222]LogBlueprintUserMessages: [underWAter_158] 59.930389
+[2018.02.23-12.16.09:828][223]LogBlueprintUserMessages: [underWAter_158] 60.434082
+[2018.02.23-12.16.09:836][224]LogBlueprintUserMessages: [underWAter_158] 60.951447
+[2018.02.23-12.16.09:844][225]LogBlueprintUserMessages: [underWAter_158] 61.472778
+[2018.02.23-12.16.09:853][226]LogBlueprintUserMessages: [underWAter_158] 61.989014
+[2018.02.23-12.16.09:861][227]LogBlueprintUserMessages: [underWAter_158] 62.491943
+[2018.02.23-12.16.09:869][228]LogBlueprintUserMessages: [underWAter_158] 62.974457
+[2018.02.23-12.16.09:877][229]LogBlueprintUserMessages: [underWAter_158] 63.430725
+[2018.02.23-12.16.09:886][230]LogBlueprintUserMessages: [underWAter_158] 63.85614
+[2018.02.23-12.16.09:894][231]LogBlueprintUserMessages: [underWAter_158] 64.247467
+[2018.02.23-12.16.09:903][232]LogBlueprintUserMessages: [underWAter_158] 64.602722
+[2018.02.23-12.16.09:911][233]LogBlueprintUserMessages: [underWAter_158] 64.921082
+[2018.02.23-12.16.09:920][234]LogBlueprintUserMessages: [underWAter_158] 65.202789
+[2018.02.23-12.16.09:928][235]LogBlueprintUserMessages: [underWAter_158] 65.448944
+[2018.02.23-12.16.09:936][236]LogBlueprintUserMessages: [underWAter_158] 65.661377
+[2018.02.23-12.16.09:944][237]LogBlueprintUserMessages: [underWAter_158] 65.842499
+[2018.02.23-12.16.09:953][238]LogBlueprintUserMessages: [underWAter_158] 66.019348
+[2018.02.23-12.16.09:961][239]LogBlueprintUserMessages: [underWAter_158] 66.158997
+[2018.02.23-12.16.09:969][240]LogBlueprintUserMessages: [underWAter_158] 66.435364
+[2018.02.23-12.16.09:978][241]LogBlueprintUserMessages: [underWAter_158] 66.842651
+[2018.02.23-12.16.09:986][242]LogBlueprintUserMessages: [underWAter_158] 67.371857
+[2018.02.23-12.16.09:994][243]LogBlueprintUserMessages: [underWAter_158] 68.010986
+[2018.02.23-12.16.10:003][244]LogBlueprintUserMessages: [underWAter_158] 68.745667
+[2018.02.23-12.16.10:011][245]LogBlueprintUserMessages: [underWAter_158] 69.559692
+[2018.02.23-12.16.10:019][246]LogBlueprintUserMessages: [underWAter_158] 70.435272
+[2018.02.23-12.16.10:028][247]LogBlueprintUserMessages: [underWAter_158] 71.354248
+[2018.02.23-12.16.10:036][248]LogBlueprintUserMessages: [underWAter_158] 72.298126
+[2018.02.23-12.16.10:045][249]LogBlueprintUserMessages: [underWAter_158] 73.249176
+[2018.02.23-12.16.10:053][250]LogBlueprintUserMessages: [underWAter_158] 74.190857
+[2018.02.23-12.16.10:061][251]LogBlueprintUserMessages: [underWAter_158] 75.108246
+[2018.02.23-12.16.10:069][252]LogBlueprintUserMessages: [underWAter_158] 75.988403
+[2018.02.23-12.16.10:077][253]LogBlueprintUserMessages: [underWAter_158] 76.820587
+[2018.02.23-12.16.10:086][254]LogBlueprintUserMessages: [underWAter_158] 77.596497
+[2018.02.23-12.16.10:095][255]LogBlueprintUserMessages: [underWAter_158] 78.310211
+[2018.02.23-12.16.10:103][256]LogBlueprintUserMessages: [underWAter_158] 78.958099
+[2018.02.23-12.16.10:111][257]LogBlueprintUserMessages: [underWAter_158] 79.538696
+[2018.02.23-12.16.10:120][258]LogBlueprintUserMessages: [underWAter_158] 80.052399
+[2018.02.23-12.16.10:128][259]LogBlueprintUserMessages: [underWAter_158] 80.501282
+[2018.02.23-12.16.10:136][260]LogBlueprintUserMessages: [underWAter_158] 80.888672
+[2018.02.23-12.16.10:144][261]LogBlueprintUserMessages: [underWAter_158] 81.218903
+[2018.02.23-12.16.10:153][262]LogBlueprintUserMessages: [underWAter_158] 81.468353
+[2018.02.23-12.16.10:161][263]LogBlueprintUserMessages: [underWAter_158] 81.30426
+[2018.02.23-12.16.10:169][264]LogBlueprintUserMessages: [underWAter_158] 80.979645
+[2018.02.23-12.16.10:178][265]LogBlueprintUserMessages: [underWAter_158] 80.501282
+[2018.02.23-12.16.10:186][266]LogBlueprintUserMessages: [underWAter_158] 79.879791
+[2018.02.23-12.16.10:195][267]LogBlueprintUserMessages: [underWAter_158] 79.129211
+[2018.02.23-12.16.10:203][268]LogBlueprintUserMessages: [underWAter_158] 78.266479
+[2018.02.23-12.16.10:211][269]LogBlueprintUserMessages: [underWAter_158] 77.31076
+[2018.02.23-12.16.10:219][270]LogBlueprintUserMessages: [underWAter_158] 76.282776
+[2018.02.23-12.16.10:228][271]LogBlueprintUserMessages: [underWAter_158] 75.204041
+[2018.02.23-12.16.10:236][272]LogBlueprintUserMessages: [underWAter_158] 74.096008
+[2018.02.23-12.16.10:244][273]LogBlueprintUserMessages: [underWAter_158] 72.979523
+[2018.02.23-12.16.10:253][274]LogBlueprintUserMessages: [underWAter_158] 71.873993
+[2018.02.23-12.16.10:261][275]LogBlueprintUserMessages: [underWAter_158] 70.796967
+[2018.02.23-12.16.10:269][276]LogBlueprintUserMessages: [underWAter_158] 69.763641
+[2018.02.23-12.16.10:278][277]LogBlueprintUserMessages: [underWAter_158] 68.78656
+[2018.02.23-12.16.10:286][278]LogBlueprintUserMessages: [underWAter_158] 67.875519
+[2018.02.23-12.16.10:294][279]LogBlueprintUserMessages: [underWAter_158] 67.037506
+[2018.02.23-12.16.10:303][280]LogBlueprintUserMessages: [underWAter_158] 66.276764
+[2018.02.23-12.16.10:311][281]LogBlueprintUserMessages: [underWAter_158] 65.595032
+[2018.02.23-12.16.10:319][282]LogBlueprintUserMessages: [underWAter_158] 64.991821
+[2018.02.23-12.16.10:328][283]LogBlueprintUserMessages: [underWAter_158] 64.464722
+[2018.02.23-12.16.10:336][284]LogBlueprintUserMessages: [underWAter_158] 64.009827
+[2018.02.23-12.16.10:344][285]LogBlueprintUserMessages: [underWAter_158] 63.62204
+[2018.02.23-12.16.10:354][286]LogBlueprintUserMessages: [underWAter_158] 63.277435
+[2018.02.23-12.16.10:355][286]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.23-12.16.10:390][286]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.23-12.16.13:498][634]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2018.02.23-12.16.13:990][665]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2018.02.23-12.16.16:728][977]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.23-12.16.16:741][977]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.23-12.16.16:741][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.23-12.16.16:741][977]PIE: New page: PIE session: MotionControllerMap (Feb 23, 2018, 2:16:16 PM)
+[2018.02.23-12.16.16:741][977]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.02.23-12.16.16:747][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005612s)
+[2018.02.23-12.16.16:747][977]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.23-12.16.16:747][977]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2018.02.23-12.16.16:748][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006522s)
+[2018.02.23-12.16.16:788][977]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.23-12.16.16:813][977]LogInit: FAudioDevice initialized.
+[2018.02.23-12.16.16:846][977]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.23-12.16.16:846][977]LogLoad: Game class is 'GameModeBase'
+[2018.02.23-12.16.16:847][977]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.02.23-13.16.16
+[2018.02.23-12.16.16:848][977]LogWorld: Bringing up level for play took: 0.000981
+[2018.02.23-12.16.16:850][977]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.75
+[2018.02.23-12.16.16:850][977]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.23-12.16.28:646][389]LogBlueprintUserMessages: [underWAter_158] 0.301544
+[2018.02.23-12.16.28:655][390]LogBlueprintUserMessages: [underWAter_158] 0.842499
+[2018.02.23-12.16.28:663][391]LogBlueprintUserMessages: [underWAter_158] 1.346893
+[2018.02.23-12.16.28:671][392]LogBlueprintUserMessages: [underWAter_158] 1.810852
+[2018.02.23-12.16.28:679][393]LogBlueprintUserMessages: [underWAter_158] 2.232025
+[2018.02.23-12.16.28:688][394]LogBlueprintUserMessages: [underWAter_158] 2.609467
+[2018.02.23-12.16.28:696][395]LogBlueprintUserMessages: [underWAter_158] 2.943451
+[2018.02.23-12.16.28:704][396]LogBlueprintUserMessages: [underWAter_158] 3.235291
+[2018.02.23-12.16.28:713][397]LogBlueprintUserMessages: [underWAter_158] 3.487152
+[2018.02.23-12.16.28:721][398]LogBlueprintUserMessages: [underWAter_158] 3.701874
+[2018.02.23-12.16.28:730][399]LogBlueprintUserMessages: [underWAter_158] 3.868195
+[2018.02.23-12.16.28:738][400]LogBlueprintUserMessages: [underWAter_158] 3.785095
+[2018.02.23-12.16.28:746][401]LogBlueprintUserMessages: [underWAter_158] 3.620605
+[2018.02.23-12.16.28:755][402]LogBlueprintUserMessages: [underWAter_158] 3.378204
+[2018.02.23-12.16.28:763][403]LogBlueprintUserMessages: [underWAter_158] 3.063263
+[2018.02.23-12.16.28:771][404]LogBlueprintUserMessages: [underWAter_158] 2.682861
+[2018.02.23-12.16.28:779][405]LogBlueprintUserMessages: [underWAter_158] 2.245605
+[2018.02.23-12.16.28:788][406]LogBlueprintUserMessages: [underWAter_158] 1.7612
+[2018.02.23-12.16.28:796][407]LogBlueprintUserMessages: [underWAter_158] 1.240173
+[2018.02.23-12.16.28:805][408]LogBlueprintUserMessages: [underWAter_158] 0.69339
+[2018.02.23-12.16.28:813][409]LogBlueprintUserMessages: [underWAter_158] 0.131775
+[2018.02.23-12.16.28:996][431]LogBlueprintUserMessages: [underWAter_158] 1.005432
+[2018.02.23-12.16.29:005][432]LogBlueprintUserMessages: [underWAter_158] 2.319092
+[2018.02.23-12.16.29:013][433]LogBlueprintUserMessages: [underWAter_158] 3.668396
+[2018.02.23-12.16.29:021][434]LogBlueprintUserMessages: [underWAter_158] 5.028046
+[2018.02.23-12.16.29:030][435]LogBlueprintUserMessages: [underWAter_158] 6.37439
+[2018.02.23-12.16.29:038][436]LogBlueprintUserMessages: [underWAter_158] 7.686035
+[2018.02.23-12.16.29:046][437]LogBlueprintUserMessages: [underWAter_158] 8.944458
+[2018.02.23-12.16.29:054][438]LogBlueprintUserMessages: [underWAter_158] 10.134399
+[2018.02.23-12.16.29:063][439]LogBlueprintUserMessages: [underWAter_158] 11.243896
+[2018.02.23-12.16.29:071][440]LogBlueprintUserMessages: [underWAter_158] 12.264496
+[2018.02.23-12.16.29:079][441]LogBlueprintUserMessages: [underWAter_158] 13.19101
+[2018.02.23-12.16.29:088][442]LogBlueprintUserMessages: [underWAter_158] 14.021301
+[2018.02.23-12.16.29:096][443]LogBlueprintUserMessages: [underWAter_158] 14.755981
+[2018.02.23-12.16.29:104][444]LogBlueprintUserMessages: [underWAter_158] 15.397949
+[2018.02.23-12.16.29:113][445]LogBlueprintUserMessages: [underWAter_158] 15.951996
+[2018.02.23-12.16.29:121][446]LogBlueprintUserMessages: [underWAter_158] 16.424316
+[2018.02.23-12.16.29:129][447]LogBlueprintUserMessages: [underWAter_158] 16.824402
+[2018.02.23-12.16.29:138][448]LogBlueprintUserMessages: [underWAter_158] 16.837677
+[2018.02.23-12.16.29:146][449]LogBlueprintUserMessages: [underWAter_158] 16.863953
+[2018.02.23-12.16.29:155][450]LogBlueprintUserMessages: [underWAter_158] 16.902679
+[2018.02.23-12.16.29:163][451]LogBlueprintUserMessages: [underWAter_158] 16.952972
+[2018.02.23-12.16.29:171][452]LogBlueprintUserMessages: [underWAter_158] 17.013702
+[2018.02.23-12.16.29:180][453]LogBlueprintUserMessages: [underWAter_158] 17.083527
+[2018.02.23-12.16.29:188][454]LogBlueprintUserMessages: [underWAter_158] 17.160889
+[2018.02.23-12.16.29:196][455]LogBlueprintUserMessages: [underWAter_158] 17.24411
+[2018.02.23-12.16.29:204][456]LogBlueprintUserMessages: [underWAter_158] 17.331421
+[2018.02.23-12.16.29:213][457]LogBlueprintUserMessages: [underWAter_158] 17.421112
+[2018.02.23-12.16.29:221][458]LogBlueprintUserMessages: [underWAter_158] 17.511475
+[2018.02.23-12.16.29:229][459]LogBlueprintUserMessages: [underWAter_158] 17.600952
+[2018.02.23-12.16.29:238][460]LogBlueprintUserMessages: [underWAter_158] 17.68811
+[2018.02.23-12.16.29:246][461]LogBlueprintUserMessages: [underWAter_158] 17.771729
+[2018.02.23-12.16.29:254][462]LogBlueprintUserMessages: [underWAter_158] 17.8508
+[2018.02.23-12.16.29:263][463]LogBlueprintUserMessages: [underWAter_158] 17.92453
+[2018.02.23-12.16.29:271][464]LogBlueprintUserMessages: [underWAter_158] 17.99234
+[2018.02.23-12.16.29:280][465]LogBlueprintUserMessages: [underWAter_158] 18.053894
+[2018.02.23-12.16.29:288][466]LogBlueprintUserMessages: [underWAter_158] 18.10907
+[2018.02.23-12.16.29:296][467]LogBlueprintUserMessages: [underWAter_158] 18.157898
+[2018.02.23-12.16.29:305][468]LogBlueprintUserMessages: [underWAter_158] 18.200562
+[2018.02.23-12.16.29:313][469]LogBlueprintUserMessages: [underWAter_158] 18.237366
+[2018.02.23-12.16.29:321][470]LogBlueprintUserMessages: [underWAter_158] 18.268738
+[2018.02.23-12.16.29:330][471]LogBlueprintUserMessages: [underWAter_158] 18.295319
+[2018.02.23-12.16.29:338][472]LogBlueprintUserMessages: [underWAter_158] 18.296204
+[2018.02.23-12.16.29:346][473]LogBlueprintUserMessages: [underWAter_158] 18.297943
+[2018.02.23-12.16.29:355][474]LogBlueprintUserMessages: [underWAter_158] 18.300507
+[2018.02.23-12.16.29:363][475]LogBlueprintUserMessages: [underWAter_158] 18.303833
+[2018.02.23-12.16.29:371][476]LogBlueprintUserMessages: [underWAter_158] 18.307861
+[2018.02.23-12.16.29:379][477]LogBlueprintUserMessages: [underWAter_158] 18.3125
+[2018.02.23-12.16.29:388][478]LogBlueprintUserMessages: [underWAter_158] 18.317627
+[2018.02.23-12.16.29:396][479]LogBlueprintUserMessages: [underWAter_158] 18.323151
+[2018.02.23-12.16.29:404][480]LogBlueprintUserMessages: [underWAter_158] 18.328949
+[2018.02.23-12.16.29:413][481]LogBlueprintUserMessages: [underWAter_158] 18.3349
+[2018.02.23-12.16.29:421][482]LogBlueprintUserMessages: [underWAter_158] 18.340912
+[2018.02.23-12.16.29:429][483]LogBlueprintUserMessages: [underWAter_158] 18.346863
+[2018.02.23-12.16.29:438][484]LogBlueprintUserMessages: [underWAter_158] 18.352661
+[2018.02.23-12.16.29:446][485]LogBlueprintUserMessages: [underWAter_158] 18.358215
+[2018.02.23-12.16.29:454][486]LogBlueprintUserMessages: [underWAter_158] 18.363464
+[2018.02.23-12.16.29:463][487]LogBlueprintUserMessages: [underWAter_158] 18.368378
+[2018.02.23-12.16.29:471][488]LogBlueprintUserMessages: [underWAter_158] 18.372894
+[2018.02.23-12.16.29:480][489]LogBlueprintUserMessages: [underWAter_158] 18.376984
+[2018.02.23-12.16.29:488][490]LogBlueprintUserMessages: [underWAter_158] 18.380646
+[2018.02.23-12.16.29:496][491]LogBlueprintUserMessages: [underWAter_158] 18.383881
+[2018.02.23-12.16.29:504][492]LogBlueprintUserMessages: [underWAter_158] 18.386719
+[2018.02.23-12.16.29:513][493]LogBlueprintUserMessages: [underWAter_158] 18.38916
+[2018.02.23-12.16.29:521][494]LogBlueprintUserMessages: [underWAter_158] 18.391235
+[2018.02.23-12.16.29:530][495]LogBlueprintUserMessages: [underWAter_158] 18.374237
+[2018.02.23-12.16.29:538][496]LogBlueprintUserMessages: [underWAter_158] 18.266663
+[2018.02.23-12.16.29:546][497]LogBlueprintUserMessages: [underWAter_158] 18.053741
+[2018.02.23-12.16.29:555][498]LogBlueprintUserMessages: [underWAter_158] 17.73996
+[2018.02.23-12.16.29:563][499]LogBlueprintUserMessages: [underWAter_158] 17.332245
+[2018.02.23-12.16.29:571][500]LogBlueprintUserMessages: [underWAter_158] 16.839844
+[2018.02.23-12.16.29:580][501]LogBlueprintUserMessages: [underWAter_158] 16.273834
+[2018.02.23-12.16.29:588][502]LogBlueprintUserMessages: [underWAter_158] 15.64679
+[2018.02.23-12.16.29:596][503]LogBlueprintUserMessages: [underWAter_158] 14.972321
+[2018.02.23-12.16.29:604][504]LogBlueprintUserMessages: [underWAter_158] 14.264526
+[2018.02.23-12.16.29:613][505]LogBlueprintUserMessages: [underWAter_158] 13.537506
+[2018.02.23-12.16.29:622][506]LogBlueprintUserMessages: [underWAter_158] 12.804901
+[2018.02.23-12.16.29:629][507]LogBlueprintUserMessages: [underWAter_158] 12.079498
+[2018.02.23-12.16.29:638][508]LogBlueprintUserMessages: [underWAter_158] 11.372772
+[2018.02.23-12.16.29:646][509]LogBlueprintUserMessages: [underWAter_158] 10.694733
+[2018.02.23-12.16.29:655][510]LogBlueprintUserMessages: [underWAter_158] 10.053589
+[2018.02.23-12.16.29:663][511]LogBlueprintUserMessages: [underWAter_158] 9.45578
+[2018.02.23-12.16.29:671][512]LogBlueprintUserMessages: [underWAter_158] 8.905884
+[2018.02.23-12.16.29:680][513]LogBlueprintUserMessages: [underWAter_158] 8.406677
+[2018.02.23-12.16.29:688][514]LogBlueprintUserMessages: [underWAter_158] 7.95932
+[2018.02.23-12.16.29:696][515]LogBlueprintUserMessages: [underWAter_158] 7.563477
+[2018.02.23-12.16.29:705][516]LogBlueprintUserMessages: [underWAter_158] 7.21756
+[2018.02.23-12.16.29:713][517]LogBlueprintUserMessages: [underWAter_158] 6.919037
+[2018.02.23-12.16.29:721][518]LogBlueprintUserMessages: [underWAter_158] 6.664551
+[2018.02.23-12.16.29:730][519]LogBlueprintUserMessages: [underWAter_158] 6.457184
+[2018.02.23-12.16.29:738][520]LogBlueprintUserMessages: [underWAter_158] 6.497131
+[2018.02.23-12.16.29:746][521]LogBlueprintUserMessages: [underWAter_158] 6.576172
+[2018.02.23-12.16.29:754][522]LogBlueprintUserMessages: [underWAter_158] 6.692688
+[2018.02.23-12.16.29:763][523]LogBlueprintUserMessages: [underWAter_158] 6.844055
+[2018.02.23-12.16.29:771][524]LogBlueprintUserMessages: [underWAter_158] 7.026886
+[2018.02.23-12.16.29:780][525]LogBlueprintUserMessages: [underWAter_158] 7.23703
+[2018.02.23-12.16.29:788][526]LogBlueprintUserMessages: [underWAter_158] 7.469849
+[2018.02.23-12.16.29:796][527]LogBlueprintUserMessages: [underWAter_158] 7.720276
+[2018.02.23-12.16.29:804][528]LogBlueprintUserMessages: [underWAter_158] 7.983063
+[2018.02.23-12.16.29:813][529]LogBlueprintUserMessages: [underWAter_158] 8.252991
+[2018.02.23-12.16.29:821][530]LogBlueprintUserMessages: [underWAter_158] 8.524994
+[2018.02.23-12.16.29:829][531]LogBlueprintUserMessages: [underWAter_158] 8.794312
+[2018.02.23-12.16.29:838][532]LogBlueprintUserMessages: [underWAter_158] 9.056732
+[2018.02.23-12.16.29:846][533]LogBlueprintUserMessages: [underWAter_158] 9.308502
+[2018.02.23-12.16.29:855][534]LogBlueprintUserMessages: [underWAter_158] 9.54657
+[2018.02.23-12.16.29:863][535]LogBlueprintUserMessages: [underWAter_158] 9.768524
+[2018.02.23-12.16.29:872][536]LogBlueprintUserMessages: [underWAter_158] 9.972687
+[2018.02.23-12.16.29:880][537]LogBlueprintUserMessages: [underWAter_158] 10.158051
+[2018.02.23-12.16.29:888][538]LogBlueprintUserMessages: [underWAter_158] 10.324158
+[2018.02.23-12.16.29:896][539]LogBlueprintUserMessages: [underWAter_158] 10.47113
+[2018.02.23-12.16.29:905][540]LogBlueprintUserMessages: [underWAter_158] 10.599548
+[2018.02.23-12.16.29:913][541]LogBlueprintUserMessages: [underWAter_158] 10.710388
+[2018.02.23-12.16.29:921][542]LogBlueprintUserMessages: [underWAter_158] 10.804871
+[2018.02.23-12.16.29:930][543]LogBlueprintUserMessages: [underWAter_158] 10.906891
+[2018.02.23-12.16.29:938][544]LogBlueprintUserMessages: [underWAter_158] 11.035675
+[2018.02.23-12.16.29:946][545]LogBlueprintUserMessages: [underWAter_158] 11.290588
+[2018.02.23-12.16.29:954][546]LogBlueprintUserMessages: [underWAter_158] 11.66626
+[2018.02.23-12.16.29:963][547]LogBlueprintUserMessages: [underWAter_158] 12.154358
+[2018.02.23-12.16.29:971][548]LogBlueprintUserMessages: [underWAter_158] 12.743866
+[2018.02.23-12.16.29:980][549]LogBlueprintUserMessages: [underWAter_158] 13.421509
+[2018.02.23-12.16.29:988][550]LogBlueprintUserMessages: [underWAter_158] 14.172211
+[2018.02.23-12.16.29:996][551]LogBlueprintUserMessages: [underWAter_158] 14.979675
+[2018.02.23-12.16.30:005][552]LogBlueprintUserMessages: [underWAter_158] 15.827057
+[2018.02.23-12.16.30:013][553]LogBlueprintUserMessages: [underWAter_158] 16.69751
+[2018.02.23-12.16.30:021][554]LogBlueprintUserMessages: [underWAter_158] 17.574615
+[2018.02.23-12.16.30:030][555]LogBlueprintUserMessages: [underWAter_158] 18.443115
+[2018.02.23-12.16.30:038][556]LogBlueprintUserMessages: [underWAter_158] 19.289246
+[2018.02.23-12.16.30:046][557]LogBlueprintUserMessages: [underWAter_158] 20.101044
+[2018.02.23-12.16.30:054][558]LogBlueprintUserMessages: [underWAter_158] 20.868622
+[2018.02.23-12.16.30:063][559]LogBlueprintUserMessages: [underWAter_158] 21.58432
+[2018.02.23-12.16.30:071][560]LogBlueprintUserMessages: [underWAter_158] 22.242676
+[2018.02.23-12.16.30:080][561]LogBlueprintUserMessages: [underWAter_158] 22.840302
+[2018.02.23-12.16.30:088][562]LogBlueprintUserMessages: [underWAter_158] 23.375854
+[2018.02.23-12.16.30:096][563]LogBlueprintUserMessages: [underWAter_158] 23.849731
+[2018.02.23-12.16.30:105][564]LogBlueprintUserMessages: [underWAter_158] 24.263794
+[2018.02.23-12.16.30:113][565]LogBlueprintUserMessages: [underWAter_158] 24.621155
+[2018.02.23-12.16.30:122][566]LogBlueprintUserMessages: [underWAter_158] 24.925812
+[2018.02.23-12.16.30:130][567]LogBlueprintUserMessages: [underWAter_158] 25.192932
+[2018.02.23-12.16.30:138][568]LogBlueprintUserMessages: [underWAter_158] 25.253632
+[2018.02.23-12.16.30:146][569]LogBlueprintUserMessages: [underWAter_158] 25.373749
+[2018.02.23-12.16.30:154][570]LogBlueprintUserMessages: [underWAter_158] 25.550781
+[2018.02.23-12.16.30:163][571]LogBlueprintUserMessages: [underWAter_158] 25.780792
+[2018.02.23-12.16.30:171][572]LogBlueprintUserMessages: [underWAter_158] 26.058624
+[2018.02.23-12.16.30:179][573]LogBlueprintUserMessages: [underWAter_158] 26.37796
+[2018.02.23-12.16.30:188][574]LogBlueprintUserMessages: [underWAter_158] 26.73172
+[2018.02.23-12.16.30:196][575]LogBlueprintUserMessages: [underWAter_158] 27.112244
+[2018.02.23-12.16.30:204][576]LogBlueprintUserMessages: [underWAter_158] 27.511566
+[2018.02.23-12.16.30:213][577]LogBlueprintUserMessages: [underWAter_158] 27.921753
+[2018.02.23-12.16.30:222][578]LogBlueprintUserMessages: [underWAter_158] 28.335083
+[2018.02.23-12.16.30:230][579]LogBlueprintUserMessages: [underWAter_158] 28.744354
+[2018.02.23-12.16.30:238][580]LogBlueprintUserMessages: [underWAter_158] 29.143066
+[2018.02.23-12.16.30:246][581]LogBlueprintUserMessages: [underWAter_158] 29.525604
+[2018.02.23-12.16.30:255][582]LogBlueprintUserMessages: [underWAter_158] 29.887329
+[2018.02.23-12.16.30:263][583]LogBlueprintUserMessages: [underWAter_158] 30.224609
+[2018.02.23-12.16.30:271][584]LogBlueprintUserMessages: [underWAter_158] 30.534851
+[2018.02.23-12.16.30:280][585]LogBlueprintUserMessages: [underWAter_158] 30.816498
+[2018.02.23-12.16.30:288][586]LogBlueprintUserMessages: [underWAter_158] 31.068909
+[2018.02.23-12.16.30:296][587]LogBlueprintUserMessages: [underWAter_158] 31.292236
+[2018.02.23-12.16.30:305][588]LogBlueprintUserMessages: [underWAter_158] 31.487396
+[2018.02.23-12.16.30:313][589]LogBlueprintUserMessages: [underWAter_158] 31.655823
+[2018.02.23-12.16.30:321][590]LogBlueprintUserMessages: [underWAter_158] 31.799408
+[2018.02.23-12.16.30:329][591]LogBlueprintUserMessages: [underWAter_158] 31.935089
+[2018.02.23-12.16.30:338][592]LogBlueprintUserMessages: [underWAter_158] 32.019867
+[2018.02.23-12.16.30:346][593]LogBlueprintUserMessages: [underWAter_158] 32.187622
+[2018.02.23-12.16.30:354][594]LogBlueprintUserMessages: [underWAter_158] 32.434845
+[2018.02.23-12.16.30:363][595]LogBlueprintUserMessages: [underWAter_158] 32.756073
+[2018.02.23-12.16.30:371][596]LogBlueprintUserMessages: [underWAter_158] 33.144043
+[2018.02.23-12.16.30:380][597]LogBlueprintUserMessages: [underWAter_158] 33.590118
+[2018.02.23-12.16.30:388][598]LogBlueprintUserMessages: [underWAter_158] 34.084259
+[2018.02.23-12.16.30:396][599]LogBlueprintUserMessages: [underWAter_158] 34.615753
+[2018.02.23-12.16.30:404][600]LogBlueprintUserMessages: [underWAter_158] 35.173492
+[2018.02.23-12.16.30:413][601]LogBlueprintUserMessages: [underWAter_158] 35.746368
+[2018.02.23-12.16.30:421][602]LogBlueprintUserMessages: [underWAter_158] 36.323608
+[2018.02.23-12.16.30:430][603]LogBlueprintUserMessages: [underWAter_158] 36.895172
+[2018.02.23-12.16.30:438][604]LogBlueprintUserMessages: [underWAter_158] 37.452026
+[2018.02.23-12.16.30:446][605]LogBlueprintUserMessages: [underWAter_158] 37.986267
+[2018.02.23-12.16.30:455][606]LogBlueprintUserMessages: [underWAter_158] 38.491425
+[2018.02.23-12.16.30:463][607]LogBlueprintUserMessages: [underWAter_158] 38.962433
+[2018.02.23-12.16.30:471][608]LogBlueprintUserMessages: [underWAter_158] 39.395691
+[2018.02.23-12.16.30:480][609]LogBlueprintUserMessages: [underWAter_158] 39.789001
+[2018.02.23-12.16.30:488][610]LogBlueprintUserMessages: [underWAter_158] 40.141449
+[2018.02.23-12.16.30:496][611]LogBlueprintUserMessages: [underWAter_158] 40.453308
+[2018.02.23-12.16.30:505][612]LogBlueprintUserMessages: [underWAter_158] 40.7258
+[2018.02.23-12.16.30:513][613]LogBlueprintUserMessages: [underWAter_158] 40.960968
+[2018.02.23-12.16.30:521][614]LogBlueprintUserMessages: [underWAter_158] 41.161469
+[2018.02.23-12.16.30:530][615]LogBlueprintUserMessages: [underWAter_158] 41.327454
+[2018.02.23-12.16.30:538][616]LogBlueprintUserMessages: [underWAter_158] 41.311218
+[2018.02.23-12.16.30:546][617]LogBlueprintUserMessages: [underWAter_158] 41.279083
+[2018.02.23-12.16.30:554][618]LogBlueprintUserMessages: [underWAter_158] 41.23175
+[2018.02.23-12.16.30:563][619]LogBlueprintUserMessages: [underWAter_158] 41.170227
+[2018.02.23-12.16.30:571][620]LogBlueprintUserMessages: [underWAter_158] 41.095917
+[2018.02.23-12.16.30:580][621]LogBlueprintUserMessages: [underWAter_158] 41.010498
+[2018.02.23-12.16.30:588][622]LogBlueprintUserMessages: [underWAter_158] 40.915894
+[2018.02.23-12.16.30:596][623]LogBlueprintUserMessages: [underWAter_158] 40.814117
+[2018.02.23-12.16.30:605][624]LogBlueprintUserMessages: [underWAter_158] 40.707336
+[2018.02.23-12.16.30:613][625]LogBlueprintUserMessages: [underWAter_158] 40.597626
+[2018.02.23-12.16.30:621][626]LogBlueprintUserMessages: [underWAter_158] 40.487091
+[2018.02.23-12.16.30:630][627]LogBlueprintUserMessages: [underWAter_158] 40.377625
+[2018.02.23-12.16.30:638][628]LogBlueprintUserMessages: [underWAter_158] 40.270996
+[2018.02.23-12.16.30:646][629]LogBlueprintUserMessages: [underWAter_158] 40.168701
+[2018.02.23-12.16.30:655][630]LogBlueprintUserMessages: [underWAter_158] 40.07196
+[2018.02.23-12.16.30:663][631]LogBlueprintUserMessages: [underWAter_158] 39.98175
+[2018.02.23-12.16.30:672][632]LogBlueprintUserMessages: [underWAter_158] 39.898773
+[2018.02.23-12.16.30:680][633]LogBlueprintUserMessages: [underWAter_158] 39.823456
+[2018.02.23-12.16.30:688][634]LogBlueprintUserMessages: [underWAter_158] 39.755951
+[2018.02.23-12.16.30:696][635]LogBlueprintUserMessages: [underWAter_158] 39.696228
+[2018.02.23-12.16.30:704][636]LogBlueprintUserMessages: [underWAter_158] 39.644043
+[2018.02.23-12.16.30:713][637]LogBlueprintUserMessages: [underWAter_158] 39.598999
+[2018.02.23-12.16.30:721][638]LogBlueprintUserMessages: [underWAter_158] 39.560608
+[2018.02.23-12.16.30:730][639]LogBlueprintUserMessages: [underWAter_158] 39.534515
+[2018.02.23-12.16.30:738][640]LogBlueprintUserMessages: [underWAter_158] 39.570435
+[2018.02.23-12.16.30:746][641]LogBlueprintUserMessages: [underWAter_158] 39.641541
+[2018.02.23-12.16.30:754][642]LogBlueprintUserMessages: [underWAter_158] 39.746307
+[2018.02.23-12.16.30:763][643]LogBlueprintUserMessages: [underWAter_158] 39.882446
+[2018.02.23-12.16.30:772][644]LogBlueprintUserMessages: [underWAter_158] 40.046875
+[2018.02.23-12.16.30:780][645]LogBlueprintUserMessages: [underWAter_158] 40.23587
+[2018.02.23-12.16.30:788][646]LogBlueprintUserMessages: [underWAter_158] 40.445251
+[2018.02.23-12.16.30:796][647]LogBlueprintUserMessages: [underWAter_158] 40.670471
+[2018.02.23-12.16.30:805][648]LogBlueprintUserMessages: [underWAter_158] 40.90683
+[2018.02.23-12.16.30:813][649]LogBlueprintUserMessages: [underWAter_158] 41.149597
+[2018.02.23-12.16.30:821][650]LogBlueprintUserMessages: [underWAter_158] 41.394226
+[2018.02.23-12.16.30:830][651]LogBlueprintUserMessages: [underWAter_158] 41.636475
+[2018.02.23-12.16.30:838][652]LogBlueprintUserMessages: [underWAter_158] 41.872467
+[2018.02.23-12.16.30:846][653]LogBlueprintUserMessages: [underWAter_158] 42.098907
+[2018.02.23-12.16.30:855][654]LogBlueprintUserMessages: [underWAter_158] 42.312988
+[2018.02.23-12.16.30:863][655]LogBlueprintUserMessages: [underWAter_158] 42.512604
+[2018.02.23-12.16.30:872][656]LogBlueprintUserMessages: [underWAter_158] 42.696228
+[2018.02.23-12.16.30:880][657]LogBlueprintUserMessages: [underWAter_158] 42.862946
+[2018.02.23-12.16.30:888][658]LogBlueprintUserMessages: [underWAter_158] 43.012329
+[2018.02.23-12.16.30:896][659]LogBlueprintUserMessages: [underWAter_158] 43.144501
+[2018.02.23-12.16.30:904][660]LogBlueprintUserMessages: [underWAter_158] 43.259979
+[2018.02.23-12.16.30:913][661]LogBlueprintUserMessages: [underWAter_158] 43.35965
+[2018.02.23-12.16.30:921][662]LogBlueprintUserMessages: [underWAter_158] 43.444611
+[2018.02.23-12.16.30:929][663]LogBlueprintUserMessages: [underWAter_158] 43.544434
+[2018.02.23-12.16.30:938][664]LogBlueprintUserMessages: [underWAter_158] 43.706604
+[2018.02.23-12.16.30:946][665]LogBlueprintUserMessages: [underWAter_158] 44.027557
+[2018.02.23-12.16.30:955][666]LogBlueprintUserMessages: [underWAter_158] 44.500549
+[2018.02.23-12.16.30:963][667]LogBlueprintUserMessages: [underWAter_158] 45.115112
+[2018.02.23-12.16.30:971][668]LogBlueprintUserMessages: [underWAter_158] 45.857361
+[2018.02.23-12.16.30:980][669]LogBlueprintUserMessages: [underWAter_158] 46.710571
+[2018.02.23-12.16.30:988][670]LogBlueprintUserMessages: [underWAter_158] 47.655762
+[2018.02.23-12.16.30:996][671]LogBlueprintUserMessages: [underWAter_158] 48.672455
+[2018.02.23-12.16.31:005][672]LogBlueprintUserMessages: [underWAter_158] 49.73938
+[2018.02.23-12.16.31:013][673]LogBlueprintUserMessages: [underWAter_158] 50.835266
+[2018.02.23-12.16.31:021][674]LogBlueprintUserMessages: [underWAter_158] 51.939575
+[2018.02.23-12.16.31:030][675]LogBlueprintUserMessages: [underWAter_158] 53.033051
+[2018.02.23-12.16.31:038][676]LogBlueprintUserMessages: [underWAter_158] 54.098358
+[2018.02.23-12.16.31:046][677]LogBlueprintUserMessages: [underWAter_158] 55.120453
+[2018.02.23-12.16.31:054][678]LogBlueprintUserMessages: [underWAter_158] 56.086884
+[2018.02.23-12.16.31:063][679]LogBlueprintUserMessages: [underWAter_158] 56.988007
+[2018.02.23-12.16.31:071][680]LogBlueprintUserMessages: [underWAter_158] 57.816925
+[2018.02.23-12.16.31:079][681]LogBlueprintUserMessages: [underWAter_158] 58.569397
+[2018.02.23-12.16.31:088][682]LogBlueprintUserMessages: [underWAter_158] 59.243744
+[2018.02.23-12.16.31:096][683]LogBlueprintUserMessages: [underWAter_158] 59.840424
+[2018.02.23-12.16.31:105][684]LogBlueprintUserMessages: [underWAter_158] 60.361816
+[2018.02.23-12.16.31:113][685]LogBlueprintUserMessages: [underWAter_158] 60.811798
+[2018.02.23-12.16.31:122][686]LogBlueprintUserMessages: [underWAter_158] 61.195435
+[2018.02.23-12.16.31:131][687]LogBlueprintUserMessages: [underWAter_158] 61.512726
+[2018.02.23-12.16.31:139][688]LogBlueprintUserMessages: [underWAter_158] 61.479767
+[2018.02.23-12.16.31:148][689]LogBlueprintUserMessages: [underWAter_158] 61.414551
+[2018.02.23-12.16.31:156][690]LogBlueprintUserMessages: [underWAter_158] 61.31842
+[2018.02.23-12.16.31:165][691]LogBlueprintUserMessages: [underWAter_158] 61.193542
+[2018.02.23-12.16.31:173][692]LogBlueprintUserMessages: [underWAter_158] 61.042725
+[2018.02.23-12.16.31:181][693]LogBlueprintUserMessages: [underWAter_158] 60.869354
+[2018.02.23-12.16.31:189][694]LogBlueprintUserMessages: [underWAter_158] 60.677277
+[2018.02.23-12.16.31:198][695]LogBlueprintUserMessages: [underWAter_158] 60.470673
+[2018.02.23-12.16.31:206][696]LogBlueprintUserMessages: [underWAter_158] 60.253876
+[2018.02.23-12.16.31:214][697]LogBlueprintUserMessages: [underWAter_158] 60.031189
+[2018.02.23-12.16.31:223][698]LogBlueprintUserMessages: [underWAter_158] 59.806793
+[2018.02.23-12.16.31:231][699]LogBlueprintUserMessages: [underWAter_158] 59.584595
+[2018.02.23-12.16.31:239][700]LogBlueprintUserMessages: [underWAter_158] 59.368134
+[2018.02.23-12.16.31:248][701]LogBlueprintUserMessages: [underWAter_158] 59.160461
+[2018.02.23-12.16.31:256][702]LogBlueprintUserMessages: [underWAter_158] 58.964081
+[2018.02.23-12.16.31:264][703]LogBlueprintUserMessages: [underWAter_158] 58.780975
+[2018.02.23-12.16.31:272][704]LogBlueprintUserMessages: [underWAter_158] 58.612549
+[2018.02.23-12.16.31:281][705]LogBlueprintUserMessages: [underWAter_158] 58.459656
+[2018.02.23-12.16.31:289][706]LogBlueprintUserMessages: [underWAter_158] 58.322632
+[2018.02.23-12.16.31:298][707]LogBlueprintUserMessages: [underWAter_158] 58.201385
+[2018.02.23-12.16.31:306][708]LogBlueprintUserMessages: [underWAter_158] 58.095428
+[2018.02.23-12.16.31:314][709]LogBlueprintUserMessages: [underWAter_158] 58.003998
+[2018.02.23-12.16.31:323][710]LogBlueprintUserMessages: [underWAter_158] 57.926056
+[2018.02.23-12.16.31:331][711]LogBlueprintUserMessages: [underWAter_158] 57.872925
+[2018.02.23-12.16.31:339][712]LogBlueprintUserMessages: [underWAter_158] 57.944733
+[2018.02.23-12.16.31:348][713]LogBlueprintUserMessages: [underWAter_158] 58.086853
+[2018.02.23-12.16.31:356][714]LogBlueprintUserMessages: [underWAter_158] 58.296326
+[2018.02.23-12.16.31:364][715]LogBlueprintUserMessages: [underWAter_158] 58.568481
+[2018.02.23-12.16.31:373][716]LogBlueprintUserMessages: [underWAter_158] 58.897186
+[2018.02.23-12.16.31:381][717]LogBlueprintUserMessages: [underWAter_158] 59.275024
+[2018.02.23-12.16.31:389][718]LogBlueprintUserMessages: [underWAter_158] 59.693604
+[2018.02.23-12.16.31:398][719]LogBlueprintUserMessages: [underWAter_158] 60.143829
+[2018.02.23-12.16.31:406][720]LogBlueprintUserMessages: [underWAter_158] 60.616302
+[2018.02.23-12.16.31:414][721]LogBlueprintUserMessages: [underWAter_158] 61.101624
+[2018.02.23-12.16.31:423][722]LogBlueprintUserMessages: [underWAter_158] 61.590637
+[2018.02.23-12.16.31:431][723]LogBlueprintUserMessages: [underWAter_158] 62.07486
+[2018.02.23-12.16.31:439][724]LogBlueprintUserMessages: [underWAter_158] 62.5466
+[2018.02.23-12.16.31:448][725]LogBlueprintUserMessages: [underWAter_158] 62.999207
+[2018.02.23-12.16.31:456][726]LogBlueprintUserMessages: [underWAter_158] 63.427185
+[2018.02.23-12.16.31:464][727]LogBlueprintUserMessages: [underWAter_158] 63.826233
+[2018.02.23-12.16.31:473][728]LogBlueprintUserMessages: [underWAter_158] 64.193298
+[2018.02.23-12.16.31:481][729]LogBlueprintUserMessages: [underWAter_158] 64.52652
+[2018.02.23-12.16.31:489][730]LogBlueprintUserMessages: [underWAter_158] 64.825134
+[2018.02.23-12.16.31:498][731]LogBlueprintUserMessages: [underWAter_158] 65.089386
+[2018.02.23-12.16.31:506][732]LogBlueprintUserMessages: [underWAter_158] 65.320282
+[2018.02.23-12.16.31:514][733]LogBlueprintUserMessages: [underWAter_158] 65.519562
+[2018.02.23-12.16.31:523][734]LogBlueprintUserMessages: [underWAter_158] 65.689453
+[2018.02.23-12.16.31:531][735]LogBlueprintUserMessages: [underWAter_158] 65.82486
+[2018.02.23-12.16.31:539][736]LogBlueprintUserMessages: [underWAter_158] 65.780853
+[2018.02.23-12.16.31:547][737]LogBlueprintUserMessages: [underWAter_158] 65.693756
+[2018.02.23-12.16.31:556][738]LogBlueprintUserMessages: [underWAter_158] 65.565399
+[2018.02.23-12.16.31:565][739]LogBlueprintUserMessages: [underWAter_158] 65.398651
+[2018.02.23-12.16.31:573][740]LogBlueprintUserMessages: [underWAter_158] 65.197235
+[2018.02.23-12.16.31:581][741]LogBlueprintUserMessages: [underWAter_158] 64.965729
+[2018.02.23-12.16.31:589][742]LogBlueprintUserMessages: [underWAter_158] 64.709259
+[2018.02.23-12.16.31:598][743]LogBlueprintUserMessages: [underWAter_158] 64.43338
+[2018.02.23-12.16.31:606][744]LogBlueprintUserMessages: [underWAter_158] 64.14389
+[2018.02.23-12.16.31:614][745]LogBlueprintUserMessages: [underWAter_158] 63.846497
+[2018.02.23-12.16.31:623][746]LogBlueprintUserMessages: [underWAter_158] 63.546783
+[2018.02.23-12.16.31:631][747]LogBlueprintUserMessages: [underWAter_158] 63.250031
+[2018.02.23-12.16.31:639][748]LogBlueprintUserMessages: [underWAter_158] 62.960938
+[2018.02.23-12.16.31:647][749]LogBlueprintUserMessages: [underWAter_158] 62.683594
+[2018.02.23-12.16.31:656][750]LogBlueprintUserMessages: [underWAter_158] 62.421356
+[2018.02.23-12.16.31:664][751]LogBlueprintUserMessages: [underWAter_158] 62.176819
+[2018.02.23-12.16.31:672][752]LogBlueprintUserMessages: [underWAter_158] 61.951904
+[2018.02.23-12.16.31:681][753]LogBlueprintUserMessages: [underWAter_158] 61.747742
+[2018.02.23-12.16.31:689][754]LogBlueprintUserMessages: [underWAter_158] 61.564758
+[2018.02.23-12.16.31:698][755]LogBlueprintUserMessages: [underWAter_158] 61.402863
+[2018.02.23-12.16.31:706][756]LogBlueprintUserMessages: [underWAter_158] 61.261414
+[2018.02.23-12.16.31:714][757]LogBlueprintUserMessages: [underWAter_158] 61.139343
+[2018.02.23-12.16.31:722][758]LogBlueprintUserMessages: [underWAter_158] 61.035278
+[2018.02.23-12.16.31:731][759]LogBlueprintUserMessages: [underWAter_158] 60.949768
+[2018.02.23-12.16.31:739][760]LogBlueprintUserMessages: [underWAter_158] 60.961975
+[2018.02.23-12.16.31:748][761]LogBlueprintUserMessages: [underWAter_158] 60.986145
+[2018.02.23-12.16.31:756][762]LogBlueprintUserMessages: [underWAter_158] 61.021759
+[2018.02.23-12.16.31:764][763]LogBlueprintUserMessages: [underWAter_158] 61.068054
+[2018.02.23-12.16.31:773][764]LogBlueprintUserMessages: [underWAter_158] 61.123962
+[2018.02.23-12.16.31:781][765]LogBlueprintUserMessages: [underWAter_158] 61.188232
+[2018.02.23-12.16.31:789][766]LogBlueprintUserMessages: [underWAter_158] 61.25943
+[2018.02.23-12.16.31:798][767]LogBlueprintUserMessages: [underWAter_158] 61.335999
+[2018.02.23-12.16.31:806][768]LogBlueprintUserMessages: [underWAter_158] 61.416351
+[2018.02.23-12.16.31:814][769]LogBlueprintUserMessages: [underWAter_158] 61.498901
+[2018.02.23-12.16.31:823][770]LogBlueprintUserMessages: [underWAter_158] 61.582062
+[2018.02.23-12.16.31:831][771]LogBlueprintUserMessages: [underWAter_158] 61.664429
+[2018.02.23-12.16.31:839][772]LogBlueprintUserMessages: [underWAter_158] 61.744659
+[2018.02.23-12.16.31:848][773]LogBlueprintUserMessages: [underWAter_158] 61.821625
+[2018.02.23-12.16.31:856][774]LogBlueprintUserMessages: [underWAter_158] 61.894409
+[2018.02.23-12.16.31:864][775]LogBlueprintUserMessages: [underWAter_158] 61.96228
+[2018.02.23-12.16.31:873][776]LogBlueprintUserMessages: [underWAter_158] 62.024719
+[2018.02.23-12.16.31:881][777]LogBlueprintUserMessages: [underWAter_158] 62.08139
+[2018.02.23-12.16.31:889][778]LogBlueprintUserMessages: [underWAter_158] 62.132172
+[2018.02.23-12.16.31:897][779]LogBlueprintUserMessages: [underWAter_158] 62.177124
+[2018.02.23-12.16.31:906][780]LogBlueprintUserMessages: [underWAter_158] 62.2164
+[2018.02.23-12.16.31:914][781]LogBlueprintUserMessages: [underWAter_158] 62.250275
+[2018.02.23-12.16.31:922][782]LogBlueprintUserMessages: [underWAter_158] 62.279175
+[2018.02.23-12.16.31:931][783]LogBlueprintUserMessages: [underWAter_158] 62.288666
+[2018.02.23-12.16.31:939][784]LogBlueprintUserMessages: [underWAter_158] 62.203705
+[2018.02.23-12.16.31:948][785]LogBlueprintUserMessages: [underWAter_158] 62.035553
+[2018.02.23-12.16.31:956][786]LogBlueprintUserMessages: [underWAter_158] 61.78772
+[2018.02.23-12.16.31:964][787]LogBlueprintUserMessages: [underWAter_158] 61.465729
+[2018.02.23-12.16.31:973][788]LogBlueprintUserMessages: [underWAter_158] 61.076843
+[2018.02.23-12.16.31:981][789]LogBlueprintUserMessages: [underWAter_158] 60.629822
+[2018.02.23-12.16.31:989][790]LogBlueprintUserMessages: [underWAter_158] 60.134613
+[2018.02.23-12.16.31:998][791]LogBlueprintUserMessages: [underWAter_158] 59.601929
+[2018.02.23-12.16.32:006][792]LogBlueprintUserMessages: [underWAter_158] 59.042938
+[2018.02.23-12.16.32:014][793]LogBlueprintUserMessages: [underWAter_158] 58.46875
+[2018.02.23-12.16.32:023][794]LogBlueprintUserMessages: [underWAter_158] 57.890167
+[2018.02.23-12.16.32:031][795]LogBlueprintUserMessages: [underWAter_158] 57.317261
+[2018.02.23-12.16.32:039][796]LogBlueprintUserMessages: [underWAter_158] 56.759125
+[2018.02.23-12.16.32:048][797]LogBlueprintUserMessages: [underWAter_158] 56.223633
+[2018.02.23-12.16.32:056][798]LogBlueprintUserMessages: [underWAter_158] 55.717285
+[2018.02.23-12.16.32:064][799]LogBlueprintUserMessages: [underWAter_158] 55.245148
+[2018.02.23-12.16.32:073][800]LogBlueprintUserMessages: [underWAter_158] 54.810852
+[2018.02.23-12.16.32:081][801]LogBlueprintUserMessages: [underWAter_158] 54.416595
+[2018.02.23-12.16.32:089][802]LogBlueprintUserMessages: [underWAter_158] 54.063293
+[2018.02.23-12.16.32:098][803]LogBlueprintUserMessages: [underWAter_158] 53.750671
+[2018.02.23-12.16.32:106][804]LogBlueprintUserMessages: [underWAter_158] 53.477509
+[2018.02.23-12.16.32:115][805]LogBlueprintUserMessages: [underWAter_158] 53.24173
+[2018.02.23-12.16.32:123][806]LogBlueprintUserMessages: [underWAter_158] 53.040741
+[2018.02.23-12.16.32:131][807]LogBlueprintUserMessages: [underWAter_158] 52.909821
+[2018.02.23-12.16.32:139][808]LogBlueprintUserMessages: [underWAter_158] 53.129547
+[2018.02.23-12.16.32:148][809]LogBlueprintUserMessages: [underWAter_158] 53.564423
+[2018.02.23-12.16.32:156][810]LogBlueprintUserMessages: [underWAter_158] 54.205322
+[2018.02.23-12.16.32:164][811]LogBlueprintUserMessages: [underWAter_158] 55.038025
+[2018.02.23-12.16.32:173][812]LogBlueprintUserMessages: [underWAter_158] 56.043732
+[2018.02.23-12.16.32:181][813]LogBlueprintUserMessages: [underWAter_158] 57.199768
+[2018.02.23-12.16.32:189][814]LogBlueprintUserMessages: [underWAter_158] 58.480438
+[2018.02.23-12.16.32:198][815]LogBlueprintUserMessages: [underWAter_158] 59.858002
+[2018.02.23-12.16.32:206][816]LogBlueprintUserMessages: [underWAter_158] 61.303619
+[2018.02.23-12.16.32:214][817]LogBlueprintUserMessages: [underWAter_158] 62.788483
+[2018.02.23-12.16.32:222][818]LogBlueprintUserMessages: [underWAter_158] 64.284729
+[2018.02.23-12.16.32:231][819]LogBlueprintUserMessages: [underWAter_158] 65.766479
+[2018.02.23-12.16.32:240][820]LogBlueprintUserMessages: [underWAter_158] 67.210022
+[2018.02.23-12.16.32:248][821]LogBlueprintUserMessages: [underWAter_158] 68.595001
+[2018.02.23-12.16.32:256][822]LogBlueprintUserMessages: [underWAter_158] 69.904541
+[2018.02.23-12.16.32:264][823]LogBlueprintUserMessages: [underWAter_158] 71.125549
+[2018.02.23-12.16.32:273][824]LogBlueprintUserMessages: [underWAter_158] 72.248688
+[2018.02.23-12.16.32:281][825]LogBlueprintUserMessages: [underWAter_158] 73.26828
+[2018.02.23-12.16.32:289][826]LogBlueprintUserMessages: [underWAter_158] 74.181946
+[2018.02.23-12.16.32:298][827]LogBlueprintUserMessages: [underWAter_158] 74.990387
+[2018.02.23-12.16.32:306][828]LogBlueprintUserMessages: [underWAter_158] 75.696808
+[2018.02.23-12.16.32:314][829]LogBlueprintUserMessages: [underWAter_158] 76.306488
+[2018.02.23-12.16.32:323][830]LogBlueprintUserMessages: [underWAter_158] 76.826233
+[2018.02.23-12.16.32:331][831]LogBlueprintUserMessages: [underWAter_158] 77.270538
+[2018.02.23-12.16.32:339][832]LogBlueprintUserMessages: [underWAter_158] 77.308685
+[2018.02.23-12.16.32:348][833]LogBlueprintUserMessages: [underWAter_158] 77.384186
+[2018.02.23-12.16.32:356][834]LogBlueprintUserMessages: [underWAter_158] 77.495453
+[2018.02.23-12.16.32:364][835]LogBlueprintUserMessages: [underWAter_158] 77.640015
+[2018.02.23-12.16.32:373][836]LogBlueprintUserMessages: [underWAter_158] 77.814606
+[2018.02.23-12.16.32:381][837]LogBlueprintUserMessages: [underWAter_158] 78.01532
+[2018.02.23-12.16.32:389][838]LogBlueprintUserMessages: [underWAter_158] 78.237671
+[2018.02.23-12.16.32:397][839]LogBlueprintUserMessages: [underWAter_158] 78.476837
+[2018.02.23-12.16.32:406][840]LogBlueprintUserMessages: [underWAter_158] 78.727814
+[2018.02.23-12.16.32:414][841]LogBlueprintUserMessages: [underWAter_158] 78.985596
+[2018.02.23-12.16.32:423][842]LogBlueprintUserMessages: [underWAter_158] 79.245361
+[2018.02.23-12.16.32:431][843]LogBlueprintUserMessages: [underWAter_158] 79.502563
+[2018.02.23-12.16.32:439][844]LogBlueprintUserMessages: [underWAter_158] 79.753143
+[2018.02.23-12.16.32:448][845]LogBlueprintUserMessages: [underWAter_158] 79.993561
+[2018.02.23-12.16.32:456][846]LogBlueprintUserMessages: [underWAter_158] 80.220886
+[2018.02.23-12.16.32:464][847]LogBlueprintUserMessages: [underWAter_158] 80.432861
+[2018.02.23-12.16.32:473][848]LogBlueprintUserMessages: [underWAter_158] 80.627838
+[2018.02.23-12.16.32:481][849]LogBlueprintUserMessages: [underWAter_158] 80.80484
+[2018.02.23-12.16.32:489][850]LogBlueprintUserMessages: [underWAter_158] 80.96347
+[2018.02.23-12.16.32:498][851]LogBlueprintUserMessages: [underWAter_158] 81.103821
+[2018.02.23-12.16.32:506][852]LogBlueprintUserMessages: [underWAter_158] 81.226471
+[2018.02.23-12.16.32:514][853]LogBlueprintUserMessages: [underWAter_158] 81.332306
+[2018.02.23-12.16.32:523][854]LogBlueprintUserMessages: [underWAter_158] 81.422546
+[2018.02.23-12.16.32:531][855]LogBlueprintUserMessages: [underWAter_158] 81.499847
+[2018.02.23-12.16.32:539][856]LogBlueprintUserMessages: [underWAter_158] 81.507416
+[2018.02.23-12.16.32:548][857]LogBlueprintUserMessages: [underWAter_158] 81.52243
+[2018.02.23-12.16.32:556][858]LogBlueprintUserMessages: [underWAter_158] 81.544556
+[2018.02.23-12.16.32:564][859]LogBlueprintUserMessages: [underWAter_158] 81.573273
+[2018.02.23-12.16.32:572][860]LogBlueprintUserMessages: [underWAter_158] 81.607971
+[2018.02.23-12.16.32:581][861]LogBlueprintUserMessages: [underWAter_158] 81.647858
+[2018.02.23-12.16.32:589][862]LogBlueprintUserMessages: [underWAter_158] 81.692047
+[2018.02.23-12.16.32:597][863]LogBlueprintUserMessages: [underWAter_158] 81.739563
+[2018.02.23-12.16.32:606][864]LogBlueprintUserMessages: [underWAter_158] 81.789459
+[2018.02.23-12.16.32:615][865]LogBlueprintUserMessages: [underWAter_158] 81.840698
+[2018.02.23-12.16.32:623][866]LogBlueprintUserMessages: [underWAter_158] 81.892334
+[2018.02.23-12.16.32:631][867]LogBlueprintUserMessages: [underWAter_158] 81.943451
+[2018.02.23-12.16.32:640][868]LogBlueprintUserMessages: [underWAter_158] 81.993256
+[2018.02.23-12.16.32:648][869]LogBlueprintUserMessages: [underWAter_158] 82.041046
+[2018.02.23-12.16.32:656][870]LogBlueprintUserMessages: [underWAter_158] 82.086212
+[2018.02.23-12.16.32:664][871]LogBlueprintUserMessages: [underWAter_158] 82.128326
+[2018.02.23-12.16.32:673][872]LogBlueprintUserMessages: [underWAter_158] 82.167084
+[2018.02.23-12.16.32:681][873]LogBlueprintUserMessages: [underWAter_158] 82.202271
+[2018.02.23-12.16.32:689][874]LogBlueprintUserMessages: [underWAter_158] 82.233795
+[2018.02.23-12.16.32:698][875]LogBlueprintUserMessages: [underWAter_158] 82.261688
+[2018.02.23-12.16.32:706][876]LogBlueprintUserMessages: [underWAter_158] 82.286041
+[2018.02.23-12.16.32:714][877]LogBlueprintUserMessages: [underWAter_158] 82.307068
+[2018.02.23-12.16.32:723][878]LogBlueprintUserMessages: [underWAter_158] 82.325012
+[2018.02.23-12.16.32:731][879]LogBlueprintUserMessages: [underWAter_158] 82.351074
+[2018.02.23-12.16.32:739][880]LogBlueprintUserMessages: [underWAter_158] 82.413818
+[2018.02.23-12.16.32:748][881]LogBlueprintUserMessages: [underWAter_158] 82.537964
+[2018.02.23-12.16.32:756][882]LogBlueprintUserMessages: [underWAter_158] 82.720947
+[2018.02.23-12.16.32:764][883]LogBlueprintUserMessages: [underWAter_158] 82.958679
+[2018.02.23-12.16.32:773][884]LogBlueprintUserMessages: [underWAter_158] 83.245819
+[2018.02.23-12.16.32:781][885]LogBlueprintUserMessages: [underWAter_158] 83.575867
+[2018.02.23-12.16.32:789][886]LogBlueprintUserMessages: [underWAter_158] 83.941498
+[2018.02.23-12.16.32:798][887]LogBlueprintUserMessages: [underWAter_158] 84.334808
+[2018.02.23-12.16.32:806][888]LogBlueprintUserMessages: [underWAter_158] 84.747528
+[2018.02.23-12.16.32:815][889]LogBlueprintUserMessages: [underWAter_158] 85.171478
+[2018.02.23-12.16.32:823][890]LogBlueprintUserMessages: [underWAter_158] 85.598663
+[2018.02.23-12.16.32:831][891]LogBlueprintUserMessages: [underWAter_158] 86.021667
+[2018.02.23-12.16.32:840][892]LogBlueprintUserMessages: [underWAter_158] 86.433777
+[2018.02.23-12.16.32:848][893]LogBlueprintUserMessages: [underWAter_158] 86.829163
+[2018.02.23-12.16.32:856][894]LogBlueprintUserMessages: [underWAter_158] 87.203033
+[2018.02.23-12.16.32:864][895]LogBlueprintUserMessages: [underWAter_158] 87.551636
+[2018.02.23-12.16.32:873][896]LogBlueprintUserMessages: [underWAter_158] 87.872284
+[2018.02.23-12.16.32:881][897]LogBlueprintUserMessages: [underWAter_158] 88.163391
+[2018.02.23-12.16.32:889][898]LogBlueprintUserMessages: [underWAter_158] 88.424255
+[2018.02.23-12.16.32:898][899]LogBlueprintUserMessages: [underWAter_158] 88.65509
+[2018.02.23-12.16.32:906][900]LogBlueprintUserMessages: [underWAter_158] 88.856781
+[2018.02.23-12.16.32:914][901]LogBlueprintUserMessages: [underWAter_158] 89.030853
+[2018.02.23-12.16.32:923][902]LogBlueprintUserMessages: [underWAter_158] 89.17926
+[2018.02.23-12.16.32:931][903]LogBlueprintUserMessages: [underWAter_158] 89.323151
+[2018.02.23-12.16.32:939][904]LogBlueprintUserMessages: [underWAter_158] 89.43161
+[2018.02.23-12.16.32:948][905]LogBlueprintUserMessages: [underWAter_158] 89.64624
+[2018.02.23-12.16.32:956][906]LogBlueprintUserMessages: [underWAter_158] 89.962555
+[2018.02.23-12.16.32:964][907]LogBlueprintUserMessages: [underWAter_158] 90.373535
+[2018.02.23-12.16.32:972][908]LogBlueprintUserMessages: [underWAter_158] 90.869904
+[2018.02.23-12.16.32:981][909]LogBlueprintUserMessages: [underWAter_158] 91.440491
+[2018.02.23-12.16.32:990][910]LogBlueprintUserMessages: [underWAter_158] 92.072662
+[2018.02.23-12.16.32:998][911]LogBlueprintUserMessages: [underWAter_158] 92.752655
+[2018.02.23-12.16.33:006][912]LogBlueprintUserMessages: [underWAter_158] 93.466217
+[2018.02.23-12.16.33:015][913]LogBlueprintUserMessages: [underWAter_158] 94.199127
+[2018.02.23-12.16.33:023][914]LogBlueprintUserMessages: [underWAter_158] 94.937653
+[2018.02.23-12.16.33:031][915]LogBlueprintUserMessages: [underWAter_158] 95.668915
+[2018.02.23-12.16.33:039][916]LogBlueprintUserMessages: [underWAter_158] 96.381317
+[2018.02.23-12.16.33:048][917]LogBlueprintUserMessages: [underWAter_158] 97.064819
+[2018.02.23-12.16.33:056][918]LogBlueprintUserMessages: [underWAter_158] 97.711121
+[2018.02.23-12.16.33:064][919]LogBlueprintUserMessages: [underWAter_158] 98.313721
+[2018.02.23-12.16.33:073][920]LogBlueprintUserMessages: [underWAter_158] 98.868011
+[2018.02.23-12.16.33:081][921]LogBlueprintUserMessages: [underWAter_158] 99.371185
+[2018.02.23-12.16.33:089][922]LogBlueprintUserMessages: [underWAter_158] 99.822113
+[2018.02.23-12.16.33:098][923]LogBlueprintUserMessages: [underWAter_158] 100.2211
+[2018.02.23-12.16.33:106][924]LogBlueprintUserMessages: [underWAter_158] 100.569763
+[2018.02.23-12.16.33:114][925]LogBlueprintUserMessages: [underWAter_158] 100.870667
+[2018.02.23-12.16.33:123][926]LogBlueprintUserMessages: [underWAter_158] 101.127167
+[2018.02.23-12.16.33:131][927]LogBlueprintUserMessages: [underWAter_158] 101.329163
+[2018.02.23-12.16.33:139][928]LogBlueprintUserMessages: [underWAter_158] 101.248901
+[2018.02.23-12.16.33:148][929]LogBlueprintUserMessages: [underWAter_158] 101.090088
+[2018.02.23-12.16.33:156][930]LogBlueprintUserMessages: [underWAter_158] 100.856018
+[2018.02.23-12.16.33:164][931]LogBlueprintUserMessages: [underWAter_158] 100.55188
+[2018.02.23-12.16.33:173][932]LogBlueprintUserMessages: [underWAter_158] 100.18454
+[2018.02.23-12.16.33:181][933]LogBlueprintUserMessages: [underWAter_158] 99.762299
+[2018.02.23-12.16.33:190][934]LogBlueprintUserMessages: [underWAter_158] 99.294556
+[2018.02.23-12.16.33:198][935]LogBlueprintUserMessages: [underWAter_158] 98.791412
+[2018.02.23-12.16.33:206][936]LogBlueprintUserMessages: [underWAter_158] 98.263428
+[2018.02.23-12.16.33:215][937]LogBlueprintUserMessages: [underWAter_158] 97.7211
+[2018.02.23-12.16.33:223][938]LogBlueprintUserMessages: [underWAter_158] 97.174622
+[2018.02.23-12.16.33:231][939]LogBlueprintUserMessages: [underWAter_158] 96.633484
+[2018.02.23-12.16.33:239][940]LogBlueprintUserMessages: [underWAter_158] 96.106293
+[2018.02.23-12.16.33:248][941]LogBlueprintUserMessages: [underWAter_158] 95.600494
+[2018.02.23-12.16.33:256][942]LogBlueprintUserMessages: [underWAter_158] 95.122223
+[2018.02.23-12.16.33:264][943]LogBlueprintUserMessages: [underWAter_158] 94.67627
+[2018.02.23-12.16.33:273][944]LogBlueprintUserMessages: [underWAter_158] 94.266052
+[2018.02.23-12.16.33:281][945]LogBlueprintUserMessages: [underWAter_158] 93.893646
+[2018.02.23-12.16.33:290][946]LogBlueprintUserMessages: [underWAter_158] 93.559906
+[2018.02.23-12.16.33:298][947]LogBlueprintUserMessages: [underWAter_158] 93.264618
+[2018.02.23-12.16.33:306][948]LogBlueprintUserMessages: [underWAter_158] 93.006592
+[2018.02.23-12.16.33:314][949]LogBlueprintUserMessages: [underWAter_158] 92.783905
+[2018.02.23-12.16.33:323][950]LogBlueprintUserMessages: [underWAter_158] 92.594055
+[2018.02.23-12.16.33:331][951]LogBlueprintUserMessages: [underWAter_158] 92.428558
+[2018.02.23-12.16.33:339][952]LogBlueprintUserMessages: [underWAter_158] 92.396301
+[2018.02.23-12.16.33:348][953]LogBlueprintUserMessages: [underWAter_158] 92.332489
+[2018.02.23-12.16.33:356][954]LogBlueprintUserMessages: [underWAter_158] 92.238434
+[2018.02.23-12.16.33:364][955]LogBlueprintUserMessages: [underWAter_158] 92.116241
+[2018.02.23-12.16.33:373][956]LogBlueprintUserMessages: [underWAter_158] 91.968658
+[2018.02.23-12.16.33:381][957]LogBlueprintUserMessages: [underWAter_158] 91.799011
+[2018.02.23-12.16.33:390][958]LogBlueprintUserMessages: [underWAter_158] 91.611084
+[2018.02.23-12.16.33:398][959]LogBlueprintUserMessages: [underWAter_158] 91.408936
+[2018.02.23-12.16.33:406][960]LogBlueprintUserMessages: [underWAter_158] 91.196808
+[2018.02.23-12.16.33:415][961]LogBlueprintUserMessages: [underWAter_158] 90.978912
+[2018.02.23-12.16.33:423][962]LogBlueprintUserMessages: [underWAter_158] 90.759338
+[2018.02.23-12.16.33:431][963]LogBlueprintUserMessages: [underWAter_158] 90.541931
+[2018.02.23-12.16.33:439][964]LogBlueprintUserMessages: [underWAter_158] 90.330139
+[2018.02.23-12.16.33:448][965]LogBlueprintUserMessages: [underWAter_158] 90.126923
+[2018.02.23-12.16.33:456][966]LogBlueprintUserMessages: [underWAter_158] 89.934753
+[2018.02.23-12.16.33:464][967]LogBlueprintUserMessages: [underWAter_158] 89.755585
+[2018.02.23-12.16.33:473][968]LogBlueprintUserMessages: [underWAter_158] 89.590759
+[2018.02.23-12.16.33:481][969]LogBlueprintUserMessages: [underWAter_158] 89.441132
+[2018.02.23-12.16.33:489][970]LogBlueprintUserMessages: [underWAter_158] 89.307068
+[2018.02.23-12.16.33:498][971]LogBlueprintUserMessages: [underWAter_158] 89.188416
+[2018.02.23-12.16.33:506][972]LogBlueprintUserMessages: [underWAter_158] 89.084717
+[2018.02.23-12.16.33:514][973]LogBlueprintUserMessages: [underWAter_158] 88.995239
+[2018.02.23-12.16.33:523][974]LogBlueprintUserMessages: [underWAter_158] 88.918976
+[2018.02.23-12.16.33:531][975]LogBlueprintUserMessages: [underWAter_158] 88.831207
+[2018.02.23-12.16.33:540][976]LogBlueprintUserMessages: [underWAter_158] 88.696198
+[2018.02.23-12.16.33:548][977]LogBlueprintUserMessages: [underWAter_158] 88.428986
+[2018.02.23-12.16.33:556][978]LogBlueprintUserMessages: [underWAter_158] 88.035187
+[2018.02.23-12.16.33:565][979]LogBlueprintUserMessages: [underWAter_158] 87.523529
+[2018.02.23-12.16.33:573][980]LogBlueprintUserMessages: [underWAter_158] 86.905548
+[2018.02.23-12.16.33:581][981]LogBlueprintUserMessages: [underWAter_158] 86.19519
+[2018.02.23-12.16.33:590][982]LogBlueprintUserMessages: [underWAter_158] 85.408264
+[2018.02.23-12.16.33:598][983]LogBlueprintUserMessages: [underWAter_158] 84.561829
+[2018.02.23-12.16.33:606][984]LogBlueprintUserMessages: [underWAter_158] 83.673553
+[2018.02.23-12.16.33:614][985]LogBlueprintUserMessages: [underWAter_158] 82.761169
+[2018.02.23-12.16.33:623][986]LogBlueprintUserMessages: [underWAter_158] 81.841766
+[2018.02.23-12.16.33:631][987]LogBlueprintUserMessages: [underWAter_158] 80.931396
+[2018.02.23-12.16.33:639][988]LogBlueprintUserMessages: [underWAter_158] 80.044495
+[2018.02.23-12.16.33:648][989]LogBlueprintUserMessages: [underWAter_158] 79.193542
+[2018.02.23-12.16.33:656][990]LogBlueprintUserMessages: [underWAter_158] 78.388916
+[2018.02.23-12.16.33:665][991]LogBlueprintUserMessages: [underWAter_158] 77.638702
+[2018.02.23-12.16.33:673][992]LogBlueprintUserMessages: [underWAter_158] 76.948608
+[2018.02.23-12.16.33:681][993]LogBlueprintUserMessages: [underWAter_158] 76.322113
+[2018.02.23-12.16.33:689][994]LogBlueprintUserMessages: [underWAter_158] 75.760712
+[2018.02.23-12.16.33:698][995]LogBlueprintUserMessages: [underWAter_158] 75.263947
+[2018.02.23-12.16.33:706][996]LogBlueprintUserMessages: [underWAter_158] 74.829865
+[2018.02.23-12.16.33:714][997]LogBlueprintUserMessages: [underWAter_158] 74.455231
+[2018.02.23-12.16.33:723][998]LogBlueprintUserMessages: [underWAter_158] 74.135864
+[2018.02.23-12.16.33:731][999]LogBlueprintUserMessages: [underWAter_158] 73.898193
+[2018.02.23-12.16.33:740][  0]LogBlueprintUserMessages: [underWAter_158] 74.077606
+[2018.02.23-12.16.33:748][  1]LogBlueprintUserMessages: [underWAter_158] 74.432648
+[2018.02.23-12.16.33:756][  2]LogBlueprintUserMessages: [underWAter_158] 74.955902
+[2018.02.23-12.16.33:764][  3]LogBlueprintUserMessages: [underWAter_158] 75.635773
+[2018.02.23-12.16.33:773][  4]LogBlueprintUserMessages: [underWAter_158] 76.456909
+[2018.02.23-12.16.33:781][  5]LogBlueprintUserMessages: [underWAter_158] 77.400848
+[2018.02.23-12.16.33:789][  6]LogBlueprintUserMessages: [underWAter_158] 78.446533
+[2018.02.23-12.16.33:798][  7]LogBlueprintUserMessages: [underWAter_158] 79.57132
+[2018.02.23-12.16.33:806][  8]LogBlueprintUserMessages: [underWAter_158] 80.751678
+[2018.02.23-12.16.33:815][  9]LogBlueprintUserMessages: [underWAter_158] 81.964081
+[2018.02.23-12.16.33:823][ 10]LogBlueprintUserMessages: [underWAter_158] 83.185883
+[2018.02.23-12.16.33:831][ 11]LogBlueprintUserMessages: [underWAter_158] 84.39566
+[2018.02.23-12.16.33:840][ 12]LogBlueprintUserMessages: [underWAter_158] 85.574249
+[2018.02.23-12.16.33:848][ 13]LogBlueprintUserMessages: [underWAter_158] 86.705017
+[2018.02.23-12.16.33:856][ 14]LogBlueprintUserMessages: [underWAter_158] 87.7742
+[2018.02.23-12.16.33:864][ 15]LogBlueprintUserMessages: [underWAter_158] 88.771088
+[2018.02.23-12.16.33:873][ 16]LogBlueprintUserMessages: [underWAter_158] 89.68808
+[2018.02.23-12.16.33:881][ 17]LogBlueprintUserMessages: [underWAter_158] 90.520508
+[2018.02.23-12.16.33:889][ 18]LogBlueprintUserMessages: [underWAter_158] 91.266449
+[2018.02.23-12.16.33:898][ 19]LogBlueprintUserMessages: [underWAter_158] 91.926483
+[2018.02.23-12.16.33:906][ 20]LogBlueprintUserMessages: [underWAter_158] 92.503235
+[2018.02.23-12.16.33:914][ 21]LogBlueprintUserMessages: [underWAter_158] 93.000977
+[2018.02.23-12.16.33:923][ 22]LogBlueprintUserMessages: [underWAter_158] 93.425293
+[2018.02.23-12.16.33:931][ 23]LogBlueprintUserMessages: [underWAter_158] 93.768829
+[2018.02.23-12.16.33:939][ 24]LogBlueprintUserMessages: [underWAter_158] 93.689911
+[2018.02.23-12.16.33:948][ 25]LogBlueprintUserMessages: [underWAter_158] 93.533752
+[2018.02.23-12.16.33:956][ 26]LogBlueprintUserMessages: [underWAter_158] 93.303619
+[2018.02.23-12.16.33:964][ 27]LogBlueprintUserMessages: [underWAter_158] 93.004608
+[2018.02.23-12.16.33:973][ 28]LogBlueprintUserMessages: [underWAter_158] 92.643463
+[2018.02.23-12.16.33:981][ 29]LogBlueprintUserMessages: [underWAter_158] 92.228333
+[2018.02.23-12.16.33:989][ 30]LogBlueprintUserMessages: [underWAter_158] 91.768433
+[2018.02.23-12.16.33:998][ 31]LogBlueprintUserMessages: [underWAter_158] 91.273773
+[2018.02.23-12.16.34:006][ 32]LogBlueprintUserMessages: [underWAter_158] 90.754639
+[2018.02.23-12.16.34:015][ 33]LogBlueprintUserMessages: [underWAter_158] 90.221436
+[2018.02.23-12.16.34:023][ 34]LogBlueprintUserMessages: [underWAter_158] 89.684143
+[2018.02.23-12.16.34:031][ 35]LogBlueprintUserMessages: [underWAter_158] 89.1521
+[2018.02.23-12.16.34:040][ 36]LogBlueprintUserMessages: [underWAter_158] 88.633789
+[2018.02.23-12.16.34:048][ 37]LogBlueprintUserMessages: [underWAter_158] 88.136505
+[2018.02.23-12.16.34:056][ 38]LogBlueprintUserMessages: [underWAter_158] 87.66629
+[2018.02.23-12.16.34:065][ 39]LogBlueprintUserMessages: [underWAter_158] 87.227844
+[2018.02.23-12.16.34:073][ 40]LogBlueprintUserMessages: [underWAter_158] 86.824524
+[2018.02.23-12.16.34:081][ 41]LogBlueprintUserMessages: [underWAter_158] 86.458405
+[2018.02.23-12.16.34:089][ 42]LogBlueprintUserMessages: [underWAter_158] 86.13028
+[2018.02.23-12.16.34:098][ 43]LogBlueprintUserMessages: [underWAter_158] 85.839935
+[2018.02.23-12.16.34:106][ 44]LogBlueprintUserMessages: [underWAter_158] 85.586243
+[2018.02.23-12.16.34:114][ 45]LogBlueprintUserMessages: [underWAter_158] 85.367279
+[2018.02.23-12.16.34:123][ 46]LogBlueprintUserMessages: [underWAter_158] 85.180634
+[2018.02.23-12.16.34:131][ 47]LogBlueprintUserMessages: [underWAter_158] 85.026672
+[2018.02.23-12.16.34:139][ 48]LogBlueprintUserMessages: [underWAter_158] 85.044983
+[2018.02.23-12.16.34:148][ 49]LogBlueprintUserMessages: [underWAter_158] 85.081238
+[2018.02.23-12.16.34:156][ 50]LogBlueprintUserMessages: [underWAter_158] 85.134644
+[2018.02.23-12.16.34:164][ 51]LogBlueprintUserMessages: [underWAter_158] 85.204041
+[2018.02.23-12.16.34:173][ 52]LogBlueprintUserMessages: [underWAter_158] 85.287842
+[2018.02.23-12.16.34:181][ 53]LogBlueprintUserMessages: [underWAter_158] 85.384155
+[2018.02.23-12.16.34:190][ 54]LogBlueprintUserMessages: [underWAter_158] 85.490845
+[2018.02.23-12.16.34:198][ 55]LogBlueprintUserMessages: [underWAter_158] 85.605591
+[2018.02.23-12.16.34:207][ 56]LogBlueprintUserMessages: [underWAter_158] 85.726013
+[2018.02.23-12.16.34:214][ 57]LogBlueprintUserMessages: [underWAter_158] 85.849701
+[2018.02.23-12.16.34:223][ 58]LogBlueprintUserMessages: [underWAter_158] 85.974335
+[2018.02.23-12.16.34:231][ 59]LogBlueprintUserMessages: [underWAter_158] 86.097748
+[2018.02.23-12.16.34:239][ 60]LogBlueprintUserMessages: [underWAter_158] 86.217987
+[2018.02.23-12.16.34:248][ 61]LogBlueprintUserMessages: [underWAter_158] 86.333344
+[2018.02.23-12.16.34:256][ 62]LogBlueprintUserMessages: [underWAter_158] 86.442413
+[2018.02.23-12.16.34:264][ 63]LogBlueprintUserMessages: [underWAter_158] 86.544128
+[2018.02.23-12.16.34:273][ 64]LogBlueprintUserMessages: [underWAter_158] 86.637695
+[2018.02.23-12.16.34:282][ 65]LogBlueprintUserMessages: [underWAter_158] 86.722626
+[2018.02.23-12.16.34:290][ 66]LogBlueprintUserMessages: [underWAter_158] 86.798737
+[2018.02.23-12.16.34:298][ 67]LogBlueprintUserMessages: [underWAter_158] 86.866058
+[2018.02.23-12.16.34:306][ 68]LogBlueprintUserMessages: [underWAter_158] 86.924896
+[2018.02.23-12.16.34:315][ 69]LogBlueprintUserMessages: [underWAter_158] 86.975677
+[2018.02.23-12.16.34:323][ 70]LogBlueprintUserMessages: [underWAter_158] 87.018951
+[2018.02.23-12.16.34:331][ 71]LogBlueprintUserMessages: [underWAter_158] 87.057953
+[2018.02.23-12.16.34:340][ 72]LogBlueprintUserMessages: [underWAter_158] 87.072632
+[2018.02.23-12.16.34:348][ 73]LogBlueprintUserMessages: [underWAter_158] 87.101654
+[2018.02.23-12.16.34:357][ 74]LogBlueprintUserMessages: [underWAter_158] 87.14444
+[2018.02.23-12.16.34:365][ 75]LogBlueprintUserMessages: [underWAter_158] 87.200043
+[2018.02.23-12.16.34:373][ 76]LogBlueprintUserMessages: [underWAter_158] 87.267181
+[2018.02.23-12.16.34:381][ 77]LogBlueprintUserMessages: [underWAter_158] 87.34436
+[2018.02.23-12.16.34:390][ 78]LogBlueprintUserMessages: [underWAter_158] 87.429871
+[2018.02.23-12.16.34:398][ 79]LogBlueprintUserMessages: [underWAter_158] 87.521851
+[2018.02.23-12.16.34:406][ 80]LogBlueprintUserMessages: [underWAter_158] 87.618378
+[2018.02.23-12.16.34:414][ 81]LogBlueprintUserMessages: [underWAter_158] 87.717529
+[2018.02.23-12.16.34:423][ 82]LogBlueprintUserMessages: [underWAter_158] 87.817444
+[2018.02.23-12.16.34:431][ 83]LogBlueprintUserMessages: [underWAter_158] 87.916382
+[2018.02.23-12.16.34:439][ 84]LogBlueprintUserMessages: [underWAter_158] 88.012756
+[2018.02.23-12.16.34:448][ 85]LogBlueprintUserMessages: [underWAter_158] 88.105225
+[2018.02.23-12.16.34:456][ 86]LogBlueprintUserMessages: [underWAter_158] 88.192688
+[2018.02.23-12.16.34:464][ 87]LogBlueprintUserMessages: [underWAter_158] 88.274231
+[2018.02.23-12.16.34:473][ 88]LogBlueprintUserMessages: [underWAter_158] 88.349213
+[2018.02.23-12.16.34:482][ 89]LogBlueprintUserMessages: [underWAter_158] 88.417297
+[2018.02.23-12.16.34:490][ 90]LogBlueprintUserMessages: [underWAter_158] 88.478302
+[2018.02.23-12.16.34:498][ 91]LogBlueprintUserMessages: [underWAter_158] 88.532288
+[2018.02.23-12.16.34:506][ 92]LogBlueprintUserMessages: [underWAter_158] 88.579468
+[2018.02.23-12.16.34:515][ 93]LogBlueprintUserMessages: [underWAter_158] 88.62027
+[2018.02.23-12.16.34:523][ 94]LogBlueprintUserMessages: [underWAter_158] 88.655029
+[2018.02.23-12.16.34:532][ 95]LogBlueprintUserMessages: [underWAter_158] 88.704315
+[2018.02.23-12.16.34:540][ 96]LogBlueprintUserMessages: [underWAter_158] 88.819641
+[2018.02.23-12.16.34:548][ 97]LogBlueprintUserMessages: [underWAter_158] 89.047913
+[2018.02.23-12.16.34:557][ 98]LogBlueprintUserMessages: [underWAter_158] 89.384338
+[2018.02.23-12.16.34:565][ 99]LogBlueprintUserMessages: [underWAter_158] 89.821442
+[2018.02.23-12.16.34:573][100]LogBlueprintUserMessages: [underWAter_158] 90.349365
+[2018.02.23-12.16.34:582][101]LogBlueprintUserMessages: [underWAter_158] 90.956207
+[2018.02.23-12.16.34:590][102]LogBlueprintUserMessages: [underWAter_158] 91.628479
+[2018.02.23-12.16.34:598][103]LogBlueprintUserMessages: [underWAter_158] 92.351624
+[2018.02.23-12.16.34:607][104]LogBlueprintUserMessages: [underWAter_158] 93.110474
+[2018.02.23-12.16.34:615][105]LogBlueprintUserMessages: [underWAter_158] 93.889954
+[2018.02.23-12.16.34:623][106]LogBlueprintUserMessages: [underWAter_158] 94.675507
+[2018.02.23-12.16.34:631][107]LogBlueprintUserMessages: [underWAter_158] 95.453339
+[2018.02.23-12.16.34:640][108]LogBlueprintUserMessages: [underWAter_158] 96.21109
+[2018.02.23-12.16.34:648][109]LogBlueprintUserMessages: [underWAter_158] 96.93811
+[2018.02.23-12.16.34:656][110]LogBlueprintUserMessages: [underWAter_158] 97.625519
+[2018.02.23-12.16.34:665][111]LogBlueprintUserMessages: [underWAter_158] 98.266479
+[2018.02.23-12.16.34:673][112]LogBlueprintUserMessages: [underWAter_158] 98.856049
+[2018.02.23-12.16.34:682][113]LogBlueprintUserMessages: [underWAter_158] 99.391266
+[2018.02.23-12.16.34:690][114]LogBlueprintUserMessages: [underWAter_158] 99.87088
+[2018.02.23-12.16.34:698][115]LogBlueprintUserMessages: [underWAter_158] 100.295258
+[2018.02.23-12.16.34:707][116]LogBlueprintUserMessages: [underWAter_158] 100.666077
+[2018.02.23-12.16.34:715][117]LogBlueprintUserMessages: [underWAter_158] 100.986115
+[2018.02.23-12.16.34:723][118]LogBlueprintUserMessages: [underWAter_158] 101.258942
+[2018.02.23-12.16.34:732][119]LogBlueprintUserMessages: [underWAter_158] 101.484436
+[2018.02.23-12.16.34:740][120]LogBlueprintUserMessages: [underWAter_158] 101.460144
+[2018.02.23-12.16.34:748][121]LogBlueprintUserMessages: [underWAter_158] 101.412079
+[2018.02.23-12.16.34:757][122]LogBlueprintUserMessages: [underWAter_158] 101.341217
+[2018.02.23-12.16.34:765][123]LogBlueprintUserMessages: [underWAter_158] 101.249146
+[2018.02.23-12.16.34:773][124]LogBlueprintUserMessages: [underWAter_158] 101.13797
+[2018.02.23-12.16.34:782][125]LogBlueprintUserMessages: [underWAter_158] 101.010162
+[2018.02.23-12.16.34:790][126]LogBlueprintUserMessages: [underWAter_158] 100.868561
+[2018.02.23-12.16.34:798][127]LogBlueprintUserMessages: [underWAter_158] 100.716278
+[2018.02.23-12.16.34:806][128]LogBlueprintUserMessages: [underWAter_158] 100.556458
+[2018.02.23-12.16.34:815][129]LogBlueprintUserMessages: [underWAter_158] 100.392273
+[2018.02.23-12.16.34:823][130]LogBlueprintUserMessages: [underWAter_158] 100.226837
+[2018.02.23-12.16.34:831][131]LogBlueprintUserMessages: [underWAter_158] 100.063049
+[2018.02.23-12.16.34:840][132]LogBlueprintUserMessages: [underWAter_158] 99.903473
+[2018.02.23-12.16.34:848][133]LogBlueprintUserMessages: [underWAter_158] 99.750366
+[2018.02.23-12.16.34:857][134]LogBlueprintUserMessages: [underWAter_158] 99.605591
+[2018.02.23-12.16.34:865][135]LogBlueprintUserMessages: [underWAter_158] 99.470612
+[2018.02.23-12.16.34:873][136]LogBlueprintUserMessages: [underWAter_158] 99.346436
+[2018.02.23-12.16.34:882][137]LogBlueprintUserMessages: [underWAter_158] 99.233704
+[2018.02.23-12.16.34:890][138]LogBlueprintUserMessages: [underWAter_158] 99.13269
+[2018.02.23-12.16.34:899][139]LogBlueprintUserMessages: [underWAter_158] 99.043304
+[2018.02.23-12.16.34:906][140]LogBlueprintUserMessages: [underWAter_158] 98.96521
+[2018.02.23-12.16.34:915][141]LogBlueprintUserMessages: [underWAter_158] 98.897797
+[2018.02.23-12.16.34:923][142]LogBlueprintUserMessages: [underWAter_158] 98.840332
+[2018.02.23-12.16.34:932][143]LogBlueprintUserMessages: [underWAter_158] 98.806946
+[2018.02.23-12.16.34:940][144]LogBlueprintUserMessages: [underWAter_158] 98.892792
+[2018.02.23-12.16.34:948][145]LogBlueprintUserMessages: [underWAter_158] 99.062683
+[2018.02.23-12.16.34:957][146]LogBlueprintUserMessages: [underWAter_158] 99.31308
+[2018.02.23-12.16.34:965][147]LogBlueprintUserMessages: [underWAter_158] 99.638397
+[2018.02.23-12.16.34:973][148]LogBlueprintUserMessages: [underWAter_158] 100.031311
+[2018.02.23-12.16.34:982][149]LogBlueprintUserMessages: [underWAter_158] 100.482971
+[2018.02.23-12.16.34:990][150]LogBlueprintUserMessages: [underWAter_158] 100.983307
+[2018.02.23-12.16.34:998][151]LogBlueprintUserMessages: [underWAter_158] 101.521515
+[2018.02.23-12.16.35:007][152]LogBlueprintUserMessages: [underWAter_158] 102.086304
+[2018.02.23-12.16.35:015][153]LogBlueprintUserMessages: [underWAter_158] 102.666412
+[2018.02.23-12.16.35:023][154]LogBlueprintUserMessages: [underWAter_158] 103.250977
+[2018.02.23-12.16.35:032][155]LogBlueprintUserMessages: [underWAter_158] 103.829803
+[2018.02.23-12.16.35:040][156]LogBlueprintUserMessages: [underWAter_158] 104.393738
+[2018.02.23-12.16.35:048][157]LogBlueprintUserMessages: [underWAter_158] 104.934784
+[2018.02.23-12.16.35:057][158]LogBlueprintUserMessages: [underWAter_158] 105.446381
+[2018.02.23-12.16.35:065][159]LogBlueprintUserMessages: [underWAter_158] 105.923401
+[2018.02.23-12.16.35:073][160]LogBlueprintUserMessages: [underWAter_158] 106.362183
+[2018.02.23-12.16.35:082][161]LogBlueprintUserMessages: [underWAter_158] 106.760529
+[2018.02.23-12.16.35:090][162]LogBlueprintUserMessages: [underWAter_158] 107.117493
+[2018.02.23-12.16.35:098][163]LogBlueprintUserMessages: [underWAter_158] 107.43335
+[2018.02.23-12.16.35:106][164]LogBlueprintUserMessages: [underWAter_158] 107.709351
+[2018.02.23-12.16.35:115][165]LogBlueprintUserMessages: [underWAter_158] 107.94754
+[2018.02.23-12.16.35:123][166]LogBlueprintUserMessages: [underWAter_158] 108.150604
+[2018.02.23-12.16.35:132][167]LogBlueprintUserMessages: [underWAter_158] 108.349304
+[2018.02.23-12.16.35:140][168]LogBlueprintUserMessages: [underWAter_158] 108.508057
+[2018.02.23-12.16.35:149][169]LogBlueprintUserMessages: [underWAter_158] 108.822266
+[2018.02.23-12.16.35:157][170]LogBlueprintUserMessages: [underWAter_158] 109.285309
+[2018.02.23-12.16.35:165][171]LogBlueprintUserMessages: [underWAter_158] 109.886963
+[2018.02.23-12.16.35:173][172]LogBlueprintUserMessages: [underWAter_158] 110.61377
+[2018.02.23-12.16.35:182][173]LogBlueprintUserMessages: [underWAter_158] 111.449371
+[2018.02.23-12.16.35:190][174]LogBlueprintUserMessages: [underWAter_158] 112.374969
+[2018.02.23-12.16.35:198][175]LogBlueprintUserMessages: [underWAter_158] 113.370514
+[2018.02.23-12.16.35:207][176]LogBlueprintUserMessages: [underWAter_158] 114.415192
+[2018.02.23-12.16.35:215][177]LogBlueprintUserMessages: [underWAter_158] 115.48819
+[2018.02.23-12.16.35:223][178]LogBlueprintUserMessages: [underWAter_158] 116.569366
+[2018.02.23-12.16.35:232][179]LogBlueprintUserMessages: [underWAter_158] 117.639893
+[2018.02.23-12.16.35:240][180]LogBlueprintUserMessages: [underWAter_158] 118.6828
+[2018.02.23-12.16.35:248][181]LogBlueprintUserMessages: [underWAter_158] 119.68338
+[2018.02.23-12.16.35:257][182]LogBlueprintUserMessages: [underWAter_158] 120.629456
+[2018.02.23-12.16.35:265][183]LogBlueprintUserMessages: [underWAter_158] 121.511566
+[2018.02.23-12.16.35:273][184]LogBlueprintUserMessages: [underWAter_158] 122.322968
+[2018.02.23-12.16.35:281][185]LogBlueprintUserMessages: [underWAter_158] 123.05954
+[2018.02.23-12.16.35:290][186]LogBlueprintUserMessages: [underWAter_158] 123.719604
+[2018.02.23-12.16.35:298][187]LogBlueprintUserMessages: [underWAter_158] 124.303619
+[2018.02.23-12.16.35:306][188]LogBlueprintUserMessages: [underWAter_158] 124.813934
+[2018.02.23-12.16.35:315][189]LogBlueprintUserMessages: [underWAter_158] 125.254364
+[2018.02.23-12.16.35:324][190]LogBlueprintUserMessages: [underWAter_158] 125.629822
+[2018.02.23-12.16.35:332][191]LogBlueprintUserMessages: [underWAter_158] 125.930206
+[2018.02.23-12.16.35:340][192]LogBlueprintUserMessages: [underWAter_158] 125.839844
+[2018.02.23-12.16.35:348][193]LogBlueprintUserMessages: [underWAter_158] 125.661011
+[2018.02.23-12.16.35:357][194]LogBlueprintUserMessages: [underWAter_158] 125.39743
+[2018.02.23-12.16.35:365][195]LogBlueprintUserMessages: [underWAter_158] 125.054962
+[2018.02.23-12.16.35:373][196]LogBlueprintUserMessages: [underWAter_158] 124.641327
+[2018.02.23-12.16.35:382][197]LogBlueprintUserMessages: [underWAter_158] 124.165863
+[2018.02.23-12.16.35:390][198]LogBlueprintUserMessages: [underWAter_158] 123.63916
+[2018.02.23-12.16.35:398][199]LogBlueprintUserMessages: [underWAter_158] 123.072601
+[2018.02.23-12.16.35:407][200]LogBlueprintUserMessages: [underWAter_158] 122.478058
+[2018.02.23-12.16.35:415][201]LogBlueprintUserMessages: [underWAter_158] 121.867371
+[2018.02.23-12.16.35:423][202]LogBlueprintUserMessages: [underWAter_158] 121.252014
+[2018.02.23-12.16.35:432][203]LogBlueprintUserMessages: [underWAter_158] 120.642578
+[2018.02.23-12.16.35:440][204]LogBlueprintUserMessages: [underWAter_158] 120.048859
+[2018.02.23-12.16.35:448][205]LogBlueprintUserMessages: [underWAter_158] 119.479248
+[2018.02.23-12.16.35:457][206]LogBlueprintUserMessages: [underWAter_158] 118.940643
+[2018.02.23-12.16.35:465][207]LogBlueprintUserMessages: [underWAter_158] 118.438446
+[2018.02.23-12.16.35:466][207]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.23-12.16.35:502][207]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.23-12.16.39:808][639]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 113 classes and 0 folders.
+[2018.02.23-12.16.40:328][639]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.02.23-12.16.40:343][639]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.23-12.16.40:359][639]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2018.02.23-12.16.40:440][639]LogSlate: Took 0.003237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.23-12.17.02:047][888]LogMetaData: Removing '/Game/under_water_.under_water_:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/underWAter.PackageMetaData'
+[2018.02.23-12.17.02:047][888]LogMetaData: Removing '/Game/under_water_.under_water__C' ref from Metadata '/Game/underWAter.PackageMetaData'
+[2018.02.23-12.17.02:047][888]LogMetaData: Removing '/Game/under_water_.under_water_:EventGraph.K2Node_Event_0' ref from Metadata '/Game/underWAter.PackageMetaData'
+[2018.02.23-12.17.02:047][888]LogMetaData: Removing '/Game/under_water_.under_water_:EventGraph.K2Node_Event_1' ref from Metadata '/Game/underWAter.PackageMetaData'
+[2018.02.23-12.17.02:047][888]LogMetaData: Removing '/Game/under_water_.under_water_:EventGraph.K2Node_Event_2' ref from Metadata '/Game/underWAter.PackageMetaData'
+[2018.02.23-12.17.02:047][888]LogMetaData: Removing '/Game/under_water_.SKEL_under_water__C' ref from Metadata '/Game/underWAter.PackageMetaData'
+[2018.02.23-12.17.02:070][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/under_water_" FILE="../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/under_water_.uasset" SILENT=true
+[2018.02.23-12.17.02:126][888]LogSavePackage: Save=54.25ms
+[2018.02.23-12.17.02:127][888]LogSavePackage: Moving '../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Saved/under_water_BACA4C8640CB8CAD2AD47EAC249AB160.tmp' to '../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/under_water_.uasset'
+[2018.02.23-12.17.02:131][888]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/under_water_.uasset
+[2018.02.23-12.17.02:134][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/underWAter" FILE="../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/underWAter.uasset" SILENT=true
+[2018.02.23-12.17.02:150][888]LogSavePackage: Save=5.86ms
+[2018.02.23-12.17.02:150][888]LogSavePackage: Moving '../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Saved/underWAterA6CAFE1346AFC08C64A81798998F0E29.tmp' to '../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/underWAter.uasset'
+[2018.02.23-12.17.02:153][888]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/underWAter.uasset
+[2018.02.23-12.17.11:567][901]LogMetaData: Removing '/Game/under_water_post_process.under_water_post_process_C' ref from Metadata '/Game/under_water_.PackageMetaData'
+[2018.02.23-12.17.11:567][901]LogMetaData: Removing '/Game/under_water_post_process.SKEL_under_water_post_process_C' ref from Metadata '/Game/under_water_.PackageMetaData'
+[2018.02.23-12.17.11:567][901]LogMetaData: Removing '/Game/under_water_post_process.under_water_post_process:EventGraph.K2Node_Event_0' ref from Metadata '/Game/under_water_.PackageMetaData'
+[2018.02.23-12.17.11:567][901]LogMetaData: Removing '/Game/under_water_post_process.under_water_post_process:EventGraph.K2Node_Event_1' ref from Metadata '/Game/under_water_.PackageMetaData'
+[2018.02.23-12.17.11:567][901]LogMetaData: Removing '/Game/under_water_post_process.under_water_post_process:EventGraph.K2Node_Event_2' ref from Metadata '/Game/under_water_.PackageMetaData'
+[2018.02.23-12.17.11:567][901]LogMetaData: Removing '/Game/under_water_post_process.under_water_post_process:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/under_water_.PackageMetaData'
+[2018.02.23-12.17.11:585][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/under_water_post_process" FILE="../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/under_water_post_process.uasset" SILENT=true
+[2018.02.23-12.17.11:637][901]LogSavePackage: Save=51.46ms
+[2018.02.23-12.17.11:637][901]LogSavePackage: Moving '../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Saved/under_water_post_process9D7BFED141C3F00D232F539E801697B1.tmp' to '../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/under_water_post_process.uasset'
+[2018.02.23-12.17.11:640][901]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/under_water_post_process.uasset
+[2018.02.23-12.17.11:775][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/underWAter" FILE="../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/underWAter.uasset" SILENT=true
+[2018.02.23-12.17.11:781][901]LogSavePackage: Save=4.03ms
+[2018.02.23-12.17.11:781][901]LogSavePackage: Moving '../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Saved/underWAter3C12F06347666186DF7577A0E69F7108.tmp' to '../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/underWAter.uasset'
+[2018.02.23-12.17.11:782][901]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/underWAter.uasset
+[2018.02.23-12.17.22:447][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/waterSM" FILE="../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/waterSM.uasset" SILENT=true
+[2018.02.23-12.17.22:462][883]LogSavePackage: Save=13.18ms
+[2018.02.23-12.17.22:462][883]LogSavePackage: Moving '../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Saved/waterSMF4BA40BD48766DEDD98FD2B610A0BD21.tmp' to '../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/waterSM.uasset'
+[2018.02.23-12.17.22:465][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/waterSM.uasset
+[2018.02.23-12.17.22:608][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/waterLevel" FILE="../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/waterLevel.uasset" SILENT=true
+[2018.02.23-12.17.22:664][883]LogSavePackage: Save=49.16ms
+[2018.02.23-12.17.22:664][883]LogSavePackage: Moving '../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Saved/waterLevelE932573B42F3D287D69E1E9CEE7A685C.tmp' to '../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/waterLevel.uasset'
+[2018.02.23-12.17.22:667][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/waterLevel.uasset
+[2018.02.23-12.17.24:226][ 36]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.02.23-12.17.24:494][ 37]LogRenderer: Reallocating scene render targets to support 1864x1324 Format 26 NumSamples 1 (Frame:1).
+[2018.02.23-12.17.42:228][ 12]LogMaterial: Missing cached shader map for material ourWater, compiling. 
+[2018.02.23-12.17.44:026][ 61]LogMaterial: Missing cached shader map for material ourWater2, compiling. 
+[2018.02.23-12.17.51:912][767]LogMetaData: Removing '/Game/pausePlaySim.pausePlaySim_C' ref from Metadata '/Game/pauseSim.PackageMetaData'
+[2018.02.23-12.17.51:912][767]LogMetaData: Removing '/Game/pausePlaySim.SKEL_pausePlaySim_C' ref from Metadata '/Game/pauseSim.PackageMetaData'
+[2018.02.23-12.17.51:944][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pausePlaySim" FILE="../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/pausePlaySim.uasset" SILENT=true
+[2018.02.23-12.17.51:967][767]LogSavePackage: Save=21.29ms
+[2018.02.23-12.17.51:967][767]LogSavePackage: Moving '../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Saved/pausePlaySimA16695134BBE0AAD1734F7B3968122EE.tmp' to '../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/pausePlaySim.uasset'
+[2018.02.23-12.17.51:970][767]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/pausePlaySim.uasset
+[2018.02.23-12.17.51:973][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pauseSim" FILE="../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/pauseSim.uasset" SILENT=true
+[2018.02.23-12.17.51:984][767]LogSavePackage: Save=4.40ms
+[2018.02.23-12.17.51:984][767]LogSavePackage: Moving '../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Saved/pauseSimFE40623E4E5A831AF745BBBDA1711308.tmp' to '../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/pauseSim.uasset'
+[2018.02.23-12.17.51:987][767]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Content/pauseSim.uasset
+[2018.02.23-12.18.01:077][768]LogSlate: Took 0.004826 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.23-12.18.09:174][668]LogEditorViewport: Clicking on Actor (LMB): under_water_post_process_C (underWAter)
+[2018.02.23-12.18.13:362][102]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2018.02.23-12.19.42:622][535]LogSavePackage: Save=153.27ms
+[2018.02.23-12.19.42:622][535]LogSavePackage: Moving '../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Saved/MotionControllerMap_Auto160AE4242470517FCBDD98DB135E26B8B.tmp' to '../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap'
+[2018.02.23-12.19.42:625][535]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Johan/Desktop/newWaterLevel/waterlvl/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap
+[2018.02.23-12.19.42:627][535]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.186
+[2018.02.23-12.19.42:627][535]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.186
+[2018.02.23-12.25.14:796][ 80]LogBlueprint: Warning: [timeline] 'increment' variable not found. Base class was probably changed.
+[2018.02.23-12.25.14:797][ 80]LogBlueprint: Warning: [timeline] 'increment' variable not found. Base class was probably changed.
+[2018.02.23-12.25.14:797][ 80]LogBlueprint: Warning: [timeline] 'increment' variable not found. Base class was probably changed.
+[2018.02.23-12.25.14:797][ 80]LogBlueprint: Warning: [timeline] 'isRunning' variable not found. Base class was probably changed.
+[2018.02.23-12.28.10:228][548]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.23-12.28.33:423][ 99]LogEditorTransaction: Undo Set actor scale
+[2018.02.23-12.28.33:677][ 99]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.251 s
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: === Handled ensure: ===
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: 
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: 
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: Stack: 
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007D7E3E36
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007D56C2D2
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007D584746
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000078454352
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000007840305F
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-DetailCustomizations.dll!0x0000000071567AFE
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-DetailCustomizations.dll!0x0000000071553EF9
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-DetailCustomizations.dll!0x00000000714F619B
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-DetailCustomizations.dll!0x00000000714FAF77
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084A49E90
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084A3EBC1
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084A0D857
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084A0FA27
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084AAA227
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000848C725A
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000848C7D7D
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084866E74
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000076A97D34
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000766FB039
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000076688DBC
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000007668DABC
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000076A7FEB9
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000076A2193B
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000076A2560A
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000076A23937
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000076A85C3C
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000076634400
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000766B652D
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000007670759D
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000078403D06
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000007842A552
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000078412FD9
+[2018.02.23-12.28.33:677][ 99]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000007841390B
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000078476D6B
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000784BDE3F
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000076689451
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x000000007668E1B6
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084867DD0
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000848A6850
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000078C54FAE
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000078C4096F
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084854761
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000848260BE
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084827CC6
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000848A80B7
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000084899B18
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007D7BB498
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007D7A3EE1
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007D7BD5BB
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007D79F042
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: USER32.dll!0x00000000CCA0B85D
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: USER32.dll!0x00000000CCA0B1EF
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000007D7BDCC6
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor.exe!0x00000000897F4BE2
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor.exe!0x0000000089803970
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor.exe!0x00000000898039EA
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor.exe!0x00000000898102D9
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: UE4Editor.exe!0x0000000089811C47
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: KERNEL32.DLL!0x00000000CC4E1FE4
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: ntdll.dll!0x00000000CE37EFC1
+[2018.02.23-12.28.33:678][ 99]LogOutputDevice: Error: 
+[2018.02.23-12.28.33:682][ 99]LogStats:                SubmitErrorReport -  0.000 s
