@@ -1,0 +1,956 @@
+﻿Log file open, 02/25/18 14:23:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: waterlvl
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-674798532) SRandInit(-674798532).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.215002
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.25-13.23.51:896][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.25-13.23.51:896][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.25-13.23.52:015][  0]LogInit: Computer: DISCO-INFERNO
+[2018.02.25-13.23.52:015][  0]LogInit: User: hanna
+[2018.02.25-13.23.52:015][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.02.25-13.23.52:015][  0]LogInit: High frequency timer resolution =3.409434 MHz
+[2018.02.25-13.23.52:015][  0]LogMemory: Memory total: Physical=10.9GB (11GB approx)
+[2018.02.25-13.23.52:015][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.25-13.23.52:015][  0]LogMemory: Process Physical Memory: 279.25 MB used, 279.25 MB peak
+[2018.02.25-13.23.52:016][  0]LogMemory: Process Virtual Memory: 276.02 MB used, 276.02 MB peak
+[2018.02.25-13.23.52:016][  0]LogMemory: Physical Memory: 5479.50 MB used,  5726.30 MB free, 11205.80 MB total
+[2018.02.25-13.23.52:016][  0]LogMemory: Virtual Memory: 701.15 MB used,  5726.30 MB free, 134217728.00 MB total
+[2018.02.25-13.23.52:561][  0]LogInit: Using OS detected language (sv-SE).
+[2018.02.25-13.23.52:561][  0]LogInit: Using OS detected locale (sv-SE).
+[2018.02.25-13.23.52:627][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2018.02.25-13.23.52:628][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the locale.
+[2018.02.25-13.23.54:127][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.25-13.23.54:163][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R7 Graphics' (Feature Level 11_0)
+[2018.02.25-13.23.54:163][  0]LogD3D11RHI:       991/0/5602 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.02.25-13.23.54:167][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.25-13.23.54:167][  0]LogD3D11RHI:       0/0/5602 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.25-13.23.54:167][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.25-13.23.54:178][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.25-13.23.54:178][  0]LogD3D11RHI:     GPU DeviceId: 0x130f (for the marketing name, search the web for "GPU Device Id")
+[2018.02.25-13.23.54:178][  0]LogWindows: EnumDisplayDevices:
+[2018.02.25-13.23.54:179][  0]LogWindows:    0. 'AMD Radeon(TM) R7 Graphics' (P:1 D:1)
+[2018.02.25-13.23.54:179][  0]LogWindows:    1. 'AMD Radeon(TM) R7 Graphics' (P:0 D:0)
+[2018.02.25-13.23.54:179][  0]LogWindows:    2. 'AMD Radeon(TM) R7 Graphics' (P:0 D:0)
+[2018.02.25-13.23.54:179][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.25-13.23.54:179][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R7 Graphics
+[2018.02.25-13.23.54:179][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.25-13.23.54:179][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.25-13.23.54:179][  0]LogRHI: Texture pool is 693 MB (70% of 991 MB)
+[2018.02.25-13.23.54:223][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.25-13.23.54:238][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2018.02.25-13.23.54:241][  0]LogShaderCompilers: Guid format shader working directory is -46 characters bigger than the processId version (../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Intermediate/Shaders/WorkingDirectory/8556/).
+[2018.02.25-13.23.54:241][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/hanna/AppData/Local/Temp/UnrealShaderWorkingDir/8839FDF94274D47C7C618DB1970BC167/'.
+[2018.02.25-13.23.54:241][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.25-13.23.56:064][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.25-13.23.56:161][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.25-13.23.56:260][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.25-13.23.56:387][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.25-13.23.56:526][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.25-13.23.56:624][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.25-13.23.56:723][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.25-13.23.56:817][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.25-13.23.56:902][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.25-13.23.57:001][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.25-13.23.57:092][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.25-13.23.57:186][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.25-13.23.57:277][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.25-13.23.57:369][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.25-13.23.57:461][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.25-13.23.57:642][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.25-13.23.57:642][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.25-13.23.57:718][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.25-13.23.57:889][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.25-13.23.57:943][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.25-13.23.58:031][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.25-13.23.58:123][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.25-13.23.58:214][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.25-13.23.58:308][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.25-13.23.58:308][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.25-13.23.59:321][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.25-13.23.59:676][  0]LogDerivedDataCache: Loaded boot cache 0.36s 97MB C:/Users/hanna/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.25-13.23.59:677][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/hanna/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.02.25-13.23.59:677][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.25-13.23.59:677][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.25-13.23.59:677][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.25-13.23.59:677][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.25-13.23.59:703][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.25-13.23.59:715][  0]LogDerivedDataCache: Using Local data cache path C:/Users/hanna/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.25-13.23.59:734][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.25-13.23.59:735][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.25-13.23.59:745][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.25-13.23.59:745][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.25-13.24.01:156][  0]LogAssetRegistry: FAssetRegistry took 0.0291 seconds to start up
+[2018.02.25-13.24.01:377][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.25-13.24.02:164][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.25-13.24.02:244][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.25-13.24.02:244][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.25-13.24.02:244][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.25-13.24.02:244][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.25-13.24.02:244][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.25-13.24.02:289][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.02.25-13.24.03:140][  0]LogNetVersion: waterlvl , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2354190466)
+[2018.02.25-13.24.03:553][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.077871 seconds
+[2018.02.25-13.24.03:563][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.02.25-13.24.03:563][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2018.02.25-13.24.03:563][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.25-13.24.03:679][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.25-13.24.20:803][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.25-13.24.20:869][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.25-13.24.22:151][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.25-13.24.23:021][  0]SourceControl: Source control is disabled
+[2018.02.25-13.24.23:021][  0]SourceControl: Source control is disabled
+[2018.02.25-13.24.23:113][  0]SourceControl: Source control is disabled
+[2018.02.25-13.24.23:200][  0]SourceControl: Source control is disabled
+[2018.02.25-13.24.24:475][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.25-13.24.24:934][  0]LogOcInput: OculusInput pre-init called
+[2018.02.25-13.24.25:436][  0]LogEngine: Initializing Engine...
+[2018.02.25-13.24.25:439][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.25-13.24.26:068][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.25-13.24.26:069][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.25-13.24.26:323][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.25-13.24.26:334][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-13.24.26:366][  0]LogInit: FAudioDevice initialized.
+[2018.02.25-13.24.26:573][  0]LogDerivedDataCache: Saved boot cache 0.21s 106MB C:/Users/hanna/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.25-13.24.26:620][  0]LogInit: Texture streaming: Enabled
+[2018.02.25-13.24.26:834][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.25-13.24.27:321][  0]LogInit: Transaction tracking system initialized
+[2018.02.25-13.24.27:911][  0]BlueprintLog: New page: Editor Load
+[2018.02.25-13.24.29:713][  0]LocalizationService: Localization service is disabled
+[2018.02.25-13.24.31:081][  0]LogConsoleResponse: Display: 
+[2018.02.25-13.24.31:648][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.25-13.24.31:648][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.25-13.24.31:648][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.25-13.24.31:945][  0]LogFileCache: Scanning file cache for directory 'C:/Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/' took 0.03s
+[2018.02.25-13.24.33:985][  0]SourceControl: Source control is disabled
+[2018.02.25-13.24.34:051][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.25-13.24.34:052][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.25-13.24.34:088][  0]LogSlate: Took 0.000492 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.25-13.24.45:909][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.25-13.24.45:909][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.25-13.24.45:913][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.25-13.24.45:913][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.25-13.24.49:155][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.25-13.24.49:155][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.25-13.24.49:159][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.25-13.24.49:159][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.25-13.24.49:306][  0]Cmd: MAP LOAD FILE="../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.25-13.24.49:335][  0]LightingResults: New page: Lighting Build
+[2018.02.25-13.24.49:413][  0]MapCheck: New page: Map Check
+[2018.02.25-13.24.49:413][  0]LightingResults: New page: Lighting Build
+[2018.02.25-13.24.49:441][  0]LogLinker: Warning: Can't find file '/Game/VirtualRealityBP/Maps/StartupMap_BuiltData'
+[2018.02.25-13.24.49:441][  0]LogLinker: Warning: Can't find file for asset '/Game/VirtualRealityBP/Maps/StartupMap_BuiltData' while loading ../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/VirtualRealityBP/Maps/StartupMap.umap.
+[2018.02.25-13.24.49:441][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/StartupMap : Can't find file for asset. /Game/VirtualRealityBP/Maps/StartupMap_BuiltData
+[2018.02.25-13.24.49:854][  0]LogLinker: Warning: Can't find file '/Game/VirtualRealityBP/Maps/StartupMap_BuiltData'
+[2018.02.25-13.24.49:854][  0]LogLinker: Warning: Can't find file for asset '/Game/VirtualRealityBP/Maps/StartupMap_BuiltData' while loading ../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/VirtualRealityBP/Maps/StartupMap.umap.
+[2018.02.25-13.24.49:854][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/StartupMap : Can't find file for asset. /Game/VirtualRealityBP/Maps/StartupMap_BuiltData
+[2018.02.25-13.24.49:942][  0]LogLinker: Warning: Can't find file '/Game/VirtualRealityBP/Maps/StartupMap_BuiltData'
+[2018.02.25-13.24.49:942][  0]LoadErrors: Failed to load /Game/VirtualRealityBP/Maps/StartupMap_BuiltData.StartupMap_BuiltData Referenced by PersistentLevel
+[2018.02.25-13.24.49:942][  0]LogLinker: Warning: Can't find file for asset '/Game/VirtualRealityBP/Maps/StartupMap_BuiltData' while loading NULL.
+[2018.02.25-13.24.49:942][  0]LoadErrors: Failed to load /Game/VirtualRealityBP/Maps/StartupMap_BuiltData.StartupMap_BuiltData Referenced by PersistentLevel
+[2018.02.25-13.24.50:174][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.02.25-13.24.50:508][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.25-13.24.50:548][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.25-13.24.50:640][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 92.559ms to complete.
+[2018.02.25-13.24.50:641][  0]LogFileHelpers: Loading map 'StartupMap' took 1.334
+[2018.02.25-13.24.51:033][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_77c_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_23a4_0///####STATCAT_Advanced####
+[2018.02.25-13.24.51:033][  0]LogCollectionManager: Loaded 0 collections in 0.002881 seconds
+[2018.02.25-13.24.51:151][  0]LogFileCache: Scanning file cache for directory 'C:/Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Saved/Collections/' took 0.01s
+[2018.02.25-13.24.51:151][  0]LogFileCache: Scanning file cache for directory 'C:/Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/Developers/hanna/Collections/' took 0.01s
+[2018.02.25-13.24.51:151][  0]LogFileCache: Scanning file cache for directory 'C:/Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/Collections/' took 0.01s
+[2018.02.25-13.24.51:151][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.25-13.24.51:165][  0]LogContentBrowser: Native class hierarchy populated in 0.0143 seconds. Added 2386 classes and 500 folders.
+[2018.02.25-13.24.51:282][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.02.25-13.24.52:122][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.02.25-13.24.52:198][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2018.02.25-13.24.52:339][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2018.02.25-13.24.52:339][  0]LogLoad: (Engine Initialization) Total time: 64.50 seconds
+[2018.02.25-13.24.52:339][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.25-13.24.52:340][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.25-13.24.52:402][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.25-13.24.52:434][  0]LogSlate: Took 0.010558 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.25-13.24.52:468][  0]LogSlate: Took 0.013217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.25-13.24.52:990][  0]LogRenderer: Reallocating scene render targets to support 796x360 Format 26 NumSamples 1 (Frame:1).
+[2018.02.25-13.24.52:990][  0]LogSlate: Took 0.018781 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.25-13.24.53:923][  3]LogAssetRegistry: Asset discovery search completed in 52.7889 seconds
+[2018.02.25-13.24.53:927][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.02.25-13.24.53:927][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000169 seconds (updated 0 objects)
+[2018.02.25-13.24.53:949][  3]LogSlate: Took 0.000513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.25-13.25.01:314][358]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.25-13.25.02:163][358]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 113 classes and 0 folders.
+[2018.02.25-13.25.03:832][358]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0012 seconds. Added 1 classes and 0 folders.
+[2018.02.25-13.25.03:872][358]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.25.04:103][358]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.25.04:126][358]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.25.04:176][358]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.25-13.25.04:183][358]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.25-13.25.04:295][358]LogSlate: Took 0.027857 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.25-13.25.08:139][369]MaterialEditorStats: Base pass shader: 132 instructions
+[2018.02.25-13.25.08:139][369]MaterialEditorStats: Vertex shader: 85 instructions
+[2018.02.25-13.25.08:139][369]MaterialEditorStats: Texture samplers: 2/16
+[2018.02.25-13.31.45:190][632]LogRenderer: Reallocating scene render targets to support 804x540 Format 26 NumSamples 1 (Frame:332).
+[2018.02.25-13.38.13:371][364]LogSlate: Took 0.000575 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.25-13.38.14:043][364]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.25-13.38.14:141][364]LightingResults: New page: Lighting Build
+[2018.02.25-13.38.14:142][364]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2018.02.25-13.38.14:157][364]MapCheck: New page: Map Check
+[2018.02.25-13.38.14:157][364]LightingResults: New page: Lighting Build
+[2018.02.25-13.38.14:210][364]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.25-13.38.14:304][364]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.25-13.38.14:491][364]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 187.326ms to complete.
+[2018.02.25-13.38.14:491][364]LogFileHelpers: Loading map 'MotionControllerMap' took 0.352
+[2018.02.25-13.38.19:179][575]LogRenderer: Reallocating scene render targets to support 804x552 Format 26 NumSamples 1 (Frame:208).
+[2018.02.25-13.38.19:271][576]LogRenderer: Reallocating scene render targets to support 804x564 Format 26 NumSamples 1 (Frame:210).
+[2018.02.25-13.38.19:438][578]LogRenderer: Reallocating scene render targets to support 804x576 Format 26 NumSamples 1 (Frame:214).
+[2018.02.25-13.38.35:515][270]LogEditorViewport: Clicking on Actor (LMB): waterLevel_C (waterLevel)
+[2018.02.25-13.39.47:794][ 47]LogSlate: Took 0.010026 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.25-13.40.06:845][592]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.40.11:555][994]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.40.17:379][499]MaterialEditorStats: Base pass shader: 132 instructions
+[2018.02.25-13.40.17:379][499]MaterialEditorStats: Vertex shader: 85 instructions
+[2018.02.25-13.40.17:379][499]MaterialEditorStats: Texture samplers: 2/16
+[2018.02.25-13.40.32:317][ 68]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.40.36:811][462]MaterialEditorStats: Base pass shader: 132 instructions
+[2018.02.25-13.40.36:811][462]MaterialEditorStats: Vertex shader: 85 instructions
+[2018.02.25-13.40.36:811][462]MaterialEditorStats: Texture samplers: 2/16
+[2018.02.25-13.41.01:980][375]LogMaterialEditor: Saving and Compiling material myMat
+[2018.02.25-13.41.02:882][375]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.41.02:946][375]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.41.02:992][375]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.41.03:079][375]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy myMat, compiling. 
+[2018.02.25-13.41.05:903][375]TextureStreamingBuild: Display: Compiling optional shaders took 2.847 seconds.
+[2018.02.25-13.41.08:898][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myMat" FILE="../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/myMat.uasset" SILENT=true
+[2018.02.25-13.41.08:982][375]LogSavePackage: Save=47.69ms
+[2018.02.25-13.41.08:982][375]LogSavePackage: Moving '../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Saved/myMat722D716F493FF34C73148EB6898ED40C.tmp' to '../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/myMat.uasset'
+[2018.02.25-13.41.08:986][375]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/myMat.uasset
+[2018.02.25-13.41.09:002][375]MaterialEditorStats: Base pass shader: 132 instructions
+[2018.02.25-13.41.09:002][375]MaterialEditorStats: Vertex shader: 85 instructions
+[2018.02.25-13.41.09:002][375]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.25-13.41.14:397][716]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.41.17:481][971]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.41.17:508][971]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.25-13.41.19:461][132]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.41.19:490][132]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.25-13.41.24:533][426]MaterialEditorStats: Base pass shader: 132 instructions
+[2018.02.25-13.41.24:533][426]MaterialEditorStats: Vertex shader: 85 instructions
+[2018.02.25-13.41.24:533][426]MaterialEditorStats: Texture samplers: 2/16
+[2018.02.25-13.42.15:103][266]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.42.15:122][266]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.42.24:918][228]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.42.24:936][228]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.02.25-13.42.29:841][621]MaterialEditorStats: Base pass shader: 132 instructions
+[2018.02.25-13.42.29:841][621]MaterialEditorStats: Vertex shader: 85 instructions
+[2018.02.25-13.42.29:841][621]MaterialEditorStats: Texture samplers: 2/16
+[2018.02.25-13.42.36:485][257]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.42.36:505][257]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.02.25-13.42.37:326][322]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.42.37:354][322]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.02.25-13.42.40:158][553]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.42.40:188][553]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.02.25-13.42.43:862][721]MaterialEditorStats: Base pass shader: 132 instructions
+[2018.02.25-13.42.43:862][721]MaterialEditorStats: Vertex shader: 85 instructions
+[2018.02.25-13.42.43:862][721]MaterialEditorStats: Texture samplers: 2/16
+[2018.02.25-13.42.48:155][ 71]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.42.48:180][ 71]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.02.25-13.42.50:960][290]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.42.50:986][290]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.02.25-13.42.55:091][408]MaterialEditorStats: Base pass shader: 132 instructions
+[2018.02.25-13.42.55:091][408]MaterialEditorStats: Vertex shader: 85 instructions
+[2018.02.25-13.42.55:091][408]MaterialEditorStats: Texture samplers: 2/16
+[2018.02.25-13.43.13:442][124]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.43.17:929][486]MaterialEditorStats: Base pass shader: 144 instructions
+[2018.02.25-13.43.17:929][486]MaterialEditorStats: Vertex shader: 85 instructions
+[2018.02.25-13.43.17:929][486]MaterialEditorStats: Texture samplers: 2/16
+[2018.02.25-13.43.23:765][ 17]LogMaterialEditor: Saving and Compiling material myMat
+[2018.02.25-13.43.24:637][ 17]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.43.24:690][ 17]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.43.24:730][ 17]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.43.24:802][ 17]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy myMat, compiling. 
+[2018.02.25-13.43.26:526][ 17]TextureStreamingBuild: Display: Compiling optional shaders took 1.731 seconds.
+[2018.02.25-13.43.29:376][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myMat" FILE="../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/myMat.uasset" SILENT=true
+[2018.02.25-13.43.29:404][ 17]LogSavePackage: Save=20.54ms
+[2018.02.25-13.43.29:404][ 17]LogSavePackage: Moving '../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Saved/myMat05F4240543E7029B333D7BA5F60292D7.tmp' to '../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/myMat.uasset'
+[2018.02.25-13.43.29:411][ 17]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/myMat.uasset
+[2018.02.25-13.43.29:420][ 17]MaterialEditorStats: Base pass shader: 144 instructions
+[2018.02.25-13.43.29:420][ 17]MaterialEditorStats: Vertex shader: 85 instructions
+[2018.02.25-13.43.29:420][ 17]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.25-13.43.54:890][698]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.43.54:908][698]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.02.25-13.43.59:921][ 89]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.43.59:954][ 89]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.02.25-13.44.01:963][245]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.44.01:990][245]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.02.25-13.44.07:430][650]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.44.07:453][650]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.02.25-13.44.12:032][993]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.44.12:060][993]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.02.25-13.44.14:848][211]LogMaterialEditor: Saving and Compiling material myMat
+[2018.02.25-13.44.16:086][211]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.44.16:155][211]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.44.16:202][211]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.44.16:274][211]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy myMat, compiling. 
+[2018.02.25-13.44.18:216][211]TextureStreamingBuild: Display: Compiling optional shaders took 1.949 seconds.
+[2018.02.25-13.44.20:990][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myMat" FILE="../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/myMat.uasset" SILENT=true
+[2018.02.25-13.44.21:021][211]LogSavePackage: Save=23.95ms
+[2018.02.25-13.44.21:021][211]LogSavePackage: Moving '../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Saved/myMat867E6D2241632929D7E7CF9597A6F9AA.tmp' to '../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/myMat.uasset'
+[2018.02.25-13.44.21:024][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/myMat.uasset
+[2018.02.25-13.44.21:036][211]MaterialEditorStats: Base pass shader: 145 instructions
+[2018.02.25-13.44.21:036][211]MaterialEditorStats: Vertex shader: 85 instructions
+[2018.02.25-13.44.21:036][211]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.25-13.44.36:266][ 60]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-13.44.36:425][ 60]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.25-13.44.36:425][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.25-13.44.36:426][ 60]PIE: New page: PIE session: MotionControllerMap (Feb 25, 2018, 3:44:36 PM)
+[2018.02.25-13.44.36:444][ 60]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.02.25-13.44.36:470][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026240s)
+[2018.02.25-13.44.36:471][ 60]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.25-13.44.36:472][ 60]LogPlayLevel: PIE: World Init took: (0.001526s)
+[2018.02.25-13.44.36:472][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.031004s)
+[2018.02.25-13.44.36:522][ 60]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-13.44.36:544][ 60]LogInit: FAudioDevice initialized.
+[2018.02.25-13.44.36:604][ 60]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.25-13.44.36:618][ 60]LogLoad: Game class is 'GameModeBase'
+[2018.02.25-13.44.36:649][ 60]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.02.25-14.44.36
+[2018.02.25-13.44.36:651][ 60]LogWorld: Bringing up level for play took: 0.003373
+[2018.02.25-13.44.36:789][ 60]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2018.02.25-13.44.36:874][ 60]LogBlueprintUserMessages: [timelineDot_C_0] 1880-02-13
+[2018.02.25-13.44.36:875][ 60]LogBlueprintUserMessages: [timelineDot_C_1] 1881-02-13
+[2018.02.25-13.44.36:875][ 60]LogBlueprintUserMessages: [timelineDot_C_2] 1882-02-13
+[2018.02.25-13.44.36:876][ 60]LogBlueprintUserMessages: [timelineDot_C_3] 1883-02-13
+[2018.02.25-13.44.36:876][ 60]LogBlueprintUserMessages: [timelineDot_C_4] 1884-02-13
+[2018.02.25-13.44.36:877][ 60]LogBlueprintUserMessages: [timelineDot_C_5] 1885-02-13
+[2018.02.25-13.44.36:877][ 60]LogBlueprintUserMessages: [timelineDot_C_6] 1886-02-13
+[2018.02.25-13.44.36:878][ 60]LogBlueprintUserMessages: [timelineDot_C_7] 1887-02-13
+[2018.02.25-13.44.36:878][ 60]LogBlueprintUserMessages: [timelineDot_C_8] 1888-02-13
+[2018.02.25-13.44.36:879][ 60]LogBlueprintUserMessages: [timelineDot_C_9] 1889-02-13
+[2018.02.25-13.44.36:879][ 60]LogBlueprintUserMessages: [timelineDot_C_10] 1890-02-13
+[2018.02.25-13.44.36:880][ 60]LogBlueprintUserMessages: [timelineDot_C_11] 1891-02-13
+[2018.02.25-13.44.36:880][ 60]LogBlueprintUserMessages: [timelineDot_C_12] 1892-02-13
+[2018.02.25-13.44.36:881][ 60]LogBlueprintUserMessages: [timelineDot_C_13] 1893-02-13
+[2018.02.25-13.44.36:881][ 60]LogBlueprintUserMessages: [timelineDot_C_14] 1894-02-13
+[2018.02.25-13.44.36:882][ 60]LogBlueprintUserMessages: [timelineDot_C_15] 1895-02-13
+[2018.02.25-13.44.36:882][ 60]LogBlueprintUserMessages: [timelineDot_C_16] 1896-02-13
+[2018.02.25-13.44.36:883][ 60]LogBlueprintUserMessages: [timelineDot_C_17] 1897-02-13
+[2018.02.25-13.44.36:883][ 60]LogBlueprintUserMessages: [timelineDot_C_18] 1898-02-13
+[2018.02.25-13.44.36:884][ 60]LogBlueprintUserMessages: [timelineDot_C_19] 1899-02-13
+[2018.02.25-13.44.36:884][ 60]LogBlueprintUserMessages: [timelineDot_C_20] 1900-02-13
+[2018.02.25-13.44.36:885][ 60]LogBlueprintUserMessages: [timelineDot_C_21] 1901-02-13
+[2018.02.25-13.44.36:885][ 60]LogBlueprintUserMessages: [timelineDot_C_22] 1902-02-13
+[2018.02.25-13.44.36:886][ 60]LogBlueprintUserMessages: [timelineDot_C_23] 1903-02-13
+[2018.02.25-13.44.36:886][ 60]LogBlueprintUserMessages: [timelineDot_C_24] 1904-02-13
+[2018.02.25-13.44.36:887][ 60]LogBlueprintUserMessages: [timelineDot_C_25] 1905-02-13
+[2018.02.25-13.44.36:887][ 60]LogBlueprintUserMessages: [timelineDot_C_26] 1906-02-13
+[2018.02.25-13.44.36:888][ 60]LogBlueprintUserMessages: [timelineDot_C_27] 1907-02-13
+[2018.02.25-13.44.36:888][ 60]LogBlueprintUserMessages: [timelineDot_C_28] 1908-02-13
+[2018.02.25-13.44.36:889][ 60]LogBlueprintUserMessages: [timelineDot_C_29] 1909-02-13
+[2018.02.25-13.44.36:890][ 60]LogBlueprintUserMessages: [timelineDot_C_30] 1910-02-13
+[2018.02.25-13.44.36:890][ 60]LogBlueprintUserMessages: [timelineDot_C_31] 1911-02-13
+[2018.02.25-13.44.36:891][ 60]LogBlueprintUserMessages: [timelineDot_C_32] 1912-02-13
+[2018.02.25-13.44.36:891][ 60]LogBlueprintUserMessages: [timelineDot_C_33] 1913-02-13
+[2018.02.25-13.44.36:892][ 60]LogBlueprintUserMessages: [timelineDot_C_34] 1914-02-13
+[2018.02.25-13.44.36:892][ 60]LogBlueprintUserMessages: [timelineDot_C_35] 1915-02-13
+[2018.02.25-13.44.36:893][ 60]LogBlueprintUserMessages: [timelineDot_C_36] 1916-02-13
+[2018.02.25-13.44.36:894][ 60]LogBlueprintUserMessages: [timelineDot_C_37] 1917-02-13
+[2018.02.25-13.44.36:894][ 60]LogBlueprintUserMessages: [timelineDot_C_38] 1918-02-13
+[2018.02.25-13.44.36:895][ 60]LogBlueprintUserMessages: [timelineDot_C_39] 1919-02-13
+[2018.02.25-13.44.36:896][ 60]LogBlueprintUserMessages: [timelineDot_C_40] 1920-02-13
+[2018.02.25-13.44.36:896][ 60]LogBlueprintUserMessages: [timelineDot_C_41] 1921-02-13
+[2018.02.25-13.44.36:897][ 60]LogBlueprintUserMessages: [timelineDot_C_42] 1922-02-13
+[2018.02.25-13.44.36:898][ 60]LogBlueprintUserMessages: [timelineDot_C_43] 1923-02-13
+[2018.02.25-13.44.36:898][ 60]LogBlueprintUserMessages: [timelineDot_C_44] 1924-02-13
+[2018.02.25-13.44.36:899][ 60]LogBlueprintUserMessages: [timelineDot_C_45] 1925-02-13
+[2018.02.25-13.44.36:899][ 60]LogBlueprintUserMessages: [timelineDot_C_46] 1926-02-13
+[2018.02.25-13.44.36:900][ 60]LogBlueprintUserMessages: [timelineDot_C_47] 1927-02-13
+[2018.02.25-13.44.36:901][ 60]LogBlueprintUserMessages: [timelineDot_C_48] 1928-02-13
+[2018.02.25-13.44.36:901][ 60]LogBlueprintUserMessages: [timelineDot_C_49] 1929-02-13
+[2018.02.25-13.44.36:902][ 60]LogBlueprintUserMessages: [timelineDot_C_50] 1930-02-13
+[2018.02.25-13.44.36:902][ 60]LogBlueprintUserMessages: [timelineDot_C_51] 1931-02-13
+[2018.02.25-13.44.36:903][ 60]LogBlueprintUserMessages: [timelineDot_C_52] 1932-02-13
+[2018.02.25-13.44.36:903][ 60]LogBlueprintUserMessages: [timelineDot_C_53] 1933-02-13
+[2018.02.25-13.44.36:904][ 60]LogBlueprintUserMessages: [timelineDot_C_54] 1934-02-13
+[2018.02.25-13.44.36:904][ 60]LogBlueprintUserMessages: [timelineDot_C_55] 1935-02-13
+[2018.02.25-13.44.36:905][ 60]LogBlueprintUserMessages: [timelineDot_C_56] 1936-02-13
+[2018.02.25-13.44.36:905][ 60]LogBlueprintUserMessages: [timelineDot_C_57] 1937-02-13
+[2018.02.25-13.44.36:906][ 60]LogBlueprintUserMessages: [timelineDot_C_58] 1938-02-13
+[2018.02.25-13.44.36:906][ 60]LogBlueprintUserMessages: [timelineDot_C_59] 1939-02-13
+[2018.02.25-13.44.36:907][ 60]LogBlueprintUserMessages: [timelineDot_C_60] 1940-02-13
+[2018.02.25-13.44.36:907][ 60]LogBlueprintUserMessages: [timelineDot_C_61] 1941-02-13
+[2018.02.25-13.44.36:908][ 60]LogBlueprintUserMessages: [timelineDot_C_62] 1942-02-13
+[2018.02.25-13.44.36:908][ 60]LogBlueprintUserMessages: [timelineDot_C_63] 1943-02-13
+[2018.02.25-13.44.36:909][ 60]LogBlueprintUserMessages: [timelineDot_C_64] 1944-02-13
+[2018.02.25-13.44.36:909][ 60]LogBlueprintUserMessages: [timelineDot_C_65] 1945-02-13
+[2018.02.25-13.44.36:910][ 60]LogBlueprintUserMessages: [timelineDot_C_66] 1946-02-13
+[2018.02.25-13.44.36:911][ 60]LogBlueprintUserMessages: [timelineDot_C_67] 1947-02-13
+[2018.02.25-13.44.36:911][ 60]LogBlueprintUserMessages: [timelineDot_C_68] 1948-02-13
+[2018.02.25-13.44.36:912][ 60]LogBlueprintUserMessages: [timelineDot_C_69] 1949-02-13
+[2018.02.25-13.44.36:912][ 60]LogBlueprintUserMessages: [timelineDot_C_70] 1950-02-13
+[2018.02.25-13.44.36:913][ 60]LogBlueprintUserMessages: [timelineDot_C_71] 1951-02-13
+[2018.02.25-13.44.36:913][ 60]LogBlueprintUserMessages: [timelineDot_C_72] 1952-02-13
+[2018.02.25-13.44.36:914][ 60]LogBlueprintUserMessages: [timelineDot_C_73] 1953-02-13
+[2018.02.25-13.44.36:915][ 60]LogBlueprintUserMessages: [timelineDot_C_74] 1954-02-13
+[2018.02.25-13.44.36:915][ 60]LogBlueprintUserMessages: [timelineDot_C_75] 1955-02-13
+[2018.02.25-13.44.36:916][ 60]LogBlueprintUserMessages: [timelineDot_C_76] 1956-02-13
+[2018.02.25-13.44.36:917][ 60]LogBlueprintUserMessages: [timelineDot_C_77] 1957-02-13
+[2018.02.25-13.44.36:917][ 60]LogBlueprintUserMessages: [timelineDot_C_78] 1958-02-13
+[2018.02.25-13.44.36:918][ 60]LogBlueprintUserMessages: [timelineDot_C_79] 1959-02-13
+[2018.02.25-13.44.36:918][ 60]LogBlueprintUserMessages: [timelineDot_C_80] 1960-02-13
+[2018.02.25-13.44.36:919][ 60]LogBlueprintUserMessages: [timelineDot_C_81] 1961-02-13
+[2018.02.25-13.44.36:920][ 60]LogBlueprintUserMessages: [timelineDot_C_82] 1962-02-13
+[2018.02.25-13.44.36:920][ 60]LogBlueprintUserMessages: [timelineDot_C_83] 1963-02-13
+[2018.02.25-13.44.36:921][ 60]LogBlueprintUserMessages: [timelineDot_C_84] 1964-02-13
+[2018.02.25-13.44.36:921][ 60]LogBlueprintUserMessages: [timelineDot_C_85] 1965-02-13
+[2018.02.25-13.44.36:922][ 60]LogBlueprintUserMessages: [timelineDot_C_86] 1966-02-13
+[2018.02.25-13.44.36:923][ 60]LogBlueprintUserMessages: [timelineDot_C_87] 1967-02-13
+[2018.02.25-13.44.36:923][ 60]LogBlueprintUserMessages: [timelineDot_C_88] 1968-02-13
+[2018.02.25-13.44.36:924][ 60]LogBlueprintUserMessages: [timelineDot_C_89] 1969-02-13
+[2018.02.25-13.44.36:924][ 60]LogBlueprintUserMessages: [timelineDot_C_90] 1970-02-13
+[2018.02.25-13.44.36:925][ 60]LogBlueprintUserMessages: [timelineDot_C_91] 1971-02-13
+[2018.02.25-13.44.36:925][ 60]LogBlueprintUserMessages: [timelineDot_C_92] 1972-02-13
+[2018.02.25-13.44.36:926][ 60]LogBlueprintUserMessages: [timelineDot_C_93] 1973-02-13
+[2018.02.25-13.44.36:926][ 60]LogBlueprintUserMessages: [timelineDot_C_94] 1974-02-13
+[2018.02.25-13.44.36:926][ 60]LogBlueprintUserMessages: [timelineDot_C_95] 1975-02-13
+[2018.02.25-13.44.36:927][ 60]LogBlueprintUserMessages: [timelineDot_C_96] 1976-02-13
+[2018.02.25-13.44.36:928][ 60]LogBlueprintUserMessages: [timelineDot_C_97] 1977-02-13
+[2018.02.25-13.44.36:928][ 60]LogBlueprintUserMessages: [timelineDot_C_98] 1978-02-13
+[2018.02.25-13.44.36:929][ 60]LogBlueprintUserMessages: [timelineDot_C_99] 1979-02-13
+[2018.02.25-13.44.36:930][ 60]LogBlueprintUserMessages: [timelineDot_C_100] 1980-02-13
+[2018.02.25-13.44.36:930][ 60]LogBlueprintUserMessages: [timelineDot_C_101] 1981-02-13
+[2018.02.25-13.44.36:931][ 60]LogBlueprintUserMessages: [timelineDot_C_102] 1982-02-13
+[2018.02.25-13.44.36:931][ 60]LogBlueprintUserMessages: [timelineDot_C_103] 1983-02-13
+[2018.02.25-13.44.36:932][ 60]LogBlueprintUserMessages: [timelineDot_C_104] 1984-02-13
+[2018.02.25-13.44.36:932][ 60]LogBlueprintUserMessages: [timelineDot_C_105] 1985-02-13
+[2018.02.25-13.44.36:933][ 60]LogBlueprintUserMessages: [timelineDot_C_106] 1986-02-13
+[2018.02.25-13.44.36:933][ 60]LogBlueprintUserMessages: [timelineDot_C_107] 1987-02-13
+[2018.02.25-13.44.36:934][ 60]LogBlueprintUserMessages: [timelineDot_C_108] 1988-02-13
+[2018.02.25-13.44.36:934][ 60]LogBlueprintUserMessages: [timelineDot_C_109] 1989-02-13
+[2018.02.25-13.44.36:935][ 60]LogBlueprintUserMessages: [timelineDot_C_110] 1990-02-13
+[2018.02.25-13.44.36:935][ 60]LogBlueprintUserMessages: [timelineDot_C_111] 1991-02-13
+[2018.02.25-13.44.36:936][ 60]LogBlueprintUserMessages: [timelineDot_C_112] 1992-02-13
+[2018.02.25-13.44.36:936][ 60]LogBlueprintUserMessages: [timelineDot_C_113] 1993-02-13
+[2018.02.25-13.44.36:937][ 60]LogBlueprintUserMessages: [timelineDot_C_114] 1994-02-13
+[2018.02.25-13.44.36:937][ 60]LogBlueprintUserMessages: [timelineDot_C_115] 1995-02-13
+[2018.02.25-13.44.36:938][ 60]LogBlueprintUserMessages: [timelineDot_C_116] 1996-02-13
+[2018.02.25-13.44.36:938][ 60]LogBlueprintUserMessages: [timelineDot_C_117] 1997-02-13
+[2018.02.25-13.44.36:939][ 60]LogBlueprintUserMessages: [timelineDot_C_118] 1998-02-13
+[2018.02.25-13.44.36:939][ 60]LogBlueprintUserMessages: [timelineDot_C_119] 1999-02-13
+[2018.02.25-13.44.36:940][ 60]LogBlueprintUserMessages: [timelineDot_C_120] 2000-02-13
+[2018.02.25-13.44.36:940][ 60]LogBlueprintUserMessages: [timelineDot_C_121] 2001-02-13
+[2018.02.25-13.44.36:941][ 60]LogBlueprintUserMessages: [timelineDot_C_122] 2002-02-13
+[2018.02.25-13.44.36:942][ 60]LogBlueprintUserMessages: [timelineDot_C_123] 2003-02-13
+[2018.02.25-13.44.36:942][ 60]LogBlueprintUserMessages: [timelineDot_C_124] 2004-02-13
+[2018.02.25-13.44.36:943][ 60]LogBlueprintUserMessages: [timelineDot_C_125] 2005-02-13
+[2018.02.25-13.44.36:943][ 60]LogBlueprintUserMessages: [timelineDot_C_126] 2006-02-13
+[2018.02.25-13.44.36:944][ 60]LogBlueprintUserMessages: [timelineDot_C_127] 2007-02-13
+[2018.02.25-13.44.36:944][ 60]LogBlueprintUserMessages: [timelineDot_C_128] 2008-02-13
+[2018.02.25-13.44.36:945][ 60]LogBlueprintUserMessages: [timelineDot_C_129] 2009-02-13
+[2018.02.25-13.44.36:945][ 60]LogBlueprintUserMessages: [timelineDot_C_130] 2010-02-13
+[2018.02.25-13.44.36:946][ 60]LogBlueprintUserMessages: [timelineDot_C_131] 2011-02-13
+[2018.02.25-13.44.36:946][ 60]LogBlueprintUserMessages: [timelineDot_C_132] 2012-02-13
+[2018.02.25-13.44.36:947][ 60]LogBlueprintUserMessages: [timelineDot_C_133] 2013-02-13
+[2018.02.25-13.44.36:974][ 60]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.041
+[2018.02.25-13.44.36:974][ 60]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.25-13.44.44:958][578]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.25-13.44.45:012][578]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.25-13.45.00:559][415]LogEditorViewport: Clicking on Actor (LMB): waterLevel_C (waterLevel)
+[2018.02.25-13.45.13:758][123]LogRenderer: Reallocating scene render targets to support 804x844 Format 26 NumSamples 1 (Frame:1).
+[2018.02.25-13.45.32:780][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/waterLevel" FILE="../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/waterLevel.uasset" SILENT=true
+[2018.02.25-13.45.32:906][ 87]LogSavePackage: Save=115.51ms
+[2018.02.25-13.45.32:906][ 87]LogSavePackage: Moving '../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Saved/waterLevel0FDDA9D846321A4D0DD6419E2232C4DA.tmp' to '../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/waterLevel.uasset'
+[2018.02.25-13.45.32:910][ 87]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/waterLevel.uasset
+[2018.02.25-13.45.35:756][204]LogSavePackage: Save=147.12ms
+[2018.02.25-13.45.35:756][204]LogSavePackage: Moving '../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Saved/MotionControllerMap0F4351E0466BCEFE5922D5B766C930A2.tmp' to '../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.02.25-13.45.35:759][204]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.02.25-13.45.47:777][806]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-13.45.47:797][806]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.25-13.45.47:798][806]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.25-13.45.47:798][806]PIE: New page: PIE session: MotionControllerMap (Feb 25, 2018, 3:45:47 PM)
+[2018.02.25-13.45.47:798][806]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.02.25-13.45.47:813][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014594s)
+[2018.02.25-13.45.47:814][806]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.25-13.45.47:814][806]LogPlayLevel: PIE: World Init took: (0.001443s)
+[2018.02.25-13.45.47:815][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.016678s)
+[2018.02.25-13.45.47:850][806]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-13.45.47:869][806]LogInit: FAudioDevice initialized.
+[2018.02.25-13.45.47:905][806]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.25-13.45.47:905][806]LogLoad: Game class is 'GameModeBase'
+[2018.02.25-13.45.47:907][806]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.02.25-14.45.47
+[2018.02.25-13.45.47:907][806]LogWorld: Bringing up level for play took: 0.001941
+[2018.02.25-13.45.47:912][806]LogBlueprintUserMessages: [timelineDot_C_0] 1880-02-13
+[2018.02.25-13.45.47:912][806]LogBlueprintUserMessages: [timelineDot_C_1] 1881-02-13
+[2018.02.25-13.45.47:913][806]LogBlueprintUserMessages: [timelineDot_C_2] 1882-02-13
+[2018.02.25-13.45.47:913][806]LogBlueprintUserMessages: [timelineDot_C_3] 1883-02-13
+[2018.02.25-13.45.47:913][806]LogBlueprintUserMessages: [timelineDot_C_4] 1884-02-13
+[2018.02.25-13.45.47:914][806]LogBlueprintUserMessages: [timelineDot_C_5] 1885-02-13
+[2018.02.25-13.45.47:914][806]LogBlueprintUserMessages: [timelineDot_C_6] 1886-02-13
+[2018.02.25-13.45.47:914][806]LogBlueprintUserMessages: [timelineDot_C_7] 1887-02-13
+[2018.02.25-13.45.47:915][806]LogBlueprintUserMessages: [timelineDot_C_8] 1888-02-13
+[2018.02.25-13.45.47:915][806]LogBlueprintUserMessages: [timelineDot_C_9] 1889-02-13
+[2018.02.25-13.45.47:915][806]LogBlueprintUserMessages: [timelineDot_C_10] 1890-02-13
+[2018.02.25-13.45.47:916][806]LogBlueprintUserMessages: [timelineDot_C_11] 1891-02-13
+[2018.02.25-13.45.47:916][806]LogBlueprintUserMessages: [timelineDot_C_12] 1892-02-13
+[2018.02.25-13.45.47:916][806]LogBlueprintUserMessages: [timelineDot_C_13] 1893-02-13
+[2018.02.25-13.45.47:917][806]LogBlueprintUserMessages: [timelineDot_C_14] 1894-02-13
+[2018.02.25-13.45.47:917][806]LogBlueprintUserMessages: [timelineDot_C_15] 1895-02-13
+[2018.02.25-13.45.47:917][806]LogBlueprintUserMessages: [timelineDot_C_16] 1896-02-13
+[2018.02.25-13.45.47:918][806]LogBlueprintUserMessages: [timelineDot_C_17] 1897-02-13
+[2018.02.25-13.45.47:918][806]LogBlueprintUserMessages: [timelineDot_C_18] 1898-02-13
+[2018.02.25-13.45.47:918][806]LogBlueprintUserMessages: [timelineDot_C_19] 1899-02-13
+[2018.02.25-13.45.47:919][806]LogBlueprintUserMessages: [timelineDot_C_20] 1900-02-13
+[2018.02.25-13.45.47:919][806]LogBlueprintUserMessages: [timelineDot_C_21] 1901-02-13
+[2018.02.25-13.45.47:920][806]LogBlueprintUserMessages: [timelineDot_C_22] 1902-02-13
+[2018.02.25-13.45.47:920][806]LogBlueprintUserMessages: [timelineDot_C_23] 1903-02-13
+[2018.02.25-13.45.47:920][806]LogBlueprintUserMessages: [timelineDot_C_24] 1904-02-13
+[2018.02.25-13.45.47:921][806]LogBlueprintUserMessages: [timelineDot_C_25] 1905-02-13
+[2018.02.25-13.45.47:921][806]LogBlueprintUserMessages: [timelineDot_C_26] 1906-02-13
+[2018.02.25-13.45.47:921][806]LogBlueprintUserMessages: [timelineDot_C_27] 1907-02-13
+[2018.02.25-13.45.47:922][806]LogBlueprintUserMessages: [timelineDot_C_28] 1908-02-13
+[2018.02.25-13.45.47:922][806]LogBlueprintUserMessages: [timelineDot_C_29] 1909-02-13
+[2018.02.25-13.45.47:922][806]LogBlueprintUserMessages: [timelineDot_C_30] 1910-02-13
+[2018.02.25-13.45.47:923][806]LogBlueprintUserMessages: [timelineDot_C_31] 1911-02-13
+[2018.02.25-13.45.47:923][806]LogBlueprintUserMessages: [timelineDot_C_32] 1912-02-13
+[2018.02.25-13.45.47:923][806]LogBlueprintUserMessages: [timelineDot_C_33] 1913-02-13
+[2018.02.25-13.45.47:924][806]LogBlueprintUserMessages: [timelineDot_C_34] 1914-02-13
+[2018.02.25-13.45.47:924][806]LogBlueprintUserMessages: [timelineDot_C_35] 1915-02-13
+[2018.02.25-13.45.47:924][806]LogBlueprintUserMessages: [timelineDot_C_36] 1916-02-13
+[2018.02.25-13.45.47:925][806]LogBlueprintUserMessages: [timelineDot_C_37] 1917-02-13
+[2018.02.25-13.45.47:925][806]LogBlueprintUserMessages: [timelineDot_C_38] 1918-02-13
+[2018.02.25-13.45.47:925][806]LogBlueprintUserMessages: [timelineDot_C_39] 1919-02-13
+[2018.02.25-13.45.47:926][806]LogBlueprintUserMessages: [timelineDot_C_40] 1920-02-13
+[2018.02.25-13.45.47:926][806]LogBlueprintUserMessages: [timelineDot_C_41] 1921-02-13
+[2018.02.25-13.45.47:926][806]LogBlueprintUserMessages: [timelineDot_C_42] 1922-02-13
+[2018.02.25-13.45.47:927][806]LogBlueprintUserMessages: [timelineDot_C_43] 1923-02-13
+[2018.02.25-13.45.47:927][806]LogBlueprintUserMessages: [timelineDot_C_44] 1924-02-13
+[2018.02.25-13.45.47:928][806]LogBlueprintUserMessages: [timelineDot_C_45] 1925-02-13
+[2018.02.25-13.45.47:928][806]LogBlueprintUserMessages: [timelineDot_C_46] 1926-02-13
+[2018.02.25-13.45.47:929][806]LogBlueprintUserMessages: [timelineDot_C_47] 1927-02-13
+[2018.02.25-13.45.47:930][806]LogBlueprintUserMessages: [timelineDot_C_48] 1928-02-13
+[2018.02.25-13.45.47:930][806]LogBlueprintUserMessages: [timelineDot_C_49] 1929-02-13
+[2018.02.25-13.45.47:931][806]LogBlueprintUserMessages: [timelineDot_C_50] 1930-02-13
+[2018.02.25-13.45.47:931][806]LogBlueprintUserMessages: [timelineDot_C_51] 1931-02-13
+[2018.02.25-13.45.47:932][806]LogBlueprintUserMessages: [timelineDot_C_52] 1932-02-13
+[2018.02.25-13.45.47:932][806]LogBlueprintUserMessages: [timelineDot_C_53] 1933-02-13
+[2018.02.25-13.45.47:932][806]LogBlueprintUserMessages: [timelineDot_C_54] 1934-02-13
+[2018.02.25-13.45.47:933][806]LogBlueprintUserMessages: [timelineDot_C_55] 1935-02-13
+[2018.02.25-13.45.47:933][806]LogBlueprintUserMessages: [timelineDot_C_56] 1936-02-13
+[2018.02.25-13.45.47:933][806]LogBlueprintUserMessages: [timelineDot_C_57] 1937-02-13
+[2018.02.25-13.45.47:934][806]LogBlueprintUserMessages: [timelineDot_C_58] 1938-02-13
+[2018.02.25-13.45.47:934][806]LogBlueprintUserMessages: [timelineDot_C_59] 1939-02-13
+[2018.02.25-13.45.47:934][806]LogBlueprintUserMessages: [timelineDot_C_60] 1940-02-13
+[2018.02.25-13.45.47:935][806]LogBlueprintUserMessages: [timelineDot_C_61] 1941-02-13
+[2018.02.25-13.45.47:935][806]LogBlueprintUserMessages: [timelineDot_C_62] 1942-02-13
+[2018.02.25-13.45.47:936][806]LogBlueprintUserMessages: [timelineDot_C_63] 1943-02-13
+[2018.02.25-13.45.47:936][806]LogBlueprintUserMessages: [timelineDot_C_64] 1944-02-13
+[2018.02.25-13.45.47:936][806]LogBlueprintUserMessages: [timelineDot_C_65] 1945-02-13
+[2018.02.25-13.45.47:937][806]LogBlueprintUserMessages: [timelineDot_C_66] 1946-02-13
+[2018.02.25-13.45.47:937][806]LogBlueprintUserMessages: [timelineDot_C_67] 1947-02-13
+[2018.02.25-13.45.47:937][806]LogBlueprintUserMessages: [timelineDot_C_68] 1948-02-13
+[2018.02.25-13.45.47:938][806]LogBlueprintUserMessages: [timelineDot_C_69] 1949-02-13
+[2018.02.25-13.45.47:938][806]LogBlueprintUserMessages: [timelineDot_C_70] 1950-02-13
+[2018.02.25-13.45.47:939][806]LogBlueprintUserMessages: [timelineDot_C_71] 1951-02-13
+[2018.02.25-13.45.47:939][806]LogBlueprintUserMessages: [timelineDot_C_72] 1952-02-13
+[2018.02.25-13.45.47:939][806]LogBlueprintUserMessages: [timelineDot_C_73] 1953-02-13
+[2018.02.25-13.45.47:940][806]LogBlueprintUserMessages: [timelineDot_C_74] 1954-02-13
+[2018.02.25-13.45.47:940][806]LogBlueprintUserMessages: [timelineDot_C_75] 1955-02-13
+[2018.02.25-13.45.47:940][806]LogBlueprintUserMessages: [timelineDot_C_76] 1956-02-13
+[2018.02.25-13.45.47:941][806]LogBlueprintUserMessages: [timelineDot_C_77] 1957-02-13
+[2018.02.25-13.45.47:941][806]LogBlueprintUserMessages: [timelineDot_C_78] 1958-02-13
+[2018.02.25-13.45.47:941][806]LogBlueprintUserMessages: [timelineDot_C_79] 1959-02-13
+[2018.02.25-13.45.47:942][806]LogBlueprintUserMessages: [timelineDot_C_80] 1960-02-13
+[2018.02.25-13.45.47:942][806]LogBlueprintUserMessages: [timelineDot_C_81] 1961-02-13
+[2018.02.25-13.45.47:943][806]LogBlueprintUserMessages: [timelineDot_C_82] 1962-02-13
+[2018.02.25-13.45.47:943][806]LogBlueprintUserMessages: [timelineDot_C_83] 1963-02-13
+[2018.02.25-13.45.47:943][806]LogBlueprintUserMessages: [timelineDot_C_84] 1964-02-13
+[2018.02.25-13.45.47:944][806]LogBlueprintUserMessages: [timelineDot_C_85] 1965-02-13
+[2018.02.25-13.45.47:944][806]LogBlueprintUserMessages: [timelineDot_C_86] 1966-02-13
+[2018.02.25-13.45.47:944][806]LogBlueprintUserMessages: [timelineDot_C_87] 1967-02-13
+[2018.02.25-13.45.47:945][806]LogBlueprintUserMessages: [timelineDot_C_88] 1968-02-13
+[2018.02.25-13.45.47:945][806]LogBlueprintUserMessages: [timelineDot_C_89] 1969-02-13
+[2018.02.25-13.45.47:945][806]LogBlueprintUserMessages: [timelineDot_C_90] 1970-02-13
+[2018.02.25-13.45.47:946][806]LogBlueprintUserMessages: [timelineDot_C_91] 1971-02-13
+[2018.02.25-13.45.47:946][806]LogBlueprintUserMessages: [timelineDot_C_92] 1972-02-13
+[2018.02.25-13.45.47:946][806]LogBlueprintUserMessages: [timelineDot_C_93] 1973-02-13
+[2018.02.25-13.45.47:947][806]LogBlueprintUserMessages: [timelineDot_C_94] 1974-02-13
+[2018.02.25-13.45.47:947][806]LogBlueprintUserMessages: [timelineDot_C_95] 1975-02-13
+[2018.02.25-13.45.47:948][806]LogBlueprintUserMessages: [timelineDot_C_96] 1976-02-13
+[2018.02.25-13.45.47:948][806]LogBlueprintUserMessages: [timelineDot_C_97] 1977-02-13
+[2018.02.25-13.45.47:948][806]LogBlueprintUserMessages: [timelineDot_C_98] 1978-02-13
+[2018.02.25-13.45.47:949][806]LogBlueprintUserMessages: [timelineDot_C_99] 1979-02-13
+[2018.02.25-13.45.47:949][806]LogBlueprintUserMessages: [timelineDot_C_100] 1980-02-13
+[2018.02.25-13.45.47:950][806]LogBlueprintUserMessages: [timelineDot_C_101] 1981-02-13
+[2018.02.25-13.45.47:950][806]LogBlueprintUserMessages: [timelineDot_C_102] 1982-02-13
+[2018.02.25-13.45.47:950][806]LogBlueprintUserMessages: [timelineDot_C_103] 1983-02-13
+[2018.02.25-13.45.47:951][806]LogBlueprintUserMessages: [timelineDot_C_104] 1984-02-13
+[2018.02.25-13.45.47:951][806]LogBlueprintUserMessages: [timelineDot_C_105] 1985-02-13
+[2018.02.25-13.45.47:951][806]LogBlueprintUserMessages: [timelineDot_C_106] 1986-02-13
+[2018.02.25-13.45.47:952][806]LogBlueprintUserMessages: [timelineDot_C_107] 1987-02-13
+[2018.02.25-13.45.47:952][806]LogBlueprintUserMessages: [timelineDot_C_108] 1988-02-13
+[2018.02.25-13.45.47:952][806]LogBlueprintUserMessages: [timelineDot_C_109] 1989-02-13
+[2018.02.25-13.45.47:953][806]LogBlueprintUserMessages: [timelineDot_C_110] 1990-02-13
+[2018.02.25-13.45.47:953][806]LogBlueprintUserMessages: [timelineDot_C_111] 1991-02-13
+[2018.02.25-13.45.47:953][806]LogBlueprintUserMessages: [timelineDot_C_112] 1992-02-13
+[2018.02.25-13.45.47:954][806]LogBlueprintUserMessages: [timelineDot_C_113] 1993-02-13
+[2018.02.25-13.45.47:954][806]LogBlueprintUserMessages: [timelineDot_C_114] 1994-02-13
+[2018.02.25-13.45.47:954][806]LogBlueprintUserMessages: [timelineDot_C_115] 1995-02-13
+[2018.02.25-13.45.47:955][806]LogBlueprintUserMessages: [timelineDot_C_116] 1996-02-13
+[2018.02.25-13.45.47:955][806]LogBlueprintUserMessages: [timelineDot_C_117] 1997-02-13
+[2018.02.25-13.45.47:955][806]LogBlueprintUserMessages: [timelineDot_C_118] 1998-02-13
+[2018.02.25-13.45.47:956][806]LogBlueprintUserMessages: [timelineDot_C_119] 1999-02-13
+[2018.02.25-13.45.47:956][806]LogBlueprintUserMessages: [timelineDot_C_120] 2000-02-13
+[2018.02.25-13.45.47:957][806]LogBlueprintUserMessages: [timelineDot_C_121] 2001-02-13
+[2018.02.25-13.45.47:957][806]LogBlueprintUserMessages: [timelineDot_C_122] 2002-02-13
+[2018.02.25-13.45.47:957][806]LogBlueprintUserMessages: [timelineDot_C_123] 2003-02-13
+[2018.02.25-13.45.47:958][806]LogBlueprintUserMessages: [timelineDot_C_124] 2004-02-13
+[2018.02.25-13.45.47:958][806]LogBlueprintUserMessages: [timelineDot_C_125] 2005-02-13
+[2018.02.25-13.45.47:958][806]LogBlueprintUserMessages: [timelineDot_C_126] 2006-02-13
+[2018.02.25-13.45.47:959][806]LogBlueprintUserMessages: [timelineDot_C_127] 2007-02-13
+[2018.02.25-13.45.47:959][806]LogBlueprintUserMessages: [timelineDot_C_128] 2008-02-13
+[2018.02.25-13.45.47:960][806]LogBlueprintUserMessages: [timelineDot_C_129] 2009-02-13
+[2018.02.25-13.45.47:960][806]LogBlueprintUserMessages: [timelineDot_C_130] 2010-02-13
+[2018.02.25-13.45.47:961][806]LogBlueprintUserMessages: [timelineDot_C_131] 2011-02-13
+[2018.02.25-13.45.47:962][806]LogBlueprintUserMessages: [timelineDot_C_132] 2012-02-13
+[2018.02.25-13.45.47:962][806]LogBlueprintUserMessages: [timelineDot_C_133] 2013-02-13
+[2018.02.25-13.45.47:978][806]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.964
+[2018.02.25-13.45.47:979][806]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.25-13.45.52:554][102]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.25-13.45.52:626][102]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.25-13.46.57:053][945]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.46.57:094][945]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.47.05:877][407]MaterialEditorStats: Base pass shader: 85 instructions
+[2018.02.25-13.47.05:877][407]MaterialEditorStats: Vertex shader: 204 instructions
+[2018.02.25-13.47.05:877][407]MaterialEditorStats: Texture samplers: 4/16
+[2018.02.25-13.48.06:162][ 91]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.48.06:190][ 91]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.48.17:669][958]MaterialEditorStats: Base pass shader: 136 instructions
+[2018.02.25-13.48.17:669][958]MaterialEditorStats: Vertex shader: 204 instructions
+[2018.02.25-13.48.17:669][958]MaterialEditorStats: Texture samplers: 7/16
+[2018.02.25-13.48.22:375][375]LogMaterialEditor: Saving and Compiling material myMat
+[2018.02.25-13.48.23:243][375]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.48.23:310][375]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.48.23:354][375]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.48.23:432][375]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy myMat, compiling. 
+[2018.02.25-13.48.28:120][375]TextureStreamingBuild: Display: Compiling optional shaders took 4.696 seconds.
+[2018.02.25-13.48.34:130][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myMat" FILE="../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/myMat.uasset" SILENT=true
+[2018.02.25-13.48.34:165][375]LogSavePackage: Save=23.12ms
+[2018.02.25-13.48.34:165][375]LogSavePackage: Moving '../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Saved/myMat125B72E9436E40F8AFE55DA8166E3FB6.tmp' to '../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/myMat.uasset'
+[2018.02.25-13.48.34:168][375]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/myMat.uasset
+[2018.02.25-13.48.36:994][611]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.48.43:090][ 66]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.48.43:117][ 66]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_0, compiling. 
+[2018.02.25-13.48.50:588][297]MaterialEditorStats: Base pass shader: 135 instructions
+[2018.02.25-13.48.50:588][297]MaterialEditorStats: Vertex shader: 204 instructions
+[2018.02.25-13.48.50:588][297]MaterialEditorStats: Texture samplers: 7/16
+[2018.02.25-13.49.58:341][959]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.50.11:395][ 40]MaterialEditorStats: Base pass shader: 135 instructions
+[2018.02.25-13.50.11:395][ 40]MaterialEditorStats: Vertex shader: 204 instructions
+[2018.02.25-13.50.11:395][ 40]MaterialEditorStats: Texture samplers: 7/16
+[2018.02.25-13.50.27:851][630]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.50.34:186][834]MaterialEditorStats: Base pass shader: 135 instructions
+[2018.02.25-13.50.34:186][834]MaterialEditorStats: Vertex shader: 204 instructions
+[2018.02.25-13.50.34:186][834]MaterialEditorStats: Texture samplers: 7/16
+[2018.02.25-13.51.06:544][803]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.51.15:072][228]MaterialEditorStats: Base pass shader: 135 instructions
+[2018.02.25-13.51.15:072][228]MaterialEditorStats: Vertex shader: 204 instructions
+[2018.02.25-13.51.15:073][228]MaterialEditorStats: Texture samplers: 7/16
+[2018.02.25-13.51.17:487][442]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.51.19:219][573]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.51.26:778][150]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.51.26:813][150]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_0, compiling. 
+[2018.02.25-13.51.33:208][272]MaterialEditorStats: Base pass shader: 135 instructions
+[2018.02.25-13.51.33:208][272]MaterialEditorStats: Vertex shader: 204 instructions
+[2018.02.25-13.51.33:208][272]MaterialEditorStats: Texture samplers: 7/16
+[2018.02.25-13.51.58:063][446]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.52.07:555][208]LogMaterialEditor: Saving and Compiling material myMat
+[2018.02.25-13.52.08:825][208]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.52.08:900][208]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.52.08:943][208]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.52.09:018][208]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy myMat, compiling. 
+[2018.02.25-13.52.12:524][208]TextureStreamingBuild: Display: Compiling optional shaders took 3.515 seconds.
+[2018.02.25-13.52.18:645][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myMat" FILE="../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/myMat.uasset" SILENT=true
+[2018.02.25-13.52.18:676][208]LogSavePackage: Save=23.22ms
+[2018.02.25-13.52.18:676][208]LogSavePackage: Moving '../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Saved/myMat4A9F47864EB63ED652110D8AEACAFB20.tmp' to '../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/myMat.uasset'
+[2018.02.25-13.52.18:680][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/myMat.uasset
+[2018.02.25-13.52.18:694][208]MaterialEditorStats: Base pass shader: 169 instructions
+[2018.02.25-13.52.18:694][208]MaterialEditorStats: Vertex shader: 204 instructions
+[2018.02.25-13.52.18:694][208]MaterialEditorStats: Texture samplers: 8/16
+[2018.02.25-13.52.55:429][730]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-13.52.55:448][730]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.25-13.52.55:448][730]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.25-13.52.55:448][730]PIE: New page: PIE session: MotionControllerMap (Feb 25, 2018, 3:52:55 PM)
+[2018.02.25-13.52.55:449][730]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.02.25-13.52.55:464][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015276s)
+[2018.02.25-13.52.55:465][730]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.25-13.52.55:465][730]LogPlayLevel: PIE: World Init took: (0.001307s)
+[2018.02.25-13.52.55:466][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.017006s)
+[2018.02.25-13.52.55:500][730]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-13.52.55:519][730]LogInit: FAudioDevice initialized.
+[2018.02.25-13.52.55:554][730]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.25-13.52.55:554][730]LogLoad: Game class is 'GameModeBase'
+[2018.02.25-13.52.55:556][730]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.02.25-14.52.55
+[2018.02.25-13.52.55:557][730]LogWorld: Bringing up level for play took: 0.002027
+[2018.02.25-13.52.55:561][730]LogBlueprintUserMessages: [timelineDot_C_0] 1880-02-13
+[2018.02.25-13.52.55:562][730]LogBlueprintUserMessages: [timelineDot_C_1] 1881-02-13
+[2018.02.25-13.52.55:562][730]LogBlueprintUserMessages: [timelineDot_C_2] 1882-02-13
+[2018.02.25-13.52.55:562][730]LogBlueprintUserMessages: [timelineDot_C_3] 1883-02-13
+[2018.02.25-13.52.55:563][730]LogBlueprintUserMessages: [timelineDot_C_4] 1884-02-13
+[2018.02.25-13.52.55:563][730]LogBlueprintUserMessages: [timelineDot_C_5] 1885-02-13
+[2018.02.25-13.52.55:563][730]LogBlueprintUserMessages: [timelineDot_C_6] 1886-02-13
+[2018.02.25-13.52.55:564][730]LogBlueprintUserMessages: [timelineDot_C_7] 1887-02-13
+[2018.02.25-13.52.55:564][730]LogBlueprintUserMessages: [timelineDot_C_8] 1888-02-13
+[2018.02.25-13.52.55:564][730]LogBlueprintUserMessages: [timelineDot_C_9] 1889-02-13
+[2018.02.25-13.52.55:565][730]LogBlueprintUserMessages: [timelineDot_C_10] 1890-02-13
+[2018.02.25-13.52.55:565][730]LogBlueprintUserMessages: [timelineDot_C_11] 1891-02-13
+[2018.02.25-13.52.55:565][730]LogBlueprintUserMessages: [timelineDot_C_12] 1892-02-13
+[2018.02.25-13.52.55:566][730]LogBlueprintUserMessages: [timelineDot_C_13] 1893-02-13
+[2018.02.25-13.52.55:566][730]LogBlueprintUserMessages: [timelineDot_C_14] 1894-02-13
+[2018.02.25-13.52.55:567][730]LogBlueprintUserMessages: [timelineDot_C_15] 1895-02-13
+[2018.02.25-13.52.55:567][730]LogBlueprintUserMessages: [timelineDot_C_16] 1896-02-13
+[2018.02.25-13.52.55:568][730]LogBlueprintUserMessages: [timelineDot_C_17] 1897-02-13
+[2018.02.25-13.52.55:568][730]LogBlueprintUserMessages: [timelineDot_C_18] 1898-02-13
+[2018.02.25-13.52.55:569][730]LogBlueprintUserMessages: [timelineDot_C_19] 1899-02-13
+[2018.02.25-13.52.55:569][730]LogBlueprintUserMessages: [timelineDot_C_20] 1900-02-13
+[2018.02.25-13.52.55:570][730]LogBlueprintUserMessages: [timelineDot_C_21] 1901-02-13
+[2018.02.25-13.52.55:570][730]LogBlueprintUserMessages: [timelineDot_C_22] 1902-02-13
+[2018.02.25-13.52.55:571][730]LogBlueprintUserMessages: [timelineDot_C_23] 1903-02-13
+[2018.02.25-13.52.55:571][730]LogBlueprintUserMessages: [timelineDot_C_24] 1904-02-13
+[2018.02.25-13.52.55:572][730]LogBlueprintUserMessages: [timelineDot_C_25] 1905-02-13
+[2018.02.25-13.52.55:572][730]LogBlueprintUserMessages: [timelineDot_C_26] 1906-02-13
+[2018.02.25-13.52.55:573][730]LogBlueprintUserMessages: [timelineDot_C_27] 1907-02-13
+[2018.02.25-13.52.55:573][730]LogBlueprintUserMessages: [timelineDot_C_28] 1908-02-13
+[2018.02.25-13.52.55:574][730]LogBlueprintUserMessages: [timelineDot_C_29] 1909-02-13
+[2018.02.25-13.52.55:574][730]LogBlueprintUserMessages: [timelineDot_C_30] 1910-02-13
+[2018.02.25-13.52.55:575][730]LogBlueprintUserMessages: [timelineDot_C_31] 1911-02-13
+[2018.02.25-13.52.55:575][730]LogBlueprintUserMessages: [timelineDot_C_32] 1912-02-13
+[2018.02.25-13.52.55:576][730]LogBlueprintUserMessages: [timelineDot_C_33] 1913-02-13
+[2018.02.25-13.52.55:576][730]LogBlueprintUserMessages: [timelineDot_C_34] 1914-02-13
+[2018.02.25-13.52.55:577][730]LogBlueprintUserMessages: [timelineDot_C_35] 1915-02-13
+[2018.02.25-13.52.55:577][730]LogBlueprintUserMessages: [timelineDot_C_36] 1916-02-13
+[2018.02.25-13.52.55:578][730]LogBlueprintUserMessages: [timelineDot_C_37] 1917-02-13
+[2018.02.25-13.52.55:578][730]LogBlueprintUserMessages: [timelineDot_C_38] 1918-02-13
+[2018.02.25-13.52.55:579][730]LogBlueprintUserMessages: [timelineDot_C_39] 1919-02-13
+[2018.02.25-13.52.55:579][730]LogBlueprintUserMessages: [timelineDot_C_40] 1920-02-13
+[2018.02.25-13.52.55:580][730]LogBlueprintUserMessages: [timelineDot_C_41] 1921-02-13
+[2018.02.25-13.52.55:580][730]LogBlueprintUserMessages: [timelineDot_C_42] 1922-02-13
+[2018.02.25-13.52.55:581][730]LogBlueprintUserMessages: [timelineDot_C_43] 1923-02-13
+[2018.02.25-13.52.55:581][730]LogBlueprintUserMessages: [timelineDot_C_44] 1924-02-13
+[2018.02.25-13.52.55:582][730]LogBlueprintUserMessages: [timelineDot_C_45] 1925-02-13
+[2018.02.25-13.52.55:582][730]LogBlueprintUserMessages: [timelineDot_C_46] 1926-02-13
+[2018.02.25-13.52.55:583][730]LogBlueprintUserMessages: [timelineDot_C_47] 1927-02-13
+[2018.02.25-13.52.55:583][730]LogBlueprintUserMessages: [timelineDot_C_48] 1928-02-13
+[2018.02.25-13.52.55:584][730]LogBlueprintUserMessages: [timelineDot_C_49] 1929-02-13
+[2018.02.25-13.52.55:584][730]LogBlueprintUserMessages: [timelineDot_C_50] 1930-02-13
+[2018.02.25-13.52.55:585][730]LogBlueprintUserMessages: [timelineDot_C_51] 1931-02-13
+[2018.02.25-13.52.55:585][730]LogBlueprintUserMessages: [timelineDot_C_52] 1932-02-13
+[2018.02.25-13.52.55:585][730]LogBlueprintUserMessages: [timelineDot_C_53] 1933-02-13
+[2018.02.25-13.52.55:586][730]LogBlueprintUserMessages: [timelineDot_C_54] 1934-02-13
+[2018.02.25-13.52.55:586][730]LogBlueprintUserMessages: [timelineDot_C_55] 1935-02-13
+[2018.02.25-13.52.55:587][730]LogBlueprintUserMessages: [timelineDot_C_56] 1936-02-13
+[2018.02.25-13.52.55:587][730]LogBlueprintUserMessages: [timelineDot_C_57] 1937-02-13
+[2018.02.25-13.52.55:588][730]LogBlueprintUserMessages: [timelineDot_C_58] 1938-02-13
+[2018.02.25-13.52.55:588][730]LogBlueprintUserMessages: [timelineDot_C_59] 1939-02-13
+[2018.02.25-13.52.55:589][730]LogBlueprintUserMessages: [timelineDot_C_60] 1940-02-13
+[2018.02.25-13.52.55:589][730]LogBlueprintUserMessages: [timelineDot_C_61] 1941-02-13
+[2018.02.25-13.52.55:590][730]LogBlueprintUserMessages: [timelineDot_C_62] 1942-02-13
+[2018.02.25-13.52.55:590][730]LogBlueprintUserMessages: [timelineDot_C_63] 1943-02-13
+[2018.02.25-13.52.55:591][730]LogBlueprintUserMessages: [timelineDot_C_64] 1944-02-13
+[2018.02.25-13.52.55:591][730]LogBlueprintUserMessages: [timelineDot_C_65] 1945-02-13
+[2018.02.25-13.52.55:592][730]LogBlueprintUserMessages: [timelineDot_C_66] 1946-02-13
+[2018.02.25-13.52.55:592][730]LogBlueprintUserMessages: [timelineDot_C_67] 1947-02-13
+[2018.02.25-13.52.55:593][730]LogBlueprintUserMessages: [timelineDot_C_68] 1948-02-13
+[2018.02.25-13.52.55:593][730]LogBlueprintUserMessages: [timelineDot_C_69] 1949-02-13
+[2018.02.25-13.52.55:594][730]LogBlueprintUserMessages: [timelineDot_C_70] 1950-02-13
+[2018.02.25-13.52.55:594][730]LogBlueprintUserMessages: [timelineDot_C_71] 1951-02-13
+[2018.02.25-13.52.55:595][730]LogBlueprintUserMessages: [timelineDot_C_72] 1952-02-13
+[2018.02.25-13.52.55:595][730]LogBlueprintUserMessages: [timelineDot_C_73] 1953-02-13
+[2018.02.25-13.52.55:596][730]LogBlueprintUserMessages: [timelineDot_C_74] 1954-02-13
+[2018.02.25-13.52.55:596][730]LogBlueprintUserMessages: [timelineDot_C_75] 1955-02-13
+[2018.02.25-13.52.55:597][730]LogBlueprintUserMessages: [timelineDot_C_76] 1956-02-13
+[2018.02.25-13.52.55:597][730]LogBlueprintUserMessages: [timelineDot_C_77] 1957-02-13
+[2018.02.25-13.52.55:597][730]LogBlueprintUserMessages: [timelineDot_C_78] 1958-02-13
+[2018.02.25-13.52.55:598][730]LogBlueprintUserMessages: [timelineDot_C_79] 1959-02-13
+[2018.02.25-13.52.55:598][730]LogBlueprintUserMessages: [timelineDot_C_80] 1960-02-13
+[2018.02.25-13.52.55:598][730]LogBlueprintUserMessages: [timelineDot_C_81] 1961-02-13
+[2018.02.25-13.52.55:599][730]LogBlueprintUserMessages: [timelineDot_C_82] 1962-02-13
+[2018.02.25-13.52.55:599][730]LogBlueprintUserMessages: [timelineDot_C_83] 1963-02-13
+[2018.02.25-13.52.55:600][730]LogBlueprintUserMessages: [timelineDot_C_84] 1964-02-13
+[2018.02.25-13.52.55:600][730]LogBlueprintUserMessages: [timelineDot_C_85] 1965-02-13
+[2018.02.25-13.52.55:600][730]LogBlueprintUserMessages: [timelineDot_C_86] 1966-02-13
+[2018.02.25-13.52.55:601][730]LogBlueprintUserMessages: [timelineDot_C_87] 1967-02-13
+[2018.02.25-13.52.55:601][730]LogBlueprintUserMessages: [timelineDot_C_88] 1968-02-13
+[2018.02.25-13.52.55:601][730]LogBlueprintUserMessages: [timelineDot_C_89] 1969-02-13
+[2018.02.25-13.52.55:602][730]LogBlueprintUserMessages: [timelineDot_C_90] 1970-02-13
+[2018.02.25-13.52.55:602][730]LogBlueprintUserMessages: [timelineDot_C_91] 1971-02-13
+[2018.02.25-13.52.55:602][730]LogBlueprintUserMessages: [timelineDot_C_92] 1972-02-13
+[2018.02.25-13.52.55:603][730]LogBlueprintUserMessages: [timelineDot_C_93] 1973-02-13
+[2018.02.25-13.52.55:603][730]LogBlueprintUserMessages: [timelineDot_C_94] 1974-02-13
+[2018.02.25-13.52.55:603][730]LogBlueprintUserMessages: [timelineDot_C_95] 1975-02-13
+[2018.02.25-13.52.55:604][730]LogBlueprintUserMessages: [timelineDot_C_96] 1976-02-13
+[2018.02.25-13.52.55:604][730]LogBlueprintUserMessages: [timelineDot_C_97] 1977-02-13
+[2018.02.25-13.52.55:604][730]LogBlueprintUserMessages: [timelineDot_C_98] 1978-02-13
+[2018.02.25-13.52.55:605][730]LogBlueprintUserMessages: [timelineDot_C_99] 1979-02-13
+[2018.02.25-13.52.55:605][730]LogBlueprintUserMessages: [timelineDot_C_100] 1980-02-13
+[2018.02.25-13.52.55:605][730]LogBlueprintUserMessages: [timelineDot_C_101] 1981-02-13
+[2018.02.25-13.52.55:606][730]LogBlueprintUserMessages: [timelineDot_C_102] 1982-02-13
+[2018.02.25-13.52.55:606][730]LogBlueprintUserMessages: [timelineDot_C_103] 1983-02-13
+[2018.02.25-13.52.55:606][730]LogBlueprintUserMessages: [timelineDot_C_104] 1984-02-13
+[2018.02.25-13.52.55:607][730]LogBlueprintUserMessages: [timelineDot_C_105] 1985-02-13
+[2018.02.25-13.52.55:607][730]LogBlueprintUserMessages: [timelineDot_C_106] 1986-02-13
+[2018.02.25-13.52.55:607][730]LogBlueprintUserMessages: [timelineDot_C_107] 1987-02-13
+[2018.02.25-13.52.55:608][730]LogBlueprintUserMessages: [timelineDot_C_108] 1988-02-13
+[2018.02.25-13.52.55:608][730]LogBlueprintUserMessages: [timelineDot_C_109] 1989-02-13
+[2018.02.25-13.52.55:608][730]LogBlueprintUserMessages: [timelineDot_C_110] 1990-02-13
+[2018.02.25-13.52.55:609][730]LogBlueprintUserMessages: [timelineDot_C_111] 1991-02-13
+[2018.02.25-13.52.55:610][730]LogBlueprintUserMessages: [timelineDot_C_112] 1992-02-13
+[2018.02.25-13.52.55:610][730]LogBlueprintUserMessages: [timelineDot_C_113] 1993-02-13
+[2018.02.25-13.52.55:610][730]LogBlueprintUserMessages: [timelineDot_C_114] 1994-02-13
+[2018.02.25-13.52.55:611][730]LogBlueprintUserMessages: [timelineDot_C_115] 1995-02-13
+[2018.02.25-13.52.55:611][730]LogBlueprintUserMessages: [timelineDot_C_116] 1996-02-13
+[2018.02.25-13.52.55:611][730]LogBlueprintUserMessages: [timelineDot_C_117] 1997-02-13
+[2018.02.25-13.52.55:612][730]LogBlueprintUserMessages: [timelineDot_C_118] 1998-02-13
+[2018.02.25-13.52.55:612][730]LogBlueprintUserMessages: [timelineDot_C_119] 1999-02-13
+[2018.02.25-13.52.55:612][730]LogBlueprintUserMessages: [timelineDot_C_120] 2000-02-13
+[2018.02.25-13.52.55:613][730]LogBlueprintUserMessages: [timelineDot_C_121] 2001-02-13
+[2018.02.25-13.52.55:613][730]LogBlueprintUserMessages: [timelineDot_C_122] 2002-02-13
+[2018.02.25-13.52.55:614][730]LogBlueprintUserMessages: [timelineDot_C_123] 2003-02-13
+[2018.02.25-13.52.55:614][730]LogBlueprintUserMessages: [timelineDot_C_124] 2004-02-13
+[2018.02.25-13.52.55:614][730]LogBlueprintUserMessages: [timelineDot_C_125] 2005-02-13
+[2018.02.25-13.52.55:615][730]LogBlueprintUserMessages: [timelineDot_C_126] 2006-02-13
+[2018.02.25-13.52.55:615][730]LogBlueprintUserMessages: [timelineDot_C_127] 2007-02-13
+[2018.02.25-13.52.55:615][730]LogBlueprintUserMessages: [timelineDot_C_128] 2008-02-13
+[2018.02.25-13.52.55:616][730]LogBlueprintUserMessages: [timelineDot_C_129] 2009-02-13
+[2018.02.25-13.52.55:616][730]LogBlueprintUserMessages: [timelineDot_C_130] 2010-02-13
+[2018.02.25-13.52.55:616][730]LogBlueprintUserMessages: [timelineDot_C_131] 2011-02-13
+[2018.02.25-13.52.55:617][730]LogBlueprintUserMessages: [timelineDot_C_132] 2012-02-13
+[2018.02.25-13.52.55:617][730]LogBlueprintUserMessages: [timelineDot_C_133] 2013-02-13
+[2018.02.25-13.52.55:634][730]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.62
+[2018.02.25-13.52.55:634][730]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.25-13.53.24:578][617]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.25-13.53.24:647][617]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.25-13.54.30:307][389]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.54.39:956][114]LogMaterialEditor: Saving and Compiling material myMat
+[2018.02.25-13.54.41:185][114]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.54.41:261][114]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.54.41:309][114]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.54.41:401][114]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy myMat, compiling. 
+[2018.02.25-13.54.47:588][114]TextureStreamingBuild: Display: Compiling optional shaders took 6.196 seconds.
+[2018.02.25-13.54.53:051][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myMat" FILE="../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/myMat.uasset" SILENT=true
+[2018.02.25-13.54.53:085][114]LogSavePackage: Save=24.11ms
+[2018.02.25-13.54.53:086][114]LogSavePackage: Moving '../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Saved/myMat383555864C0E1D07B0E3BBA8C5740929.tmp' to '../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/myMat.uasset'
+[2018.02.25-13.54.53:103][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/hanna/Git_repos/InfoVisualizationWaterLevelVR/newWaterLevel/waterlvl/Content/myMat.uasset
+[2018.02.25-13.54.53:111][114]MaterialEditorStats: Base pass shader: 169 instructions
+[2018.02.25-13.54.53:111][114]MaterialEditorStats: Vertex shader: 204 instructions
+[2018.02.25-13.54.53:111][114]MaterialEditorStats: Texture samplers: 8/16
+[2018.02.25-13.55.10:028][522]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.55.16:589][919]LogMaterial: Missing cached shader map for material myMat, compiling. 
+[2018.02.25-13.55.29:093][845]MaterialEditorStats: Base pass shader: 169 instructions
+[2018.02.25-13.55.29:093][845]MaterialEditorStats: Vertex shader: 204 instructions
+[2018.02.25-13.55.29:093][845]MaterialEditorStats: Texture samplers: 8/16
+[2018.02.25-13.55.29:458][873]LogMaterial: Missing cached shader map for material myMat, compiling. 
